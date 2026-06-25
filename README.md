@@ -67,7 +67,17 @@ O MVP demonstra o fluxo principal de análise de dados comerciais:
 
 ## Tecnologias
 
-Python, Flask, SQLite, SQLAlchemy, Pandas (ETL), Plotly.js (dashboards), Bootstrap, HTML/CSS/JavaScript, Jinja2/templates Flask, GitHub (versionamento), GitHub Projects ou Trello (acompanhamento de backlog e tarefas).
+- Python
+- Flask
+- SQLite
+- SQLAlchemy
+- Pandas (ETL)
+- Plotly.js (dashboards)
+- Bootstrap
+- HTML/CSS/JavaScript
+- Jinja2 (templates Flask)
+- GitHub (versionamento)
+- GitHub Projects ou Trello (acompanhamento de backlog e tarefas)
 
 ## Organização do repositório
 
@@ -108,20 +118,30 @@ Ver [docs/00_entrega_final/links_entrega.md](docs/00_entrega_final/links_entrega
 | Etapa do ciclo | Documento | Link |
 |---|---|---|
 | Entrega Final | Índice de Documentos | [Abrir](docs/00_entrega_final/indice_documentos.md) |
+| Entrega Final | Checklist da Entrega | [Abrir](docs/00_entrega_final/checklist_entrega.md) |
+| Entrega Final | Links da Entrega | [Abrir](docs/00_entrega_final/links_entrega.md) |
+| Entrega Final | Pendências Humanas | [Abrir](docs/00_entrega_final/pendencias_humanas.md) |
 | Visão e Escopo | Documento de Visão | [Abrir](docs/01_visao_escopo/documento_de_visao.md) |
 | Visão e Escopo | Plano de Projeto | [Abrir](docs/01_visao_escopo/plano_de_projeto.md) |
-| Design Thinking | Mapa da Empatia / Persona / HMW | [Abrir pasta](docs/02_design_thinking/) |
-| Requisitos | Requisitos Funcionais e Não Funcionais | [Abrir pasta](docs/03_requisitos/) |
-| Backlog | Product Backlog e Sprint Backlog | [Abrir pasta](docs/04_backlog/) |
+| Design Thinking | Mapa da Empatia | [Abrir](docs/02_design_thinking/mapa_da_empatia.md) |
+| Design Thinking | Persona e Jornada do Usuário | [Abrir](docs/02_design_thinking/persona_jornada_usuario.md) |
+| Design Thinking | HMW e Ideação | [Abrir](docs/02_design_thinking/hmw_ideacao.md) |
+| Requisitos | Requisitos Funcionais | [Abrir](docs/03_requisitos/requisitos_funcionais.md) |
+| Requisitos | Requisitos Não Funcionais | [Abrir](docs/03_requisitos/requisitos_nao_funcionais.md) |
+| Backlog | Product Backlog | [Abrir](docs/04_backlog/product_backlog.md) |
+| Backlog | Sprint Backlog | [Abrir](docs/04_backlog/sprint_backlog.md) |
 | Sprints | Sprint Planning | [Abrir](docs/05_sprints/sprint_planning.md) |
 | Sprints | Sprint 1 | [Abrir](docs/05_sprints/sprint1_acompanhamento.md) |
 | Sprints | Daily Scrum | [Abrir](docs/05_sprints/daily_scrum.md) |
 | Sprints | Sprint 2 | [Abrir](docs/05_sprints/sprint2_documento_tecnico.md) |
-| Testes | Teste de Usabilidade | [Abrir pasta](docs/06_testes_usabilidade/) |
+| Testes | Roteiro de Usabilidade | [Abrir](docs/06_testes_usabilidade/roteiro_teste_usabilidade.md) |
+| Testes | Relatório de Feedback | [Abrir](docs/06_testes_usabilidade/relatorio_feedback_usuario.md) |
 | Refino | Documento de Refino | [Abrir](docs/07_refino_solucao/documento_refino_solucao.md) |
-| Demo | Demonstração do MVP | [Abrir](demo/README.md) |
+| Apresentação | Roteiro da Demo | [Abrir](docs/08_apresentacao_demo/roteiro_demo.md) |
 | Apresentação | Roteiro do Pitch | [Abrir](docs/08_apresentacao_demo/roteiro_pitch.md) |
 | Retrospectiva/Extensão | Relatório Reflexivo | [Abrir](docs/09_retrospectiva_extensao/relatorio_reflexivo.md) |
+| Protótipo | README do Protótipo | [Abrir](prototipo/README.md) |
+| Demo | README da Demo | [Abrir](demo/README.md) |
 
 ## Documentos da entrega
 
