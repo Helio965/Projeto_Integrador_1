@@ -167,6 +167,7 @@ Ver [docs/00_entrega_final/links_entrega.md](docs/00_entrega_final/links_entrega
 | Teste de Usabilidade | Roteiro e Relatório de Feedback | [Abrir pasta](docs/06_testes_usabilidade/) |
 | Refino da Solução | Documento de Refino | [Abrir arquivo](docs/07_refino_solucao/documento_refino_solucao.md) |
 | Demo | README da Demo | [Abrir arquivo](demo/README.md) |
+| Demo | Roteiro da Demo | [Abrir arquivo](docs/08_apresentacao_demo/roteiro_demo.md) |
 | Apresentação Final | Roteiro do Pitch | [Abrir arquivo](docs/08_apresentacao_demo/roteiro_pitch.md) |
 | Retrospectiva/Extensão | Relatório Reflexivo | [Abrir arquivo](docs/09_retrospectiva_extensao/relatorio_reflexivo.md) |
 | Pendências Humanas | Itens que dependem da equipe | [Abrir arquivo](docs/00_entrega_final/pendencias_humanas.md) |
