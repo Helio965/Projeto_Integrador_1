@@ -105,38 +105,42 @@ Ver [docs/00_entrega_final/links_entrega.md](docs/00_entrega_final/links_entrega
 
 ## Evidências avaliativas
 
-| Etapa do ciclo | Documento |
-|---|---|
-| Documento de Visão | [docs/01_visao_escopo/documento_de_visao.md](docs/01_visao_escopo/documento_de_visao.md) |
-| Plano de Projeto | [docs/01_visao_escopo/plano_de_projeto.md](docs/01_visao_escopo/plano_de_projeto.md) |
-| Design Thinking | [docs/02_design_thinking/](docs/02_design_thinking/) |
-| Requisitos | [docs/03_requisitos/](docs/03_requisitos/) |
-| Backlog | [docs/04_backlog/product_backlog.md](docs/04_backlog/product_backlog.md) |
-| Sprint Planning | [docs/04_backlog/sprint_backlog.md](docs/04_backlog/sprint_backlog.md) |
-| Sprint 1 | [docs/05_sprints/sprint1_acompanhamento.md](docs/05_sprints/sprint1_acompanhamento.md) |
-| Daily Scrum | [docs/05_sprints/daily_scrum.md](docs/05_sprints/daily_scrum.md) |
-| Sprint 2 | [docs/05_sprints/sprint2_documento_tecnico.md](docs/05_sprints/sprint2_documento_tecnico.md) |
-| Teste de Usabilidade | [docs/06_testes_usabilidade/](docs/06_testes_usabilidade/) |
-| Refino da Solução | [docs/07_refino_solucao/documento_refino_solucao.md](docs/07_refino_solucao/documento_refino_solucao.md) |
-| Demo | [demo/README.md](demo/README.md) |
-| Relatório reflexivo | [docs/09_retrospectiva_extensao/relatorio_reflexivo.md](docs/09_retrospectiva_extensao/relatorio_reflexivo.md) |
-
-## Status da entrega
-
-| Item | Status | Local |
+| Etapa do ciclo | Documento | Link |
 |---|---|---|
-| Documento de Visão | Parcial | docs/01_visao_escopo/ |
-| Plano de Projeto | Parcial | docs/01_visao_escopo/ |
-| Design Thinking | Parcial | docs/02_design_thinking/ |
-| Requisitos | Concluído | docs/03_requisitos/ |
-| Backlog | Parcial | docs/04_backlog/ |
-| Sprint 1 | Pendente | docs/05_sprints/ |
-| Daily Scrum | Pendente | docs/05_sprints/ |
-| Sprint 2 | Parcial | docs/05_sprints/ |
-| Teste de Usabilidade | Pendente | docs/06_testes_usabilidade/ |
-| Refino da Solução | Pendente | docs/07_refino_solucao/ |
-| Demo | Pendente de link | demo/ |
-| Apresentação Final | Pendente de link | docs/08_apresentacao_demo/ |
+| Entrega Final | Índice de Documentos | [Abrir](docs/00_entrega_final/indice_documentos.md) |
+| Visão e Escopo | Documento de Visão | [Abrir](docs/01_visao_escopo/documento_de_visao.md) |
+| Visão e Escopo | Plano de Projeto | [Abrir](docs/01_visao_escopo/plano_de_projeto.md) |
+| Design Thinking | Mapa da Empatia / Persona / HMW | [Abrir pasta](docs/02_design_thinking/) |
+| Requisitos | Requisitos Funcionais e Não Funcionais | [Abrir pasta](docs/03_requisitos/) |
+| Backlog | Product Backlog e Sprint Backlog | [Abrir pasta](docs/04_backlog/) |
+| Sprints | Sprint Planning | [Abrir](docs/05_sprints/sprint_planning.md) |
+| Sprints | Sprint 1 | [Abrir](docs/05_sprints/sprint1_acompanhamento.md) |
+| Sprints | Daily Scrum | [Abrir](docs/05_sprints/daily_scrum.md) |
+| Sprints | Sprint 2 | [Abrir](docs/05_sprints/sprint2_documento_tecnico.md) |
+| Testes | Teste de Usabilidade | [Abrir pasta](docs/06_testes_usabilidade/) |
+| Refino | Documento de Refino | [Abrir](docs/07_refino_solucao/documento_refino_solucao.md) |
+| Demo | Demonstração do MVP | [Abrir](demo/README.md) |
+| Apresentação | Roteiro do Pitch | [Abrir](docs/08_apresentacao_demo/roteiro_pitch.md) |
+| Retrospectiva/Extensão | Relatório Reflexivo | [Abrir](docs/09_retrospectiva_extensao/relatorio_reflexivo.md) |
+
+## Documentos da entrega
+
+| Item | Documento | Link |
+|---|---|---|
+| Documento de Visão | Documento de Visão | [Abrir arquivo](docs/01_visao_escopo/documento_de_visao.md) |
+| Plano de Projeto | Plano de Projeto | [Abrir arquivo](docs/01_visao_escopo/plano_de_projeto.md) |
+| Design Thinking | Mapa da Empatia, Persona/Jornada e HMW | [Abrir pasta](docs/02_design_thinking/) |
+| Requisitos | Requisitos Funcionais e Não Funcionais | [Abrir pasta](docs/03_requisitos/) |
+| Backlog | Product Backlog, Sprint Backlog e GitHub Projects/Trello | [Abrir pasta](docs/04_backlog/) |
+| Sprint Planning | Planejamento da Sprint | [Abrir arquivo](docs/05_sprints/sprint_planning.md) |
+| Sprint 1 | Acompanhamento da Sprint 1 | [Abrir arquivo](docs/05_sprints/sprint1_acompanhamento.md) |
+| Daily Scrum | Registro da Daily Scrum | [Abrir arquivo](docs/05_sprints/daily_scrum.md) |
+| Sprint 2 | Documento Técnico da Sprint 2 | [Abrir arquivo](docs/05_sprints/sprint2_documento_tecnico.md) |
+| Teste de Usabilidade | Roteiro e Relatório de Feedback | [Abrir pasta](docs/06_testes_usabilidade/) |
+| Refino da Solução | Documento de Refino | [Abrir arquivo](docs/07_refino_solucao/documento_refino_solucao.md) |
+| Demo | README da Demo | [Abrir arquivo](demo/README.md) |
+| Apresentação Final | Roteiro do Pitch | [Abrir arquivo](docs/08_apresentacao_demo/roteiro_pitch.md) |
+| Retrospectiva/Extensão | Relatório Reflexivo | [Abrir arquivo](docs/09_retrospectiva_extensao/relatorio_reflexivo.md) |
 
 ## Observações sobre documentos sensíveis
 
