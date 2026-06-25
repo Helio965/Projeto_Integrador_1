@@ -46,12 +46,13 @@ open index.html
 1. Login simulado.
 2. Painel ADMIN.
 3. Cadastro de empresa.
-4. Criação de análise.
-5. Upload de VENDAS e COMPRAS.
-6. Processamento ETL simulado.
-7. Dashboard com indicadores.
-8. Devolutiva estratégica.
-9. Visualização pelo CLIENTE.
+4. Cadastro de usuário CLIENTE.
+5. Criação de análise.
+6. Upload de VENDAS e COMPRAS.
+7. Processamento ETL simulado.
+8. Dashboard com indicadores.
+9. Devolutiva estratégica.
+10. Visualização pelo CLIENTE.
 
 ## Indicadores demonstrados
 

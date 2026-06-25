@@ -52,6 +52,7 @@
           <div class="step done">Login</div>
           <div class="step current">Painel</div>
           <div class="step">Empresa</div>
+          <div class="step">Usuário CLIENTE</div>
           <div class="step">Análise</div>
           <div class="step">Upload</div>
           <div class="step">Processamento</div>
@@ -67,20 +68,36 @@
       <div class="card">
         <span class="badge">ADMIN</span>
         <h1>Cadastro de empresa cliente</h1>
-        <p class="muted">Cadastro simulado de uma empresa e do usuário CLIENTE vinculado.</p>
+        <p class="muted">Cadastro simulado de uma empresa atendida.</p>
         <form onsubmit="return false;">
           <label for="emp-nome">Nome da empresa</label>
           <input id="emp-nome" type="text" value="Tintas & Cores Ltda.">
           <label for="emp-segmento">Segmento</label>
           <input id="emp-segmento" type="text" value="Comércio de tintas e material de pintura">
-          <label for="emp-cliente">Usuário CLIENTE</label>
-          <input id="emp-cliente" type="text" value="cliente@tintasecores.com">
+          <button class="btn primary" type="button" data-goto="tela-cliente-cadastro">Salvar e cadastrar usuário CLIENTE</button>
+        </form>
+      </div>
+    </section>
+
+    <!-- 4. Cadastro de usuário CLIENTE -->
+    <section id="tela-cliente-cadastro" class="screen">
+      <div class="card">
+        <span class="badge">ADMIN</span>
+        <h1>Cadastro de usuário CLIENTE</h1>
+        <p class="muted">Cadastro simulado do usuário CLIENTE vinculado à empresa.</p>
+        <form onsubmit="return false;">
+          <label for="cli-empresa">Empresa vinculada</label>
+          <input id="cli-empresa" type="text" value="Tintas & Cores Ltda." readonly>
+          <label for="cli-nome">Nome do usuário</label>
+          <input id="cli-nome" type="text" value="Responsável da loja">
+          <label for="cli-email">E-mail de acesso</label>
+          <input id="cli-email" type="email" value="cliente@tintasecores.com">
           <button class="btn primary" type="button" data-goto="tela-analise">Salvar e criar análise</button>
         </form>
       </div>
     </section>
 
-    <!-- 4. Criação de análise -->
+    <!-- 5. Criação de análise -->
     <section id="tela-analise" class="screen">
       <div class="card">
         <span class="badge">ADMIN</span>
