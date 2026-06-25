@@ -9,10 +9,10 @@
 
 | História | Tarefa | Responsável | Estimativa | Status |
 |---|---|---|---|---|
-| PB01 | Implementar autenticação e perfis ADMIN/CLIENTE | Pendente de definição | Pendente de definição | A fazer |
-| PB02 | Implementar cadastro de empresa | Pendente de definição | Pendente de definição | A fazer |
-| PB03 | Implementar cadastro de usuário cliente | Pendente de definição | Pendente de definição | A fazer |
-| PB04 | Implementar controle de plano e regra de periodicidade | Pendente de definição | Pendente de definição | A fazer |
+| PB01 | Implementar autenticação e perfis ADMIN/CLIENTE | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe | A fazer |
+| PB02 | Implementar cadastro de empresa | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe | A fazer |
+| PB03 | Implementar cadastro de usuário cliente | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe | A fazer |
+| PB04 | Implementar controle de plano e regra de periodicidade | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe | A fazer |
 
 ## Sprint 2
 
@@ -21,10 +21,10 @@
 
 | História | Tarefa | Responsável | Estimativa | Status |
 |---|---|---|---|---|
-| PB05 | Implementar criação de análise por período | Pendente de definição | Pendente de definição | A fazer |
-| PB06 | Implementar upload de vendas e compras | Pendente de definição | Pendente de definição | A fazer |
-| PB07 | Implementar ETL e cálculo de indicadores | Pendente de definição | Pendente de definição | A fazer |
-| PB08 | Implementar dashboard com Plotly.js | Pendente de definição | Pendente de definição | A fazer |
-| PB09 | Implementar devolutiva estratégica | Pendente de definição | Pendente de definição | A fazer |
+| PB05 | Implementar criação de análise por período | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe | A fazer |
+| PB06 | Implementar upload de vendas e compras | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe | A fazer |
+| PB07 | Implementar ETL e cálculo de indicadores | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe | A fazer |
+| PB08 | Implementar dashboard com Plotly.js | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe | A fazer |
+| PB09 | Implementar devolutiva estratégica | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe | A fazer |
 
 Responsáveis possíveis: Hélio, João Vitor, João Cesar, Carlos Eduardo. A equipe deve revisar e confirmar a distribuição real das tarefas e as estimativas ao longo da execução das sprints.

@@ -16,10 +16,10 @@
 
 | Integrante | Contribuição | Reflexão |
 |---|---|---|
-| Hélio | Pendente de definição | Pendente de definição |
-| João Vitor | Pendente de definição | Pendente de definição |
-| João Cesar | Pendente de definição | Pendente de definição |
-| Carlos Eduardo | Pendente de definição | Pendente de definição |
+| Hélio | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe |
+| João Vitor | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe |
+| João Cesar | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe |
+| Carlos Eduardo | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe |
 
 ## Relação com extensão / comunidade
 

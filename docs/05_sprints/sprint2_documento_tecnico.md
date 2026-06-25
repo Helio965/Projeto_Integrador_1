@@ -39,7 +39,7 @@ A regra de análise quinzenal para o plano OURO é validada na camada de aplica�
 
 ## Padrões de código
 
-Pendente de definição pela equipe (convenções de nomenclatura, organização de pastas e estilo de código).
+Pendente de inclusão pela equipe (convenções de nomenclatura, organização de pastas e estilo de código).
 
 ## Ferramentas
 

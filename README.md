@@ -10,10 +10,10 @@ O NEXO importa relatórios de vendas e compras exportados por sistemas de PDV, p
 
 | Integrante | Função no time |
 |---|---|
-| Hélio | Pendente de definição |
-| João Vitor | Pendente de definição |
-| João Cesar | Pendente de definição |
-| Carlos Eduardo | Pendente de definição |
+| Hélio | Pendente de inclusão pela equipe |
+| João Vitor | Pendente de inclusão pela equipe |
+| João Cesar | Pendente de inclusão pela equipe |
+| Carlos Eduardo | Pendente de inclusão pela equipe |
 
 ## Contexto acadêmico
 

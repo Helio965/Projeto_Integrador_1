@@ -10,10 +10,10 @@
 
 | Integrante | Papel | Principais responsabilidades |
 |---|---|---|
-| Hélio | Pendente de definição | Pendente de definição |
-| João Vitor | Pendente de definição | Pendente de definição |
-| João Cesar | Pendente de definição | Pendente de definição |
-| Carlos Eduardo | Pendente de definição | Pendente de definição |
+| Hélio | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe |
+| João Vitor | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe |
+| João Cesar | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe |
+| Carlos Eduardo | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe |
 
 ## 3. Justificativa
 
@@ -62,5 +62,5 @@ Ver seção 13 do [Documento de Visão](documento_de_visao.md).
 | Risco | Impacto | Mitigação |
 |---|---|---|
 | Variação no formato dos relatórios de PDV | Médio | Padronizar a leitura via ETL com tratamento de colunas e formatos esperados |
-| Disponibilidade de tempo da equipe | Pendente de avaliação pela equipe | Pendente de definição |
-| Demais riscos | Pendente de inclusão pela equipe | Pendente de definição |
+| Disponibilidade de tempo da equipe | Pendente de avaliação pela equipe | Pendente de inclusão pela equipe |
+| Demais riscos | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe |

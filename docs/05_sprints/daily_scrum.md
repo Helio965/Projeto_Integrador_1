@@ -16,4 +16,5 @@ Registro das daily scrums realizadas pela equipe. Repetir o bloco abaixo para ca
 | Carlos Eduardo | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe |
 
 - **Relato da equipe:** Pendente de inclusão pela equipe.
+- **Atualização do quadro (GitHub Projects/Trello):** Pendente de inclusão pela equipe.
 - **Observações sobre colaboração:** Pendente de inclusão pela equipe.

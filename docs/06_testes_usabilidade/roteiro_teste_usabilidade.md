@@ -16,7 +16,7 @@ Avaliar se o usuário compreende os indicadores e a devolutiva estratégica e co
 
 - O usuário localiza a análise publicada sem ajuda?
 - O usuário navega entre os indicadores e o histórico com facilidade?
-- Tarefas específicas de navegação a observar: pendente de definição pela equipe.
+- Tarefas específicas de navegação a observar: pendente de inclusão pela equipe.
 
 ## Clareza e comunicação
 
@@ -27,7 +27,7 @@ Avaliar se o usuário compreende os indicadores e a devolutiva estratégica e co
 ## Satisfação geral
 
 - O usuário considera a análise útil para o negócio?
-- Escala de satisfação adotada: pendente de definição pela equipe (por exemplo, de 1 a 5).
+- Escala de satisfação adotada: pendente de inclusão pela equipe (por exemplo, de 1 a 5).
 
 ## Sugestões de melhoria
 
@@ -36,5 +36,5 @@ Avaliar se o usuário compreende os indicadores e a devolutiva estratégica e co
 ## Observações do teste
 
 - **Data prevista:** Pendente de inclusão pela equipe.
-- **Formato:** Pendente de definição pela equipe (presencial ou remoto).
-- **Responsável pela condução:** Pendente de definição pela equipe.
+- **Formato:** Pendente de inclusão pela equipe (presencial ou remoto).
+- **Responsável pela condução:** Pendente de inclusão pela equipe.

@@ -40,10 +40,10 @@ Valor entregue, aprendizados e próximos passos.
 
 | Integrante | Parte do pitch |
 |---|---|
-| Hélio | Pendente de definição |
-| João Vitor | Pendente de definição |
-| João Cesar | Pendente de definição |
-| Carlos Eduardo | Pendente de definição |
+| Hélio | Pendente de inclusão pela equipe |
+| João Vitor | Pendente de inclusão pela equipe |
+| João Cesar | Pendente de inclusão pela equipe |
+| Carlos Eduardo | Pendente de inclusão pela equipe |
 
-- **Tempo total:** Pendente de definição pela equipe.
+- **Tempo total:** Pendente de inclusão pela equipe.
 - **Material de apoio (slides):** Pendente de inclusão pela equipe.

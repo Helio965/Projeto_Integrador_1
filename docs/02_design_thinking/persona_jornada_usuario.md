@@ -2,13 +2,13 @@
 
 ## Persona principal
 
-**Nome:** Pendente de definição pela equipe (nome fictício da persona).
+**Nome:** Pendente de inclusão pela equipe (nome fictício da persona).
 
 Dono de pequeno comércio de tintas/material de pintura, com experiência prática no negócio, mas sem capacidade analítica avançada sobre os dados do PDV.
 
 | Campo | Descrição |
 |---|---|
-| Idade | Pendente de definição pela equipe |
+| Idade | Pendente de inclusão pela equipe |
 | Função | Dono / gestor do comércio |
 | Segmento | Construção, reforma e pintura (loja de tintas como validação inicial) |
 | Ferramentas atuais | Sistema de PDV (relatórios de vendas e compras) |
