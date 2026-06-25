@@ -1,0 +1,35 @@
+# Ambiente / segredos
+.env
+*.log
+
+# Python
+__pycache__/
+.venv/
+venv/
+
+# Node / build
+node_modules/
+dist/
+build/
+
+# Temporários
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Banco de dados local
+*.db
+*.sqlite
+*.sqlite3
+instance/
+
+# Uploads de relatórios reais de clientes
+uploads/
+
+# Documentos sensíveis (nunca versionar)
+docs/privado/
+documentos_sensiveis/
+termo_assinado*
+ata_assinada*
+*cpf*
+*rg*
