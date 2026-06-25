@@ -1,14 +1,37 @@
 # Links da Entrega — NEXO
 
-| Recurso | Link |
+| Item | Link |
 |---|---|
-| Repositório GitHub | https://github.com/helio965/projeto_integrador_1 |
-| Índice de Documentos | https://github.com/Helio965/Projeto_Integrador_1/blob/main/docs/00_entrega_final/indice_documentos.md |
-| Sprint Planning | https://github.com/Helio965/Projeto_Integrador_1/blob/main/docs/05_sprints/sprint_planning.md |
-| GitHub Projects / Trello | Pendente de inclusão pela equipe |
-| Protótipo / Figma / GitHub Pages | Pendente de inclusão pela equipe |
-| Demo em vídeo | Pendente de inclusão pela equipe |
-| Apresentação final | Pendente de inclusão pela equipe |
-| Sala Online (envio oficial) | Pendente de inclusão pela equipe |
+| README | [Abrir](../../README.md) |
+| Índice de Documentos | [Abrir](indice_documentos.md) |
+| Checklist da Entrega | [Abrir](checklist_entrega.md) |
+| Pendências Humanas | [Abrir](pendencias_humanas.md) |
+| Documento de Visão | [Abrir](../01_visao_escopo/documento_de_visao.md) |
+| Plano de Projeto | [Abrir](../01_visao_escopo/plano_de_projeto.md) |
+| Termo de Anuência — Orientação | [Abrir](../01_visao_escopo/termo_de_anuencia_orientacao.md) |
+| Evidências | [Abrir](../01_visao_escopo/evidencias.md) |
+| Mapa da Empatia | [Abrir](../02_design_thinking/mapa_da_empatia.md) |
+| Persona e Jornada do Usuário | [Abrir](../02_design_thinking/persona_jornada_usuario.md) |
+| HMW e Ideação | [Abrir](../02_design_thinking/hmw_ideacao.md) |
+| Requisitos Funcionais | [Abrir](../03_requisitos/requisitos_funcionais.md) |
+| Requisitos Não Funcionais | [Abrir](../03_requisitos/requisitos_nao_funcionais.md) |
+| Product Backlog | [Abrir](../04_backlog/product_backlog.md) |
+| Sprint Backlog | [Abrir](../04_backlog/sprint_backlog.md) |
+| GitHub Projects/Trello — Setup | [Abrir](../04_backlog/github_projects_manual_setup.md) |
+| Sprint Planning | [Abrir](../05_sprints/sprint_planning.md) |
+| Sprint 1 | [Abrir](../05_sprints/sprint1_acompanhamento.md) |
+| Daily Scrum | [Abrir](../05_sprints/daily_scrum.md) |
+| Sprint 2 | [Abrir](../05_sprints/sprint2_documento_tecnico.md) |
+| Roteiro de Usabilidade | [Abrir](../06_testes_usabilidade/roteiro_teste_usabilidade.md) |
+| Relatório de Feedback | [Abrir](../06_testes_usabilidade/relatorio_feedback_usuario.md) |
+| Documento de Refino | [Abrir](../07_refino_solucao/documento_refino_solucao.md) |
+| Roteiro da Demo | [Abrir](../08_apresentacao_demo/roteiro_demo.md) |
+| Roteiro do Pitch | [Abrir](../08_apresentacao_demo/roteiro_pitch.md) |
+| Relatório Reflexivo | [Abrir](../09_retrospectiva_extensao/relatorio_reflexivo.md) |
+| Protótipo | [Abrir](../../prototipo/README.md) |
+| Demo | [Abrir](../../demo/README.md) |
+| GitHub Projects/Trello | Pendente de inclusão pela equipe |
+| Link externo da Demo | Pendente de inclusão pela equipe |
+| Link externo do Protótipo | Pendente de inclusão pela equipe |
 
 > Preencher apenas com links reais, existentes e acessíveis no momento da entrega.

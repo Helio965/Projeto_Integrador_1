@@ -141,6 +141,13 @@ Ver [docs/00_entrega_final/links_entrega.md](docs/00_entrega_final/links_entrega
 | Demo | README da Demo | [Abrir arquivo](demo/README.md) |
 | Apresentação Final | Roteiro do Pitch | [Abrir arquivo](docs/08_apresentacao_demo/roteiro_pitch.md) |
 | Retrospectiva/Extensão | Relatório Reflexivo | [Abrir arquivo](docs/09_retrospectiva_extensao/relatorio_reflexivo.md) |
+| Pendências Humanas | Itens que dependem da equipe | [Abrir arquivo](docs/00_entrega_final/pendencias_humanas.md) |
+
+## Pendências humanas reais
+
+Alguns itens dependem de dados reais da equipe e não devem ser inventados na documentação. A lista de pendências controladas está em:
+
+[Pendências Humanas da Entrega](docs/00_entrega_final/pendencias_humanas.md)
 
 ## Observações sobre documentos sensíveis
 
