@@ -1,29 +1,69 @@
-# Protótipo — NEXO
+# Protótipo Funcional — NEXO
 
-Esta pasta concentra o protótipo do NEXO e suas referências.
+Este diretório contém um protótipo navegável do MVP do NEXO — Faturamento Inteligente.
 
-## Situação atual
+## Objetivo
 
-Ainda não há protótipo navegável ou código de aplicação publicado neste repositório. Esta pasta documenta onde e como o protótipo deverá ser referenciado quando estiver disponível.
+Demonstrar o fluxo principal da solução para a entrega do Projeto Integrador: acesso do ADMIN, cadastro de empresa, criação de análise, upload simulado de relatórios, processamento simulado, visualização de indicadores, devolutiva estratégica e acesso do CLIENTE.
 
-## Onde anexar o protótipo
+## Como visualizar
 
-- **Figma:** inserir aqui o link do arquivo/protótipo quando existir — pendente de inclusão pela equipe.
-- **GitHub Pages:** inserir aqui a URL, caso o protótipo seja publicado — pendente de inclusão pela equipe.
-- **Imagens das telas:** anexar nesta pasta (por exemplo, em `prototipo/telas/`), evitando incluir dados pessoais ou prints com pessoas identificáveis.
+Abra o arquivo:
 
-Os mesmos links, quando definidos, devem também ser registrados em [docs/00_entrega_final/links_entrega.md](../docs/00_entrega_final/links_entrega.md).
+[index.html](index.html)
 
-## Fluxo do MVP a ser demonstrado no protótipo
+Também é possível abrir localmente no navegador.
 
-1. Login (ADMIN).
-2. Cadastro de empresa e usuário CLIENTE.
-3. Criação de análise por período.
-4. Upload dos relatórios de vendas e compras.
-5. Dashboard com os indicadores (Plotly.js).
-6. Devolutiva estratégica.
-7. Visão do CLIENTE: resultados e histórico.
+No Windows:
 
-## Como visualizar/executar
+```bash
+cd prototipo
+start index.html
+```
 
-Pendente de inclusão pela equipe (instruções de visualização do protótipo ou de execução da aplicação, quando disponível).
+No Linux:
+
+```bash
+cd prototipo
+xdg-open index.html
+```
+
+No macOS:
+
+```bash
+cd prototipo
+open index.html
+```
+
+## Arquivos
+
+- `index.html` — telas navegáveis do fluxo do MVP.
+- `styles.css` — estilo visual do protótipo.
+- `script.js` — navegação entre telas e simulações locais (processamento ETL, alternância ADMIN/CLIENTE).
+
+## Fluxo demonstrado
+
+1. Login simulado.
+2. Painel ADMIN.
+3. Cadastro de empresa.
+4. Criação de análise.
+5. Upload de VENDAS e COMPRAS.
+6. Processamento ETL simulado.
+7. Dashboard com indicadores.
+8. Devolutiva estratégica.
+9. Visualização pelo CLIENTE.
+
+## Indicadores demonstrados
+
+- Faturamento total do período.
+- Total comprado no período.
+- Indicador de Pressão de Estoque (sinal gerencial de descasamento entre compras e vendas; não representa lucro, margem ou apuração contábil).
+- Produto mais vendido por quantidade.
+- Produto com maior faturamento.
+- Produto com maior saldo estimado parado.
+
+## Observação
+
+Este protótipo é uma demonstração acadêmica navegável. Os dados exibidos são simulados e servem apenas para demonstrar a proposta de valor do MVP, não representando o sistema final nem resultados reais validados.
+
+A equipe ainda pode complementar com link externo (por exemplo, Figma ou GitHub Pages) ou substituir por uma versão final, registrando os links em [docs/00_entrega_final/links_entrega.md](../docs/00_entrega_final/links_entrega.md).

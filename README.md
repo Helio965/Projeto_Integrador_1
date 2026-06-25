@@ -103,6 +103,8 @@ O MVP demonstra o fluxo principal de análise de dados comerciais:
 
 A documentação do projeto está toda em [`docs/`](docs/) e pode ser lida diretamente pelo GitHub. As orientações de protótipo e demonstração estão em [`prototipo/`](prototipo/) e [`demo/`](demo/).
 
+O protótipo navegável do MVP pode ser aberto pelo arquivo [Protótipo navegável](prototipo/index.html) (demonstração acadêmica com dados simulados).
+
 Instruções de execução da aplicação Flask: pendente de inclusão pela equipe, a ser detalhada quando o código do MVP estiver disponível no repositório (criação de ambiente virtual, instalação de dependências e comando de inicialização).
 
 ## Como contribuir
@@ -143,6 +145,7 @@ Ver [docs/00_entrega_final/links_entrega.md](docs/00_entrega_final/links_entrega
 | Apresentação | Roteiro da Demo | [Abrir](docs/08_apresentacao_demo/roteiro_demo.md) |
 | Apresentação | Roteiro do Pitch | [Abrir](docs/08_apresentacao_demo/roteiro_pitch.md) |
 | Retrospectiva/Extensão | Relatório Reflexivo | [Abrir](docs/09_retrospectiva_extensao/relatorio_reflexivo.md) |
+| Protótipo | Protótipo navegável | [Abrir](prototipo/index.html) |
 | Protótipo | README do Protótipo | [Abrir](prototipo/README.md) |
 | Demo | README da Demo | [Abrir](demo/README.md) |
 

@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NEXO — Faturamento Inteligente</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="brand-mark">NEXO</span>
+      <span class="brand-sub">Faturamento Inteligente</span>
+    </div>
+    <div class="role-switch">
+      <span class="role-label">Visão:</span>
+      <button id="btn-view-admin" class="role-btn active" type="button">ADMIN</button>
+      <button id="btn-view-cliente" class="role-btn" type="button">CLIENTE</button>
+    </div>
+  </header>
+
+  <p class="demo-banner">
+    Protótipo navegável para demonstração acadêmica do Projeto Integrador.
+    Todos os dados exibidos são simulados.
+  </p>
+
+  <main class="container">
+
+    <!-- 1. Login simulado -->
+    <section id="tela-login" class="screen active">
+      <div class="card">
+        <h1>Acesso ao sistema</h1>
+        <p class="muted">Login simulado para demonstração do fluxo do MVP.</p>
+        <form onsubmit="return false;">
+          <label for="login-email">E-mail</label>
+          <input id="login-email" type="email" placeholder="admin@nexo.com" value="admin@nexo.com">
+          <label for="login-senha">Senha</label>
+          <input id="login-senha" type="password" placeholder="••••••••" value="123456">
+          <button class="btn primary" type="button" data-goto="tela-painel-admin">Entrar como ADMIN</button>
+        </form>
+        <p class="muted small">Os campos vêm preenchidos apenas para facilitar a navegação no protótipo.</p>
+      </div>
+    </section>
+
+    <!-- 2. Painel ADMIN -->
+    <section id="tela-painel-admin" class="screen">
+      <div class="card">
+        <span class="badge">ADMIN</span>
+        <h1>Painel administrativo</h1>
+        <p>Bem-vindo, ADMIN. A partir daqui você gerencia empresas clientes, análises e devolutivas estratégicas.</p>
+        <div class="steps">
+          <div class="step done">Login</div>
+          <div class="step current">Painel</div>
+          <div class="step">Empresa</div>
+          <div class="step">Análise</div>
+          <div class="step">Upload</div>
+          <div class="step">Processamento</div>
+          <div class="step">Dashboard</div>
+          <div class="step">Devolutiva</div>
+        </div>
+        <button class="btn primary" type="button" data-goto="tela-empresa">Cadastrar empresa cliente</button>
+      </div>
+    </section>
+
+    <!-- 3. Cadastro de empresa cliente -->
+    <section id="tela-empresa" class="screen">
+      <div class="card">
+        <span class="badge">ADMIN</span>
+        <h1>Cadastro de empresa cliente</h1>
+        <p class="muted">Cadastro simulado de uma empresa e do usuário CLIENTE vinculado.</p>
+        <form onsubmit="return false;">
+          <label for="emp-nome">Nome da empresa</label>
+          <input id="emp-nome" type="text" value="Tintas & Cores Ltda.">
+          <label for="emp-segmento">Segmento</label>
+          <input id="emp-segmento" type="text" value="Comércio de tintas e material de pintura">
+          <label for="emp-cliente">Usuário CLIENTE</label>
+          <input id="emp-cliente" type="text" value="cliente@tintasecores.com">
+          <button class="btn primary" type="button" data-goto="tela-analise">Salvar e criar análise</button>
+        </form>
+      </div>
+    </section>
+
+    <!-- 4. Criação de análise -->
+    <section id="tela-analise" class="screen">
+      <div class="card">
+        <span class="badge">ADMIN</span>
+        <h1>Criação de análise</h1>
+        <p class="muted">Defina o período da análise comercial.</p>
+        <form onsubmit="return false;">
+          <label for="ana-empresa">Empresa</label>
+          <input id="ana-empresa" type="text" value="Tintas & Cores Ltda." readonly>
+          <label for="ana-periodo">Período</label>
+          <select id="ana-periodo">
+            <option>Mensal</option>
+            <option>Quinzenal</option>
+          </select>
+          <label for="ana-mes">Mês de referência</label>
+          <input id="ana-mes" type="text" value="Maio/2026">
+          <button class="btn primary" type="button" data-goto="tela-upload">Avançar para upload</button>
+        </form>
+      </div>
+    </section>
+
+    <!-- 5. Upload simulado de VENDAS e COMPRAS -->
+    <section id="tela-upload" class="screen">
+      <div class="card">
+        <span class="badge">ADMIN</span>
+        <h1>Upload de relatórios</h1>
+        <p class="muted">Upload simulado dos relatórios exportados do PDV.</p>
+        <div class="upload-grid">
+          <div class="upload-box">
+            <h3>Relatório de VENDAS</h3>
+            <p class="file" id="file-vendas">vendas_maio_2026.csv</p>
+            <span class="tag ok">Selecionado (simulado)</span>
+          </div>
+          <div class="upload-box">
+            <h3>Relatório de COMPRAS</h3>
+            <p class="file" id="file-compras">compras_maio_2026.csv</p>
+            <span class="tag ok">Selecionado (simulado)</span>
+          </div>
+        </div>
+        <button class="btn primary" type="button" data-goto="tela-processamento">Enviar relatórios</button>
+      </div>
+    </section>
+
+    <!-- 6. Processamento ETL simulado -->
+    <section id="tela-processamento" class="screen">
+      <div class="card">
+        <span class="badge">SISTEMA</span>
+        <h1>Processamento ETL</h1>
+        <p class="muted">O sistema processa os relatórios de vendas e compras para gerar os indicadores.</p>
+        <div id="etl-status" class="etl-status">Aguardando início do processamento.</div>
+        <div class="etl-bar"><div id="etl-progress" class="etl-progress"></div></div>
+        <button id="btn-processar" class="btn primary" type="button">Processar relatórios</button>
+        <button id="btn-ver-dashboard" class="btn primary hidden" type="button" data-goto="tela-dashboard">Ver dashboard</button>
+      </div>
+    </section>
+
+    <!-- 7. Dashboard com cards de indicadores -->
+    <section id="tela-dashboard" class="screen">
+      <div class="card">
+        <span class="badge">ADMIN</span>
+        <h1>Dashboard de indicadores</h1>
+        <p class="muted small">Dados simulados para demonstração do protótipo — não representam resultado real validado.</p>
+
+        <div class="kpi-grid">
+          <div class="kpi">
+            <span class="kpi-label">Faturamento total</span>
+            <span class="kpi-value">R$ 63.300,00</span>
+          </div>
+          <div class="kpi">
+            <span class="kpi-label">Total comprado</span>
+            <span class="kpi-value">R$ 21.800,00</span>
+          </div>
+          <div class="kpi highlight">
+            <span class="kpi-label">Indicador de Pressão de Estoque</span>
+            <span class="kpi-value">-R$ 41.500,00</span>
+            <span class="kpi-note">Sinal gerencial de descasamento entre compras e vendas. Não representa lucro, margem ou apuração contábil.</span>
+          </div>
+        </div>
+
+        <h2>Produtos de destaque</h2>
+        <table class="data-table">
+          <thead>
+            <tr><th>Indicador</th><th>Produto</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Produto mais vendido (quantidade)</td><td>Tinta Acrílica 18L</td></tr>
+            <tr><td>Produto com maior faturamento</td><td>Tinta Premium 18L</td></tr>
+            <tr><td>Produto com maior saldo estimado parado</td><td>Massa Corrida 25kg</td></tr>
+          </tbody>
+        </table>
+
+        <button class="btn primary" type="button" data-goto="tela-devolutiva">Registrar devolutiva estratégica</button>
+      </div>
+    </section>
+
+    <!-- 8. Devolutiva estratégica -->
+    <section id="tela-devolutiva" class="screen">
+      <div class="card">
+        <span class="badge">ADMIN</span>
+        <h1>Devolutiva estratégica</h1>
+        <p class="muted">O ADMIN registra a interpretação dos indicadores e as recomendações para o CLIENTE.</p>
+        <textarea id="devolutiva-texto" rows="6">No período analisado, o volume comprado ficou bem acima do necessário frente ao faturamento, elevando o Indicador de Pressão de Estoque. Recomenda-se revisar a reposição de Massa Corrida 25kg, que aparece com maior saldo estimado parado, e priorizar a divulgação dos itens de maior giro, como a Tinta Acrílica 18L.</textarea>
+        <button class="btn primary" type="button" data-goto="tela-cliente" data-switch-cliente="true">Publicar para o CLIENTE</button>
+      </div>
+    </section>
+
+    <!-- 9. Visão do CLIENTE -->
+    <section id="tela-cliente" class="screen">
+      <div class="card">
+        <span class="badge cliente">CLIENTE</span>
+        <h1>Resultados da análise</h1>
+        <p class="muted small">Visão do CLIENTE — dados simulados para demonstração do protótipo.</p>
+
+        <div class="kpi-grid">
+          <div class="kpi">
+            <span class="kpi-label">Faturamento total</span>
+            <span class="kpi-value">R$ 63.300,00</span>
+          </div>
+          <div class="kpi">
+            <span class="kpi-label">Total comprado</span>
+            <span class="kpi-value">R$ 21.800,00</span>
+          </div>
+          <div class="kpi highlight">
+            <span class="kpi-label">Indicador de Pressão de Estoque</span>
+            <span class="kpi-value">-R$ 41.500,00</span>
+          </div>
+        </div>
+
+        <h2>Devolutiva do consultor</h2>
+        <p class="devolutiva-box">
+          No período analisado, o volume comprado ficou acima do necessário frente ao faturamento,
+          elevando o Indicador de Pressão de Estoque. Recomenda-se revisar a reposição de Massa Corrida 25kg
+          e priorizar a divulgação dos itens de maior giro, como a Tinta Acrílica 18L.
+        </p>
+
+        <button class="btn ghost" type="button" data-goto="tela-login" data-switch-admin="true">Reiniciar demonstração</button>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="footer">
+    <p>NEXO — Faturamento Inteligente · Projeto Integrador — Análise e Desenvolvimento de Sistemas</p>
+    <p>Integrantes: Hélio · João Vitor · João Cesar · Carlos Eduardo</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

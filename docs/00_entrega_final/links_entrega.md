@@ -28,7 +28,8 @@
 | Roteiro da Demo | [Abrir](../08_apresentacao_demo/roteiro_demo.md) |
 | Roteiro do Pitch | [Abrir](../08_apresentacao_demo/roteiro_pitch.md) |
 | Relatório Reflexivo | [Abrir](../09_retrospectiva_extensao/relatorio_reflexivo.md) |
-| Protótipo | [Abrir](../../prototipo/README.md) |
+| Protótipo navegável | [Abrir protótipo](../../prototipo/index.html) |
+| README do Protótipo | [Abrir README](../../prototipo/README.md) |
 | Demo | [Abrir](../../demo/README.md) |
 | Issues do Backlog | [Abrir Issues](https://github.com/Helio965/Projeto_Integrador_1/issues) |
 | Evidência das Issues do Backlog | [Abrir arquivo](../04_backlog/issues_backlog.md) |
