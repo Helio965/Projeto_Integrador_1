@@ -95,6 +95,10 @@ A documentação do projeto está toda em [`docs/`](docs/) e pode ser lida diret
 
 Instruções de execução da aplicação Flask: pendente de inclusão pela equipe, a ser detalhada quando o código do MVP estiver disponível no repositório (criação de ambiente virtual, instalação de dependências e comando de inicialização).
 
+## Como contribuir
+
+Alterações na documentação ou no código devem ser feitas em uma branch própria, com um Pull Request para a branch `main` antes da mesclagem. Isso facilita a revisão entre os integrantes da equipe e mantém um histórico claro do que foi alterado em cada etapa do projeto.
+
 ## Links importantes
 
 Ver [docs/00_entrega_final/links_entrega.md](docs/00_entrega_final/links_entrega.md).
