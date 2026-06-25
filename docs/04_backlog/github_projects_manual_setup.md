@@ -59,4 +59,4 @@ Lista completa: [Abrir Issues](https://github.com/Helio965/Projeto_Integrador_1/
 
 ## Link do quadro
 
-Pendente de inclusão pela equipe: criar ou vincular o GitHub Project/Trello com as colunas definidas.
+**GitHub Project/Trello:** Pendente de inclusão pela equipe. As Issues do Backlog acima já funcionam como evidência mínima rastreável; a criação ou vinculação de um quadro visual com as colunas definidas é uma tarefa a cargo da equipe.
