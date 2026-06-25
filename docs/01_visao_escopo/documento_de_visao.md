@@ -93,7 +93,7 @@ O Indicador de Pressão de Estoque é um sinal gerencial de descasamento entre c
 
 - Qualidade e padronização dos relatórios exportados pelo PDV podem variar entre comércios.
 - O Indicador de Pressão de Estoque é um sinal gerencial e não substitui apuração contábil.
-- [PREENCHER: demais riscos identificados pela equipe]
+- Demais riscos: pendente de inclusão pela equipe.
 
 ## 13. Critérios de sucesso
 

@@ -4,16 +4,16 @@
 
 - **Projeto:** NEXO — Faturamento Inteligente
 - **Disciplina:** Projeto Integrador — Análise e Desenvolvimento de Sistemas
-- **Período letivo:** [PREENCHER]
+- **Período letivo:** Pendente de inclusão pela equipe
 
 ## 2. Equipe e papéis
 
 | Integrante | Papel | Principais responsabilidades |
 |---|---|---|
-| Hélio | [PREENCHER] | [PREENCHER] |
-| João Vitor | [PREENCHER] | [PREENCHER] |
-| João Cesar | [PREENCHER] | [PREENCHER] |
-| Carlos Eduardo | [PREENCHER] | [PREENCHER] |
+| Hélio | Pendente de definição | Pendente de definição |
+| João Vitor | Pendente de definição | Pendente de definição |
+| João Cesar | Pendente de definição | Pendente de definição |
+| Carlos Eduardo | Pendente de definição | Pendente de definição |
 
 ## 3. Justificativa
 
@@ -27,19 +27,19 @@ O escopo do MVP está definido no [Documento de Visão](documento_de_visao.md). 
 
 | Etapa | Período | Situação |
 |---|---|---|
-| Descoberta e Design Thinking | [PREENCHER] | [PREENCHER] |
-| Requisitos e backlog | [PREENCHER] | [PREENCHER] |
-| Sprint 1 | [PREENCHER] | [PREENCHER] |
-| Sprint 2 | [PREENCHER] | [PREENCHER] |
-| Teste de usabilidade e refino | [PREENCHER] | [PREENCHER] |
-| Demo e apresentação final | [PREENCHER] | [PREENCHER] |
+| Descoberta e Design Thinking | Pendente de inclusão pela equipe | Em andamento |
+| Requisitos e backlog | Pendente de inclusão pela equipe | Concluído |
+| Sprint 1 | Pendente de inclusão pela equipe | Pendente |
+| Sprint 2 | Pendente de inclusão pela equipe | Pendente |
+| Teste de usabilidade e refino | Pendente de inclusão pela equipe | Pendente |
+| Demo e apresentação final | Pendente de inclusão pela equipe | Pendente |
 
 ## 6. Ferramentas
 
 - Versionamento: GitHub.
 - Acompanhamento de backlog/tarefas: GitHub Projects ou Trello.
 - Desenvolvimento: Python, Flask, SQLite, SQLAlchemy, Pandas, Plotly.js, Bootstrap, Jinja2.
-- Prototipação: [PREENCHER: Figma/Miro/FigJam/Canva — manter apenas o que a equipe usou].
+- Prototipação: ferramenta a confirmar pela equipe (pendente de inclusão).
 
 ## 7. Estratégia de desenvolvimento
 
@@ -61,6 +61,6 @@ Ver seção 13 do [Documento de Visão](documento_de_visao.md).
 
 | Risco | Impacto | Mitigação |
 |---|---|---|
-| Variação no formato dos relatórios de PDV | Médio | [PREENCHER] |
-| Disponibilidade de tempo da equipe | [PREENCHER] | [PREENCHER] |
-| [PREENCHER] | [PREENCHER] | [PREENCHER] |
+| Variação no formato dos relatórios de PDV | Médio | Padronizar a leitura via ETL com tratamento de colunas e formatos esperados |
+| Disponibilidade de tempo da equipe | Pendente de avaliação pela equipe | Pendente de definição |
+| Demais riscos | Pendente de inclusão pela equipe | Pendente de definição |

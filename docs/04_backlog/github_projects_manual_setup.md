@@ -20,6 +20,7 @@ Cada cartão deve conter:
 - **Estimativa:** esforço previsto (ex.: pontos ou horas).
 - **Prioridade:** Must / Should / Could (alinhada ao Product Backlog).
 - **Status:** coluna atual do cartão.
+- **Evidência/link:** link de commit, PR ou outra evidência associada à tarefa, quando existir.
 
 ## Boas práticas
 
@@ -27,6 +28,10 @@ Cada cartão deve conter:
 - Mover o cartão entre as colunas conforme o andamento real.
 - Registrar prints do quadro como evidência em [docs/01_visao_escopo/evidencias.md](../01_visao_escopo/evidencias.md).
 
+## Criação dos itens do backlog como cartões/issues
+
+Os itens do Product Backlog devem ser representados como cartões neste quadro (ou como Issues do GitHub, quando a equipe optar por essa abordagem). A criação efetiva dos cartões/Issues, a vinculação às prioridades do Product Backlog e o link do quadro publicado são tarefas a cargo da equipe.
+
 ## Link do quadro
 
-[PREENCHER: URL do GitHub Projects ou do Trello da equipe]
+Pendente de inclusão pela equipe (URL do GitHub Projects ou do Trello da equipe).

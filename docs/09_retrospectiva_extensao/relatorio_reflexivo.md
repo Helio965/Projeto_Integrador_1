@@ -2,33 +2,33 @@
 
 ## Aprendizados da equipe
 
-- [PREENCHER: principais aprendizados técnicos e de processo]
+- Principais aprendizados técnicos e de processo: pendente de inclusão pela equipe.
 
 ## O que funcionou
 
-- [PREENCHER]
+- Pendente de inclusão pela equipe.
 
 ## O que precisa melhorar
 
-- [PREENCHER]
+- Pendente de inclusão pela equipe.
 
 ## Participação e colaboração
 
 | Integrante | Contribuição | Reflexão |
 |---|---|---|
-| Hélio | [PREENCHER] | [PREENCHER] |
-| João Vitor | [PREENCHER] | [PREENCHER] |
-| João Cesar | [PREENCHER] | [PREENCHER] |
-| Carlos Eduardo | [PREENCHER] | [PREENCHER] |
+| Hélio | Pendente de definição | Pendente de definição |
+| João Vitor | Pendente de definição | Pendente de definição |
+| João Cesar | Pendente de definição | Pendente de definição |
+| Carlos Eduardo | Pendente de definição | Pendente de definição |
 
 ## Relação com extensão / comunidade
 
-[PREENCHER: como o projeto se conecta a um comércio/comunidade real e qual benefício gera]
+Pendente de inclusão pela equipe (como o projeto se conecta a um comércio/comunidade real e qual benefício gera).
 
 ## Contribuição do projeto
 
-[PREENCHER: valor gerado pela solução para o público-alvo]
+Pendente de inclusão pela equipe (valor gerado pela solução para o público-alvo).
 
 ## Próximos passos
 
-- [PREENCHER]
+- Pendente de inclusão pela equipe.

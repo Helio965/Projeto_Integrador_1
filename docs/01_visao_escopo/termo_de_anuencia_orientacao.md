@@ -11,8 +11,8 @@ O Termo de Anuência assinado é um documento sensível. Ele autoriza o uso das 
 ## O que pode ficar no repositório
 
 - Esta orientação.
-- [PREENCHER, opcional: modelo do termo em branco, sem dados preenchidos, caso a equipe queira versionar o template]
+- Opcionalmente, um modelo do termo em branco (sem dados preenchidos), caso a equipe decida versionar o template.
 
 ## Local de armazenamento do termo assinado
 
-[PREENCHER: indicar onde o termo assinado está guardado — ex.: envio pela Sala Online, pasta privada da equipe]
+Pendente de inclusão pela equipe (indicar o local de armazenamento, por exemplo: envio pela Sala Online ou pasta privada da equipe).

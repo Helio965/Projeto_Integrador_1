@@ -4,13 +4,15 @@ Esta pasta concentra o protótipo do NEXO e suas referências.
 
 ## Situação atual
 
-[PREENCHER: indicar se já existe protótipo navegável (Figma/GitHub Pages) ou apenas telas estáticas]
+Ainda não há protótipo navegável ou código de aplicação publicado neste repositório. Esta pasta documenta onde e como o protótipo deverá ser referenciado quando estiver disponível.
 
 ## Onde anexar o protótipo
 
-- **Figma:** [PREENCHER: link do arquivo/protótipo]
-- **GitHub Pages:** [PREENCHER: URL, caso publicado]
-- **Imagens das telas:** anexar nesta pasta (ex.: `prototipo/telas/`), evitando incluir dados pessoais ou prints com pessoas identificáveis.
+- **Figma:** inserir aqui o link do arquivo/protótipo quando existir — pendente de inclusão pela equipe.
+- **GitHub Pages:** inserir aqui a URL, caso o protótipo seja publicado — pendente de inclusão pela equipe.
+- **Imagens das telas:** anexar nesta pasta (por exemplo, em `prototipo/telas/`), evitando incluir dados pessoais ou prints com pessoas identificáveis.
+
+Os mesmos links, quando definidos, devem também ser registrados em [docs/00_entrega_final/links_entrega.md](../docs/00_entrega_final/links_entrega.md).
 
 ## Fluxo do MVP a ser demonstrado no protótipo
 
@@ -24,4 +26,4 @@ Esta pasta concentra o protótipo do NEXO e suas referências.
 
 ## Como visualizar/executar
 
-[PREENCHER: instruções de visualização do protótipo ou de execução da aplicação, quando disponível]
+Pendente de inclusão pela equipe (instruções de visualização do protótipo ou de execução da aplicação, quando disponível).

@@ -2,7 +2,7 @@
 
 ## Revisão da Sprint 1
 
-[PREENCHER: o que foi concluído na Sprint 1 e o que entrou na Sprint 2]
+Pendente de inclusão pela equipe (o que foi concluído na Sprint 1 e o que entrou na Sprint 2).
 
 ## Definição técnica
 
@@ -39,7 +39,7 @@ A regra de análise quinzenal para o plano OURO é validada na camada de aplica�
 
 ## Padrões de código
 
-[PREENCHER: convenções adotadas pela equipe — nomenclatura, organização de pastas, estilo]
+Pendente de definição pela equipe (convenções de nomenclatura, organização de pastas e estilo de código).
 
 ## Ferramentas
 
@@ -47,12 +47,12 @@ GitHub (versionamento), GitHub Projects ou Trello (tarefas), e ambiente de desen
 
 ## Funcionalidades implementadas
 
-[PREENCHER: listar as funcionalidades efetivamente implementadas nesta sprint, com link para o commit/PR correspondente]
+Pendente de inclusão pela equipe (lista das funcionalidades efetivamente implementadas nesta sprint, com link para o commit/PR correspondente).
 
 ## Testes básicos
 
-[PREENCHER: descrever os testes realizados — ex.: processamento de um relatório de exemplo e conferência dos indicadores]
+Pendente de inclusão pela equipe (descrição dos testes realizados, por exemplo processamento de um relatório de exemplo e conferência dos indicadores).
 
 ## Link do incremento / protótipo
 
-[PREENCHER: link para o incremento funcional ou protótipo desta sprint]
+Pendente de inclusão pela equipe (link para o incremento funcional ou protótipo desta sprint).

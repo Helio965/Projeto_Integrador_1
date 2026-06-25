@@ -2,11 +2,11 @@
 
 ## Objetivo da Sprint 1
 
-[PREENCHER: ex.: estruturar a base do sistema — autenticação, perfis, cadastros e modelo de dados]
+Estruturar a base do sistema: autenticação, perfis de usuário, cadastros principais e modelo de dados do NEXO.
 
 ## Período
 
-[PREENCHER]
+Pendente de inclusão pela equipe.
 
 ## Histórias selecionadas
 
@@ -16,16 +16,16 @@ Ver Sprint 1 em [docs/04_backlog/sprint_backlog.md](../04_backlog/sprint_backlog
 
 | Tarefa | Responsável | Status | Observação |
 |---|---|---|---|
-| [PREENCHER] | [PREENCHER] | [PREENCHER] | [PREENCHER] |
+| Pendente de inclusão pela equipe | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe |
 
 ## Pair programming
 
-[PREENCHER: registrar se houve programação em par, quem participou e em quais tarefas]
+Pendente de registro pela equipe (informar se houve programação em par, quem participou e em quais tarefas).
 
 ## Evidências
 
-[PREENCHER: links de commits/PRs e prints do quadro de tarefas no encerramento da sprint]
+Pendente de inclusão pela equipe (links de commits/PRs e prints do quadro de tarefas no encerramento da sprint).
 
 ## Resultado parcial
 
-[PREENCHER: o que ficou pronto ao final da Sprint 1 e o que foi movido para a próxima sprint]
+Pendente de inclusão pela equipe (o que ficou pronto ao final da Sprint 1 e o que foi movido para a próxima sprint).

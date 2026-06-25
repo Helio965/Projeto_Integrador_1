@@ -10,13 +10,13 @@ Avaliar se o usuário compreende os indicadores e a devolutiva estratégica e co
 
 - O usuário entende, ao abrir a análise, do que se trata a tela?
 - A organização da informação parece clara à primeira vista?
-- [PREENCHER: observações]
+- Observações adicionais: pendente de inclusão pela equipe.
 
 ## Navegação e interação
 
 - O usuário localiza a análise publicada sem ajuda?
 - O usuário navega entre os indicadores e o histórico com facilidade?
-- [PREENCHER: tarefas específicas de navegação]
+- Tarefas específicas de navegação a observar: pendente de definição pela equipe.
 
 ## Clareza e comunicação
 
@@ -27,14 +27,14 @@ Avaliar se o usuário compreende os indicadores e a devolutiva estratégica e co
 ## Satisfação geral
 
 - O usuário considera a análise útil para o negócio?
-- [PREENCHER: escala de satisfação adotada, ex.: 1 a 5]
+- Escala de satisfação adotada: pendente de definição pela equipe (por exemplo, de 1 a 5).
 
 ## Sugestões de melhoria
 
-- [PREENCHER: espaço para registrar sugestões durante o teste]
+- Espaço para registrar sugestões durante o teste: pendente de inclusão pela equipe.
 
 ## Observações do teste
 
-- **Data prevista:** [PREENCHER]
-- **Formato:** [PREENCHER: presencial/remoto]
-- **Responsável pela condução:** [PREENCHER]
+- **Data prevista:** Pendente de inclusão pela equipe.
+- **Formato:** Pendente de definição pela equipe (presencial ou remoto).
+- **Responsável pela condução:** Pendente de definição pela equipe.

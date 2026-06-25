@@ -6,30 +6,30 @@ Consolida os ajustes feitos na solução a partir do feedback do teste de usabil
 
 - O usuário compreende os indicadores e a devolutiva.
 - O fluxo principal é concluído sem ajuda.
-- [PREENCHER: demais critérios adotados pela equipe]
+- Demais critérios adotados pela equipe: pendente de inclusão.
 
 ## Ajustes realizados
 
 | Problema identificado | Ajuste realizado | Status |
 |---|---|---|
-| [PREENCHER] | [PREENCHER] | [PREENCHER] |
+| Pendente de inclusão pela equipe | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe |
 
 ## Versão refinada
 
-[PREENCHER: descrição da versão da solução após o refino]
+Pendente de inclusão pela equipe (descrição da versão da solução após o refino).
 
 ## Principais melhorias
 
-- [PREENCHER]
+- Pendente de inclusão pela equipe.
 
 ## Análise crítica
 
-[PREENCHER: avaliação da equipe sobre o impacto das melhorias]
+Pendente de inclusão pela equipe (avaliação da equipe sobre o impacto das melhorias).
 
 ## Próximos passos
 
-- [PREENCHER]
+- Pendente de inclusão pela equipe.
 
 ## Conclusão
 
-[PREENCHER: síntese do refino e do estado da solução]
+Pendente de inclusão pela equipe (síntese do refino e do estado da solução).

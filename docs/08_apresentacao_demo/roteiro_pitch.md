@@ -40,10 +40,10 @@ Valor entregue, aprendizados e próximos passos.
 
 | Integrante | Parte do pitch |
 |---|---|
-| Hélio | [PREENCHER] |
-| João Vitor | [PREENCHER] |
-| João Cesar | [PREENCHER] |
-| Carlos Eduardo | [PREENCHER] |
+| Hélio | Pendente de definição |
+| João Vitor | Pendente de definição |
+| João Cesar | Pendente de definição |
+| Carlos Eduardo | Pendente de definição |
 
-- **Tempo total:** [PREENCHER]
-- **Material de apoio (slides):** [PREENCHER]
+- **Tempo total:** Pendente de definição pela equipe.
+- **Material de apoio (slides):** Pendente de inclusão pela equipe.

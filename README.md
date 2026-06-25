@@ -10,10 +10,10 @@ O NEXO importa relatórios de vendas e compras exportados por sistemas de PDV, p
 
 | Integrante | Função no time |
 |---|---|
-| Hélio | [PREENCHER: função no time] |
-| João Vitor | [PREENCHER: função no time] |
-| João Cesar | [PREENCHER: função no time] |
-| Carlos Eduardo | [PREENCHER: função no time] |
+| Hélio | Pendente de definição |
+| João Vitor | Pendente de definição |
+| João Cesar | Pendente de definição |
+| Carlos Eduardo | Pendente de definição |
 
 ## Contexto acadêmico
 
@@ -72,49 +72,67 @@ Python, Flask, SQLite, SQLAlchemy, Pandas (ETL), Plotly.js (dashboards), Bootstr
 ## Organização do repositório
 
 ```
-README.md
-.gitignore
-docs/
-  00_entrega_final/        Checklist e links da entrega
-  01_visao_escopo/         Visão, plano de projeto, anuência, evidências
-  02_design_thinking/      Mapa da empatia, persona/jornada, HMW/ideação
-  03_requisitos/           Requisitos funcionais e não funcionais
-  04_backlog/              Product backlog, sprint backlog, setup do quadro
-  05_sprints/              Acompanhamento de sprints e daily scrum
-  06_testes_usabilidade/   Roteiro e relatório de feedback
-  07_refino_solucao/       Documento de refino
-  08_apresentacao_demo/    Roteiros de demo e pitch
-  09_retrospectiva_extensao/ Relatório reflexivo
-prototipo/                 Documentação e referências do protótipo
-demo/                      Documentação da demonstração do MVP
+.
+├── README.md
+├── docs/
+│   ├── 00_entrega_final/
+│   ├── 01_visao_escopo/
+│   ├── 02_design_thinking/
+│   ├── 03_requisitos/
+│   ├── 04_backlog/
+│   ├── 05_sprints/
+│   ├── 06_testes_usabilidade/
+│   ├── 07_refino_solucao/
+│   ├── 08_apresentacao_demo/
+│   └── 09_retrospectiva_extensao/
+├── prototipo/
+└── demo/
 ```
 
 ## Como executar ou visualizar
 
 A documentação do projeto está toda em [`docs/`](docs/) e pode ser lida diretamente pelo GitHub. As orientações de protótipo e demonstração estão em [`prototipo/`](prototipo/) e [`demo/`](demo/).
 
-[PREENCHER: instruções de execução da aplicação Flask, quando o código do MVP estiver disponível no repositório — ex.: criação de ambiente virtual, instalação de dependências, comando de inicialização]
+Instruções de execução da aplicação Flask: pendente de inclusão pela equipe, a ser detalhada quando o código do MVP estiver disponível no repositório (criação de ambiente virtual, instalação de dependências e comando de inicialização).
 
 ## Links importantes
 
 Ver [docs/00_entrega_final/links_entrega.md](docs/00_entrega_final/links_entrega.md).
 
+## Evidências avaliativas
+
+| Etapa do ciclo | Documento |
+|---|---|
+| Documento de Visão | [docs/01_visao_escopo/documento_de_visao.md](docs/01_visao_escopo/documento_de_visao.md) |
+| Plano de Projeto | [docs/01_visao_escopo/plano_de_projeto.md](docs/01_visao_escopo/plano_de_projeto.md) |
+| Design Thinking | [docs/02_design_thinking/](docs/02_design_thinking/) |
+| Requisitos | [docs/03_requisitos/](docs/03_requisitos/) |
+| Backlog | [docs/04_backlog/product_backlog.md](docs/04_backlog/product_backlog.md) |
+| Sprint Planning | [docs/04_backlog/sprint_backlog.md](docs/04_backlog/sprint_backlog.md) |
+| Sprint 1 | [docs/05_sprints/sprint1_acompanhamento.md](docs/05_sprints/sprint1_acompanhamento.md) |
+| Daily Scrum | [docs/05_sprints/daily_scrum.md](docs/05_sprints/daily_scrum.md) |
+| Sprint 2 | [docs/05_sprints/sprint2_documento_tecnico.md](docs/05_sprints/sprint2_documento_tecnico.md) |
+| Teste de Usabilidade | [docs/06_testes_usabilidade/](docs/06_testes_usabilidade/) |
+| Refino da Solução | [docs/07_refino_solucao/documento_refino_solucao.md](docs/07_refino_solucao/documento_refino_solucao.md) |
+| Demo | [demo/README.md](demo/README.md) |
+| Relatório reflexivo | [docs/09_retrospectiva_extensao/relatorio_reflexivo.md](docs/09_retrospectiva_extensao/relatorio_reflexivo.md) |
+
 ## Status da entrega
 
-| Item | Status |
-|---|---|
-| Documento de Visão | Em estruturação |
-| Plano de Projeto | Em estruturação |
-| Design Thinking | Em estruturação |
-| Requisitos | Em estruturação |
-| Backlog | Em estruturação |
-| Sprint 1 | Em estruturação |
-| Daily Scrum | Em estruturação |
-| Sprint 2 | Em estruturação |
-| Teste de Usabilidade | Em estruturação |
-| Refino da Solução | Em estruturação |
-| Demo | Pendente de link |
-| Apresentação Final | Pendente de link |
+| Item | Status | Local |
+|---|---|---|
+| Documento de Visão | Parcial | docs/01_visao_escopo/ |
+| Plano de Projeto | Parcial | docs/01_visao_escopo/ |
+| Design Thinking | Parcial | docs/02_design_thinking/ |
+| Requisitos | Concluído | docs/03_requisitos/ |
+| Backlog | Parcial | docs/04_backlog/ |
+| Sprint 1 | Pendente | docs/05_sprints/ |
+| Daily Scrum | Pendente | docs/05_sprints/ |
+| Sprint 2 | Parcial | docs/05_sprints/ |
+| Teste de Usabilidade | Pendente | docs/06_testes_usabilidade/ |
+| Refino da Solução | Pendente | docs/07_refino_solucao/ |
+| Demo | Pendente de link | demo/ |
+| Apresentação Final | Pendente de link | docs/08_apresentacao_demo/ |
 
 ## Observações sobre documentos sensíveis
 

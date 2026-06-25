@@ -4,16 +4,16 @@ Registro das daily scrums realizadas pela equipe. Repetir o bloco abaixo para ca
 
 ## Template
 
-- **Data:** [PREENCHER]
-- **Participantes:** [PREENCHER]
-- **Tempo da cerimônia:** [PREENCHER]
+- **Data:** Pendente de inclusão pela equipe.
+- **Participantes:** Pendente de inclusão pela equipe.
+- **Tempo da cerimônia:** Pendente de inclusão pela equipe.
 
 | Integrante | Ontem | Hoje | Impedimentos |
 |---|---|---|---|
-| Hélio | [PREENCHER] | [PREENCHER] | [PREENCHER] |
-| João Vitor | [PREENCHER] | [PREENCHER] | [PREENCHER] |
-| João Cesar | [PREENCHER] | [PREENCHER] | [PREENCHER] |
-| Carlos Eduardo | [PREENCHER] | [PREENCHER] | [PREENCHER] |
+| Hélio | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe |
+| João Vitor | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe |
+| João Cesar | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe |
+| Carlos Eduardo | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe |
 
-- **Relato da equipe:** [PREENCHER]
-- **Observações sobre colaboração:** [PREENCHER]
+- **Relato da equipe:** Pendente de inclusão pela equipe.
+- **Observações sobre colaboração:** Pendente de inclusão pela equipe.

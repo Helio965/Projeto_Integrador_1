@@ -1,32 +1,32 @@
 # Mapa da Empatia — Persona: dono de pequeno comércio de tintas
 
-Mapa construído a partir da persona do projeto. As lacunas marcadas com `[PREENCHER]` devem ser confirmadas com evidências reais de entrevista ou observação.
+Mapa construído a partir da persona do projeto. Os itens marcados como pendentes devem ser confirmados com evidências reais de entrevista ou observação, conforme a equipe avançar na validação com o comércio parceiro.
 
 ## O que vê
 
 - Relatórios de vendas e compras gerados pelo PDV, com muitos números e pouca interpretação.
 - Prateleiras com produtos que giram bem e outros que ficam parados.
 - Movimento da loja e comportamento dos clientes no balcão.
-- [PREENCHER: outras observações reais do contexto da loja]
+- Outras observações do contexto da loja: pendente de validação pela equipe.
 
 ## O que ouve
 
 - Clientes pedindo determinados produtos e marcas com mais frequência.
 - Fornecedores oferecendo reposição e promoções.
-- [PREENCHER: comentários de funcionários, contador ou outros comércios]
+- Comentários de funcionários, contador ou outros comércios: pendente de validação pela equipe.
 
 ## O que pensa e sente
 
 - Insegurança ao decidir o que comprar e em que quantidade.
 - Preocupação com dinheiro parado em produtos que não giram.
 - Vontade de entender melhor o próprio negócio, mas sem tempo e sem ferramenta adequada.
-- [PREENCHER: outros sentimentos relatados pela persona real]
+- Outros sentimentos relatados pela persona real: pendente de validação pela equipe.
 
 ## O que fala e faz
 
 - Toma decisões de compra muitas vezes pela intuição e pela experiência.
 - Consulta os relatórios do PDV de forma pontual, sem análise aprofundada.
-- [PREENCHER: outras atitudes observadas]
+- Outras atitudes observadas: pendente de validação pela equipe.
 
 ## Dores
 
