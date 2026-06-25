@@ -113,6 +113,8 @@ Alterações na documentação ou no código devem ser feitas em uma branch pró
 
 Ver [docs/00_entrega_final/links_entrega.md](docs/00_entrega_final/links_entrega.md).
 
+- Issues do Backlog: [Abrir Issues](https://github.com/Helio965/Projeto_Integrador_1/issues)
+
 ## Evidências avaliativas
 
 | Etapa do ciclo | Documento | Link |
@@ -130,6 +132,7 @@ Ver [docs/00_entrega_final/links_entrega.md](docs/00_entrega_final/links_entrega
 | Requisitos | Requisitos Não Funcionais | [Abrir](docs/03_requisitos/requisitos_nao_funcionais.md) |
 | Backlog | Product Backlog | [Abrir](docs/04_backlog/product_backlog.md) |
 | Backlog | Sprint Backlog | [Abrir](docs/04_backlog/sprint_backlog.md) |
+| Backlog | GitHub Projects/Trello — Setup | [Abrir](docs/04_backlog/github_projects_manual_setup.md) |
 | Sprints | Sprint Planning | [Abrir](docs/05_sprints/sprint_planning.md) |
 | Sprints | Sprint 1 | [Abrir](docs/05_sprints/sprint1_acompanhamento.md) |
 | Sprints | Daily Scrum | [Abrir](docs/05_sprints/daily_scrum.md) |
@@ -151,7 +154,9 @@ Ver [docs/00_entrega_final/links_entrega.md](docs/00_entrega_final/links_entrega
 | Plano de Projeto | Plano de Projeto | [Abrir arquivo](docs/01_visao_escopo/plano_de_projeto.md) |
 | Design Thinking | Mapa da Empatia, Persona/Jornada e HMW | [Abrir pasta](docs/02_design_thinking/) |
 | Requisitos | Requisitos Funcionais e Não Funcionais | [Abrir pasta](docs/03_requisitos/) |
-| Backlog | Product Backlog, Sprint Backlog e GitHub Projects/Trello | [Abrir pasta](docs/04_backlog/) |
+| Backlog | Product Backlog | [Abrir arquivo](docs/04_backlog/product_backlog.md) |
+| Backlog | Sprint Backlog | [Abrir arquivo](docs/04_backlog/sprint_backlog.md) |
+| Backlog | GitHub Projects/Trello — Setup | [Abrir arquivo](docs/04_backlog/github_projects_manual_setup.md) |
 | Sprint Planning | Planejamento da Sprint | [Abrir arquivo](docs/05_sprints/sprint_planning.md) |
 | Sprint 1 | Acompanhamento da Sprint 1 | [Abrir arquivo](docs/05_sprints/sprint1_acompanhamento.md) |
 | Daily Scrum | Registro da Daily Scrum | [Abrir arquivo](docs/05_sprints/daily_scrum.md) |

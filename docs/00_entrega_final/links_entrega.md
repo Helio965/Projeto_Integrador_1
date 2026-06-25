@@ -30,6 +30,7 @@
 | Relatório Reflexivo | [Abrir](../09_retrospectiva_extensao/relatorio_reflexivo.md) |
 | Protótipo | [Abrir](../../prototipo/README.md) |
 | Demo | [Abrir](../../demo/README.md) |
+| Issues do Backlog | [Abrir Issues](https://github.com/Helio965/Projeto_Integrador_1/issues) |
 | GitHub Projects/Trello | Pendente de inclusão pela equipe |
 | Link externo da Demo | Pendente de inclusão pela equipe |
 | Link externo do Protótipo | Pendente de inclusão pela equipe |
