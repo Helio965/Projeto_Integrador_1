@@ -4,7 +4,8 @@
 
 **Projeto:** NEXO — Faturamento Inteligente
 **Equipe:** Hélio, João Vitor, João Cesar e Carlos Eduardo
-**Disciplina:** Projeto Integrador — Análise e Desenvolvimento de Sistemas
+**Disciplina:** Projeto Integrador I — Análise e Desenvolvimento de Sistemas
+**Professora:** Kadidja Valéria Reginaldo de Oliveira
 **Data de referência:** 07/05
 **Unidade:** Unidade 4 — Planejamento da Sprint
 
@@ -36,21 +37,23 @@ Avançar na construção do MVP do NEXO, priorizando o fluxo principal de análi
 
 | ID | História de Usuário | Prioridade | Justificativa |
 |---|---|---|---|
-| US-01 | Como ADMIN, quero acessar o sistema com login e senha para administrar empresas e análises. | Must Have | A autenticação é necessária para controlar o acesso ao sistema. |
-| US-02 | Como ADMIN, quero cadastrar uma empresa cliente para vincular usuários e análises. | Must Have | A empresa é a base para organizar os dados comerciais. |
-| US-03 | Como ADMIN, quero criar uma análise por período para organizar os relatórios enviados. | Must Have | A análise representa o ciclo principal de processamento do MVP. |
-| US-04 | Como ADMIN, quero enviar relatórios de vendas e compras para que o sistema processe os dados. | Must Have | O upload dos relatórios é essencial para gerar indicadores. |
-| US-05 | Como ADMIN, quero visualizar indicadores em dashboard para interpretar os resultados da análise. | Should Have | Os dashboards tornam os dados compreensíveis para tomada de decisão. |
+| US01 | Como ADMIN, quero acessar o sistema com login para garantir acesso restrito por perfil. | Must Have | A autenticação é necessária para controlar o acesso ao sistema. |
+| US02 | Como ADMIN, quero cadastrar uma empresa cliente para organizar as análises por cliente. | Must Have | A empresa é a base para organizar os dados comerciais. |
+| US03 | Como ADMIN, quero cadastrar um usuário CLIENTE vinculado à empresa. | Must Have | O CLIENTE precisa de acesso próprio às suas análises. |
+| US04 | Como ADMIN, quero criar uma análise por período para consolidar os relatórios enviados. | Must Have | A análise representa o ciclo principal de processamento do MVP. |
+| US05 / US06 | Como ADMIN, quero fazer upload simulado dos relatórios de vendas e compras. | Must Have | O upload dos relatórios é essencial para gerar indicadores. |
+
+Os IDs seguem o [Product Backlog](../04_backlog/product_backlog.md) (US01–US22). As demais histórias (indicadores, dashboard, devolutiva e visão CLIENTE) são detalhadas no Sprint Backlog da Sprint 2.
 
 ## 7. Quebra em tarefas
 
 | História | Tarefa | Responsável | Estimativa | Status |
 |---|---|---|---|---|
-| US-01 | Estruturar tela de login e autenticação básica. | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe | Planejado |
-| US-02 | Criar estrutura de cadastro de empresa cliente. | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe | Planejado |
-| US-03 | Criar fluxo de cadastro de análise por período. | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe | Planejado |
-| US-04 | Criar fluxo de upload para relatórios de vendas e compras. | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe | Planejado |
-| US-05 | Estruturar visualização inicial de indicadores/dashboards. | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe | Planejado |
+| US01 | Estruturar tela de acesso e perfis ADMIN/CLIENTE. | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe | Planejado |
+| US02 | Criar estrutura de cadastro de empresa cliente. | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe | Planejado |
+| US03 | Criar estrutura de cadastro de usuário CLIENTE. | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe | Planejado |
+| US04 | Criar fluxo de criação de análise por período. | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe | Planejado |
+| US05 / US06 | Criar fluxo de upload simulado de vendas e compras. | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe | Planejado |
 | Geral | Atualizar documentação da Sprint no GitHub. | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe | Planejado |
 
 ## 8. Estrutura do quadro no GitHub Projects/Trello

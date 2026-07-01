@@ -17,7 +17,7 @@ Este índice reúne os principais artefatos digitais do **Projeto Integrador I**
 | Design Thinking | HMW e Ideação | [Abrir](../02_design_thinking/hmw_ideacao.md) | Base — em revisão |
 | Requisitos | Requisitos Funcionais | [Abrir](../03_requisitos/requisitos_funcionais.md) | Base — em revisão |
 | Requisitos | Requisitos Não Funcionais | [Abrir](../03_requisitos/requisitos_nao_funcionais.md) | Base — em revisão |
-| Backlog | Product Backlog | [Abrir](../04_backlog/product_backlog.md) | Base (recorte do backlog completo) |
+| Backlog | Product Backlog | [Abrir](../04_backlog/product_backlog.md) | Base — US01–US22 |
 | Backlog | Sprint Backlog | [Abrir](../04_backlog/sprint_backlog.md) | Base — em revisão |
 | Backlog | Issues do Backlog | [Abrir](../04_backlog/issues_backlog.md) | Recorte inicial (12 Issues) |
 | Backlog | GitHub Projects/Trello — Setup | [Abrir](../04_backlog/github_projects_manual_setup.md) | Orientação |

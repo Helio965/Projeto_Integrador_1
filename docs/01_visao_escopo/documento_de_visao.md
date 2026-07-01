@@ -58,7 +58,7 @@ Plataforma web com perfis ADMIN e CLIENTE, na qual o ADMIN cadastra empresas, cr
 
 Os planos são uma **regra de negócio secundária** do produto e **não são o centro da entrega de Projeto Integrador I**. São registrados aqui apenas como possibilidade de evolução do produto:
 
-- Planos diferenciam a periodicidade permitida das análises (por exemplo, análise mensal e, em plano superior, análise quinzenal).
+- Planos diferenciam a periodicidade permitida das análises (por exemplo, períodos de análise distintos conforme o nível do plano).
 - Quando aplicada, essa regra é tratada na camada de aplicação (Flask), não como restrição no banco de dados.
 
 O foco da entrega é o fluxo de análise (upload → processamento → indicadores → devolutiva), independentemente do plano.

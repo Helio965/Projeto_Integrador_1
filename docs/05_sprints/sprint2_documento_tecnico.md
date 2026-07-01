@@ -1,58 +1,60 @@
-# Sprint 2 — Documento Técnico
+# Sprint 2 — Implementação Incremental
 
-## Revisão da Sprint 1
+Documento da Sprint 2 do NEXO — Faturamento Inteligente, com foco na **implementação incremental do MVP/protótipo** para o Projeto Integrador I. O objetivo aqui não é modelagem de banco de dados nem regras técnicas avançadas, e sim demonstrar o avanço funcional do fluxo principal.
 
-Pendente de inclusão pela equipe (o que foi concluído na Sprint 1 e o que entrou na Sprint 2).
+> IDs de histórias alinhados ao [Product Backlog](../04_backlog/product_backlog.md) (US01–US22).
 
-## Definição técnica
+## 1. Revisão da Sprint 1
 
-A aplicação é uma plataforma web em Flask, com banco SQLite acessado via SQLAlchemy, processamento de relatórios com Pandas e dashboards com Plotly.js.
+Pendente de inclusão pela equipe (o que foi concluído na Sprint 1 — acesso, cadastros e criação de análise — e o que entrou na Sprint 2).
 
-## Linguagem e frameworks
+## 2. Objetivo da Sprint 2
 
-- Python e Flask (backend e rotas).
-- SQLAlchemy (ORM) sobre SQLite.
-- Pandas (ETL dos relatórios).
-- Plotly.js (dashboards).
-- Bootstrap, HTML/CSS/JavaScript e Jinja2 (interface).
+Avançar do cadastro/criação de análise (Sprint 1) para o **fluxo de resultados**: upload simulado dos relatórios, processamento, cálculo dos indicadores, dashboard, devolutiva estratégica e visão do CLIENTE.
 
-## Arquitetura adotada
+## 3. Histórias trabalhadas nesta Sprint
 
-Arquitetura web baseada em servidor, com renderização de templates (Jinja2) e camada de dados via ORM. O fluxo é: upload de relatórios → ETL com Pandas → persistência dos indicadores → exibição no dashboard → devolutiva estratégica.
+- US05 / US06 — Upload simulado de relatórios de vendas e compras.
+- US07 — Processamento dos dados.
+- US08 — Faturamento total do período.
+- US09 — Total comprado no período.
+- US10 — Indicador de Pressão de Estoque.
+- US11 / US12 — Produto mais vendido e produto com maior faturamento.
+- US14 — Dashboard gerencial.
+- US15 — Devolutiva estratégica.
+- US17 — Visualização pelo CLIENTE.
 
-### Modelo de dados (núcleo do MVP)
+## 4. Incremento funcional previsto
 
-Tabelas mínimas previstas para o núcleo do MVP:
+1. **Upload simulado** de vendas e compras dentro de uma análise já criada.
+2. **Processamento simulado** dos relatórios enviados.
+3. **Cálculo dos indicadores** consolidados do período.
+4. **Dashboard** apresentando os indicadores de forma visual.
+5. **Devolutiva estratégica** registrada pelo ADMIN.
+6. **Visão do CLIENTE** com os resultados e a devolutiva da análise publicada.
 
-| Tabela | Finalidade |
-|---|---|
-| `plano` | Plano da empresa (regra de negócio secundária, não central ao MVP). |
-| `segmento` | Segmentos de mercado das empresas clientes. |
-| `empresa` | Dados da empresa cliente, vinculada a plano e segmento. |
-| `usuario` | Usuários do sistema, com perfil ADMIN ou CLIENTE. |
-| `analise` | Análise criada para um período. |
-| `upload_relatorio` | Arquivos de relatório (VENDAS ou COMPRAS) enviados para uma análise. |
-| `indicador_analise` | Indicadores consolidados calculados para uma análise. |
-| `relatorio_analise` | Devolutiva estratégica registrada/publicada para uma análise. |
+> O Indicador de Pressão de Estoque é apresentado como sinal gerencial de descasamento entre compras e vendas; não representa lucro, margem ou apuração contábil.
 
-Regras de periodicidade por plano, quando aplicadas, são tratadas na camada de aplicação (Flask), não como restrição (CHECK) no banco. Trata-se de regra de negócio secundária, não central ao MVP de Projeto Integrador I.
+## 5. Decisões técnicas simples
 
-## Padrões de código
+- Interface web navegável (protótipo) demonstrando o fluxo de ponta a ponta.
+- Dados **simulados** para a demonstração acadêmica, sem base real de produção.
+- Processamento e indicadores demonstrados de forma simulada no protótipo, refletindo a lógica pretendida do MVP.
+- Versionamento no GitHub e acompanhamento de tarefas no GitHub Projects/Trello.
 
-Pendente de inclusão pela equipe (convenções de nomenclatura, organização de pastas e estilo de código).
+## 6. Testes básicos
 
-## Ferramentas
+Pendente de inclusão pela equipe (por exemplo: enviar um relatório de exemplo e conferir se os indicadores exibidos correspondem ao esperado).
 
-GitHub (versionamento), GitHub Projects ou Trello (tarefas), e ambiente de desenvolvimento local.
+## 7. Evidência do incremento / protótipo
 
-## Funcionalidades implementadas
+- Protótipo navegável: [`prototipo/index.html`](../../prototipo/index.html).
+- Link de incremento adicional (se houver): Pendente de inclusão pela equipe.
 
-Pendente de inclusão pela equipe (lista das funcionalidades efetivamente implementadas nesta sprint, com link para o commit/PR correspondente).
+## 8. Pendências reais desta Sprint
 
-## Testes básicos
+- Registrar o que foi efetivamente implementado, com link para commit/PR.
+- Registrar os testes básicos realizados.
+- Confirmar responsáveis e resultado real da Sprint 2.
 
-Pendente de inclusão pela equipe (descrição dos testes realizados, por exemplo processamento de um relatório de exemplo e conferência dos indicadores).
-
-## Link do incremento / protótipo
-
-Pendente de inclusão pela equipe (link para o incremento funcional ou protótipo desta sprint).
+> Nenhuma implementação concluída é presumida sem registro real da equipe.

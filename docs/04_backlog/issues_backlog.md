@@ -35,28 +35,28 @@ As Issues representam histórias de usuário e tarefas principais do MVP. Elas p
 | US-11 | Teste de usabilidade | [Abrir](https://github.com/Helio965/Projeto_Integrador_1/issues/12) |
 | US-12 | Refino da solução após feedback | [Abrir](https://github.com/Helio965/Projeto_Integrador_1/issues/13) |
 
-## Relação com o Product Backlog
+## Relação com o Product Backlog (US01–US22)
 
-As 12 Issues acima representam um **recorte inicial** do backlog, focado no fluxo principal do MVP. O backlog completo — com a priorização MoSCoW e demais histórias — está documentado em [product_backlog.md](product_backlog.md).
+As 12 Issues acima representam um **recorte inicial** do backlog, focado no fluxo principal do MVP. O backlog completo (US01–US22, com priorização MoSCoW) está em [product_backlog.md](product_backlog.md).
 
-Mapa entre Issues e itens do Product Backlog:
+Mapa entre as Issues atuais e as histórias do Product Backlog:
 
-| Issue (GitHub) | Product Backlog |
+| Issue (GitHub) | História(s) no Product Backlog |
 |---|---|
-| US-01 Login e perfis | PB01 |
-| US-02 Cadastro de empresa | PB02 |
-| US-03 Cadastro de usuário CLIENTE | PB03 |
-| US-04 Criação de análise | PB05 |
-| US-05 Upload de VENDAS | PB06 |
-| US-06 Upload de COMPRAS | PB06 |
-| US-07 Processamento ETL | PB07 |
-| US-08 Geração de indicadores | PB07 |
-| US-09 Dashboard | PB08 |
-| US-10 Devolutiva estratégica | PB09 |
-| US-11 Teste de usabilidade | Processo (validação) |
-| US-12 Refino da solução | Processo (validação) |
+| US-01 Login e perfis | US01 |
+| US-02 Cadastro de empresa | US02 |
+| US-03 Cadastro de usuário CLIENTE | US03 |
+| US-04 Criação de análise por período | US04 |
+| US-05 Upload de VENDAS | US05 |
+| US-06 Upload de COMPRAS | US06 |
+| US-07 Processamento ETL | US07 |
+| US-08 Geração de indicadores | US08, US09, US10, US11, US12, US13 |
+| US-09 Dashboard | US14 |
+| US-10 Devolutiva estratégica | US15, US16 |
+| US-11 Teste de usabilidade | US21 |
+| US-12 Refino da solução | US22 |
 
-Histórias do Product Backlog ainda **não** convertidas em Issues (por exemplo, plano da empresa, segmento e histórico) podem ser criadas como novas Issues em uma próxima etapa, conforme a equipe priorizar.
+Histórias do Product Backlog ainda **não** convertidas em Issues próprias (por exemplo US17 visualização pelo CLIENTE, US18 histórico, US19 mensagens explicativas e US20 protótipo demonstrável) podem ser abertas como novas Issues numa próxima etapa, conforme a equipe priorizar. Nenhuma execução real é presumida.
 
 ## Observação
 

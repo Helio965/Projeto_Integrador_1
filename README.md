@@ -165,7 +165,7 @@ Ver [docs/00_entrega_final/links_entrega.md](docs/00_entrega_final/links_entrega
 | Plano de Projeto | [Abrir](docs/01_visao_escopo/plano_de_projeto.md) | Base — em revisão |
 | Mapa da Empatia, Persona/Jornada e HMW | [Abrir pasta](docs/02_design_thinking/) | Base — em revisão |
 | Requisitos Funcionais e Não Funcionais | [Abrir pasta](docs/03_requisitos/) | Base — em revisão |
-| Product Backlog | [Abrir](docs/04_backlog/product_backlog.md) | Base (recorte do backlog completo) |
+| Product Backlog | [Abrir](docs/04_backlog/product_backlog.md) | Base — US01–US22 |
 | Sprint Backlog | [Abrir](docs/04_backlog/sprint_backlog.md) | Base |
 | GitHub Projects/Trello — Setup | [Abrir](docs/04_backlog/github_projects_manual_setup.md) | Base |
 | Sprint Planning | [Abrir](docs/05_sprints/sprint_planning.md) | Base |

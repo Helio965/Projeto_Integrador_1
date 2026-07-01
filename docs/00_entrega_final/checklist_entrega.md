@@ -38,7 +38,7 @@ Este checklist trata o repositório como **estrutura progressiva**. Em vez de ma
 | GitHub Projects / Trello configurado | Pendente de inclusão pela equipe |
 | Sprint 1 — Acompanhamento | Estrutura criada — pendente de dados reais |
 | Daily Scrum | Estrutura criada — pendente de dados reais |
-| Sprint 2 — Implementação Incremental | Estrutura criada — pendente de dados reais |
+| Sprint 2 — Implementação Incremental | Estrutura criada — pendente de revisão |
 | Plano/Registro de Testes Funcionais | Pendente de inclusão pela equipe |
 
 ## 3. Validação e fechamento
@@ -47,12 +47,12 @@ Este checklist trata o repositório como **estrutura progressiva**. Em vez de ma
 |---|---|
 | Roteiro de Teste de Usabilidade | Roteiro criado — execução pendente |
 | Teste de usabilidade real | Pendente de inclusão pela equipe |
-| Relatório de Feedback do Usuário | Estrutura criada — pendente de dados reais |
-| Documento de Refino da Solução | Estrutura criada — pendente de dados reais |
+| Relatório de Feedback do Usuário | Estrutura criada — pendente de teste real |
+| Documento de Refino da Solução | Estrutura criada — pendente de feedback real |
 | Relatório Reflexivo / Retrospectiva | Estrutura criada — pendente de dados reais |
-| Roteiro da Demo do MVP | Roteiro criado — gravação pendente |
+| Roteiro da Demo do MVP | Criado / em revisão |
 | Demo do MVP (execução/vídeo) | Pendente de inclusão pela equipe |
-| Roteiro do Pitch / Apresentação Final | Roteiro criado — apresentação pendente |
+| Roteiro do Pitch / Apresentação Final | Criado / em revisão |
 | Apresentação final (arquivo HTML em `apresentacao/`) | Pendente de inclusão pela equipe |
 
 ## 4. Pendências humanas reais

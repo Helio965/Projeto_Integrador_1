@@ -20,7 +20,7 @@ Preencher apenas com links reais, existentes e acessíveis no momento da entrega
 | HMW e Ideação | [Abrir](../02_design_thinking/hmw_ideacao.md) | Base — em revisão |
 | Requisitos Funcionais | [Abrir](../03_requisitos/requisitos_funcionais.md) | Base — em revisão |
 | Requisitos Não Funcionais | [Abrir](../03_requisitos/requisitos_nao_funcionais.md) | Base — em revisão |
-| Product Backlog | [Abrir](../04_backlog/product_backlog.md) | Base (recorte do backlog completo) |
+| Product Backlog | [Abrir](../04_backlog/product_backlog.md) | Base — US01–US22 |
 | Sprint Backlog | [Abrir](../04_backlog/sprint_backlog.md) | Base — em revisão |
 | Issues do Backlog (arquivo) | [Abrir](../04_backlog/issues_backlog.md) | Recorte inicial (12 Issues) |
 | GitHub Projects/Trello — Setup | [Abrir](../04_backlog/github_projects_manual_setup.md) | Orientação |
