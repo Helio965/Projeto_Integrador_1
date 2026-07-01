@@ -59,4 +59,8 @@ Lista completa: [Abrir Issues](https://github.com/Helio965/Projeto_Integrador_1/
 
 ## Link do quadro
 
-**GitHub Project/Trello:** Pendente de inclusão pela equipe. As Issues do Backlog acima já funcionam como evidência mínima rastreável; a criação ou vinculação de um quadro visual com as colunas definidas é uma tarefa a cargo da equipe.
+**GitHub Project/Trello:** a preencher pela equipe, caso seja criado um quadro visual além das Issues. As Issues do Backlog acima já funcionam como evidência mínima rastreável; a criação ou vinculação de um quadro visual com as colunas definidas é uma tarefa a cargo da equipe.
+
+## Labels e milestones
+
+A organização sugerida de labels e milestones está documentada em [plano_labels_milestones.md](plano_labels_milestones.md). A equipe deve criar esses itens no GitHub quando confirmar o quadro de acompanhamento.

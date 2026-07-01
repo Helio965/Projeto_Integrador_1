@@ -170,9 +170,9 @@
             <span class="kpi-value">R$ 21.800,00</span>
           </div>
           <div class="kpi highlight">
-            <span class="kpi-label">Indicador de Pressão de Estoque</span>
-            <span class="kpi-value">-R$ 41.500,00</span>
-            <span class="kpi-note">Sinal gerencial de descasamento entre compras e vendas. Não representa lucro, margem ou apuração contábil.</span>
+            <span class="kpi-label">Pressão de Estoque</span>
+            <span class="kpi-value">Baixa no período simulado</span>
+            <span class="kpi-note">Diferença gerencial compras x vendas: R$ 41.500,00. Este indicador é um sinal gerencial de descasamento entre compras e vendas. Não representa lucro, margem, prejuízo ou apuração contábil.</span>
           </div>
         </div>
 
@@ -198,7 +198,7 @@
         <span class="badge">ADMIN</span>
         <h1>Devolutiva estratégica</h1>
         <p class="muted">O ADMIN registra a interpretação dos indicadores e as recomendações para o CLIENTE.</p>
-        <textarea id="devolutiva-texto" rows="6">No período analisado, o volume comprado ficou bem acima do necessário frente ao faturamento, elevando o Indicador de Pressão de Estoque. Recomenda-se revisar a reposição de Massa Corrida 25kg, que aparece com maior saldo estimado parado, e priorizar a divulgação dos itens de maior giro, como a Tinta Acrílica 18L.</textarea>
+        <textarea id="devolutiva-texto" rows="6">No período analisado, o total comprado ficou abaixo do faturamento, indicando Pressão de Estoque baixa no cenário simulado. Recomenda-se acompanhar a reposição de Massa Corrida 25kg, que aparece com maior saldo estimado parado, e priorizar a divulgação dos itens de maior giro, como a Tinta Acrílica 18L.</textarea>
         <button class="btn primary" type="button" data-goto="tela-cliente" data-switch-cliente="true">Publicar para o CLIENTE</button>
       </div>
     </section>
@@ -209,6 +209,7 @@
         <span class="badge cliente">CLIENTE</span>
         <h1>Resultados da análise</h1>
         <p class="muted small">Visão do CLIENTE — dados simulados para demonstração do protótipo.</p>
+        <p class="status-message">Devolutiva publicada com sucesso para o CLIENTE.</p>
 
         <div class="kpi-grid">
           <div class="kpi">
@@ -220,17 +221,29 @@
             <span class="kpi-value">R$ 21.800,00</span>
           </div>
           <div class="kpi highlight">
-            <span class="kpi-label">Indicador de Pressão de Estoque</span>
-            <span class="kpi-value">-R$ 41.500,00</span>
+            <span class="kpi-label">Pressão de Estoque</span>
+            <span class="kpi-value">Baixa no período simulado</span>
+            <span class="kpi-note">Sinal gerencial, não contábil.</span>
           </div>
         </div>
 
         <h2>Devolutiva do consultor</h2>
         <p class="devolutiva-box">
-          No período analisado, o volume comprado ficou acima do necessário frente ao faturamento,
-          elevando o Indicador de Pressão de Estoque. Recomenda-se revisar a reposição de Massa Corrida 25kg
+          No período analisado, o total comprado ficou abaixo do faturamento,
+          indicando Pressão de Estoque baixa no cenário simulado. Recomenda-se acompanhar a reposição de Massa Corrida 25kg
           e priorizar a divulgação dos itens de maior giro, como a Tinta Acrílica 18L.
         </p>
+
+        <h2>Histórico de análises</h2>
+        <table class="data-table">
+          <thead>
+            <tr><th>Período</th><th>Status</th><th>Resumo</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Maio/2026</td><td>Publicada</td><td>Análise atual com indicadores e devolutiva estratégica.</td></tr>
+            <tr><td>Abril/2026</td><td>Exemplo simulado</td><td>Registro ilustrativo para demonstrar histórico básico.</td></tr>
+          </tbody>
+        </table>
 
         <button class="btn ghost" type="button" data-goto="tela-login" data-switch-admin="true">Reiniciar demonstração</button>
       </div>

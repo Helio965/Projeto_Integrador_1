@@ -1,16 +1,16 @@
-# Apresentação — NEXO (Projeto Integrador I)
+# Apresentação Final - NEXO
 
-Esta pasta reúne o material da apresentação final / pitch da entrega de **Projeto Integrador I**.
+Esta pasta reúne os materiais de apoio para a apresentação final do **Projeto Integrador I**.
 
-## O que deve entrar aqui
+## Conteúdo
 
-- Arquivo HTML final da apresentação (slides navegáveis), quando produzido pela equipe.
-- Arquivo esperado: `nexo_apresentacao_pi1_final.html`.
-- Eventuais recursos estáticos usados pela apresentação (imagens, CSS), se houver.
+- Roteiro do pitch: [../docs/08_apresentacao_demo/roteiro_pitch.md](../docs/08_apresentacao_demo/roteiro_pitch.md)
+- Roteiro da demo: [../docs/08_apresentacao_demo/roteiro_demo.md](../docs/08_apresentacao_demo/roteiro_demo.md)
+- Protótipo navegável: [../prototipo/index.html](../prototipo/index.html)
+- Estrutura sugerida da apresentação: [estrutura_apresentacao.md](estrutura_apresentacao.md)
 
-## Situação atual
+## Observação
 
-- Arquivo HTML final da apresentação (`nexo_apresentacao_pi1_final.html`): **Pendente de inclusão pela equipe**.
-- O roteiro que orienta a apresentação já existe em [`docs/08_apresentacao_demo/roteiro_pitch.md`](../docs/08_apresentacao_demo/roteiro_pitch.md).
+Caso a equipe produza uma apresentação em HTML, PDF ou slides, o arquivo final deve ser incluído nesta pasta ou anexado no canal oficial da disciplina, conforme orientação da professora.
 
-> Não incluir aqui conteúdo inventado. O arquivo de apresentação deve ser adicionado apenas quando realmente produzido.
+Não incluir links, arquivos ou evidências que ainda não existam.

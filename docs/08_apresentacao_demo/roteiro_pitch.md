@@ -26,11 +26,11 @@ Design Thinking, requisitos, backlog e sprints, com versionamento em GitHub e ac
 
 ## 7. Validação e feedback
 
-Resultados do teste de usabilidade com usuário representativo da persona.
+Roteiro de teste de usabilidade e estrutura de feedback. Se houver teste real antes da apresentação, apresentar apenas os resultados realmente coletados.
 
 ## 8. Refino
 
-Principais melhorias aplicadas após o feedback.
+Refinos já aplicados no protótipo e ajustes adicionais a registrar após feedback real.
 
 ## 9. Conclusão
 
@@ -40,10 +40,10 @@ Valor entregue, aprendizados e próximos passos.
 
 | Integrante | Parte do pitch |
 |---|---|
-| Hélio | Pendente de inclusão pela equipe |
-| João Vitor | Pendente de inclusão pela equipe |
-| João Cesar | Pendente de inclusão pela equipe |
-| Carlos Eduardo | Pendente de inclusão pela equipe |
+| Hélio | Abertura, problema, objetivo do NEXO e organização do GitHub |
+| João Vitor | Processo ágil, backlog, sprints e testes |
+| João Cesar | Demonstração do protótipo e fluxo da interface |
+| Carlos Eduardo | Requisitos, validação, refino e conclusão |
 
-- **Tempo total:** Pendente de inclusão pela equipe.
-- **Material de apoio (slides):** Pendente de inclusão pela equipe.
+- **Tempo total:** A confirmar pela equipe conforme orientação da apresentação.
+- **Material de apoio (slides):** Incluir em `apresentacao/` ou anexar pelo canal oficial, se exigido.

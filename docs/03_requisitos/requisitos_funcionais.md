@@ -20,3 +20,5 @@
 | RF16 | Histórico de análises | O sistema deve manter e exibir o histórico de análises publicadas por empresa. |
 
 > **Nota:** RF06 e RF07 (plano da empresa e periodicidade por plano) são regras de negócio **secundárias** e não são o foco da entrega de Projeto Integrador I. O núcleo avaliado é o fluxo de análise: cadastro → criação de análise → upload → processamento (ETL) → indicadores → dashboard → devolutiva.
+
+> **Nota técnica do PI I:** nesta entrega, os requisitos são demonstrados em protótipo navegável estático com dados simulados. O processamento real com Pandas e dashboards dinâmicos com Plotly.js representam evolução técnica prevista, não backend funcional já versionado.

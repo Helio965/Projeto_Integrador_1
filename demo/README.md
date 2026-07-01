@@ -8,19 +8,19 @@ Apresentar, de forma curta e objetiva, o problema identificado, a solução prop
 
 A demo deve mostrar como o NEXO transforma relatórios de vendas e compras exportados de um PDV em indicadores gerenciais, dashboard e devolutiva estratégica para o cliente.
 
+## Formato da demo
+
+- Demo prevista para apresentação ao vivo com o protótipo navegável local.
+- Vídeo da demo deve ser informado apenas se a equipe realmente gravar e possuir link acessível.
+
 ## Link do vídeo da demo
 
-Pendente de inclusão pela equipe.
+A preencher pela equipe somente se houver vídeo gravado.
 
 Quando o vídeo estiver gravado, inserir aqui o link real e também atualizar:
 
 - [Links da Entrega](../docs/00_entrega_final/links_entrega.md)
 - [Pendências Humanas](../docs/00_entrega_final/pendencias_humanas.md)
-
-## Formato da demo
-
-- Demo ao vivo com protótipo local — pendente de confirmação pela equipe.
-- Vídeo da demo — pendente de inclusão pela equipe.
 
 ## Protótipo utilizado na demo
 

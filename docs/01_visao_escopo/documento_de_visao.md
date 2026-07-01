@@ -63,6 +63,8 @@ Os planos são uma **regra de negócio secundária** do produto e **não são o 
 
 O foco da entrega é o fluxo de análise (upload → processamento → indicadores → devolutiva), independentemente do plano.
 
+> Para o Projeto Integrador I, esse fluxo é demonstrado por um protótipo navegável estático em HTML/CSS/JavaScript. Python, Flask, Pandas, SQLite, SQLAlchemy, Plotly.js e Jinja2 ficam registrados como arquitetura prevista para evolução técnica, não como aplicação backend funcional já entregue neste repositório.
+
 ### Indicadores
 
 - Faturamento total do período.
@@ -95,7 +97,7 @@ O Indicador de Pressão de Estoque é um sinal gerencial de descasamento entre c
 
 - Qualidade e padronização dos relatórios exportados pelo PDV podem variar entre comércios.
 - O Indicador de Pressão de Estoque é um sinal gerencial e não substitui apuração contábil.
-- Demais riscos: pendente de inclusão pela equipe.
+- Demais riscos: a complementar pela equipe caso novos riscos sejam identificados.
 
 ## 13. Critérios de sucesso
 
