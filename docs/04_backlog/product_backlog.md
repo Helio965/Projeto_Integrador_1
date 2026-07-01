@@ -2,6 +2,8 @@
 
 Histórias de usuário priorizadas pela técnica MoSCoW (Must / Should / Could / Won't).
 
+> **Nota:** esta é a versão de trabalho do Product Backlog, sincronizada com o backlog completo aprovado pela equipe. O backlog completo pode conter histórias adicionais além das listadas aqui; elas serão incorporadas conforme forem consolidadas. As 12 Issues abertas no GitHub representam um **recorte inicial** deste backlog (ver [issues_backlog.md](issues_backlog.md)).
+
 ## Must Have
 
 | ID | História | Requisito |

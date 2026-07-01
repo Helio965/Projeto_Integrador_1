@@ -49,7 +49,7 @@ O MVP demonstra o fluxo principal de análise de dados comerciais:
 ## Fluxo principal
 
 1. ADMIN cria ou seleciona uma empresa cliente.
-2. ADMIN cria uma análise mensal ou quinzenal conforme o plano.
+2. ADMIN cria uma análise para um período.
 3. ADMIN realiza upload dos relatórios de vendas e compras.
 4. Sistema processa os arquivos e calcula os indicadores.
 5. Sistema apresenta os resultados em dashboard.
@@ -157,26 +157,28 @@ Ver [docs/00_entrega_final/links_entrega.md](docs/00_entrega_final/links_entrega
 
 ## Documentos da entrega
 
-| Item | Documento | Link |
+> **Nota sobre os documentos:** os arquivos `.md` deste repositório são versões de trabalho, sincronizadas com os documentos oficiais produzidos pela equipe. Onde a versão oficial completa (`.docx`) for exigida, ela será anexada pelo canal da disciplina. O status abaixo distingue documentos-base já consolidados de itens que ainda são estrutura/template pendente de dados reais.
+
+| Documento | Link | Status |
 |---|---|---|
-| Documento de Visão | Documento de Visão | [Abrir arquivo](docs/01_visao_escopo/documento_de_visao.md) |
-| Plano de Projeto | Plano de Projeto | [Abrir arquivo](docs/01_visao_escopo/plano_de_projeto.md) |
-| Design Thinking | Mapa da Empatia, Persona/Jornada e HMW | [Abrir pasta](docs/02_design_thinking/) |
-| Requisitos | Requisitos Funcionais e Não Funcionais | [Abrir pasta](docs/03_requisitos/) |
-| Backlog | Product Backlog | [Abrir arquivo](docs/04_backlog/product_backlog.md) |
-| Backlog | Sprint Backlog | [Abrir arquivo](docs/04_backlog/sprint_backlog.md) |
-| Backlog | GitHub Projects/Trello — Setup | [Abrir arquivo](docs/04_backlog/github_projects_manual_setup.md) |
-| Sprint Planning | Planejamento da Sprint | [Abrir arquivo](docs/05_sprints/sprint_planning.md) |
-| Sprint 1 | Acompanhamento da Sprint 1 | [Abrir arquivo](docs/05_sprints/sprint1_acompanhamento.md) |
-| Daily Scrum | Registro da Daily Scrum | [Abrir arquivo](docs/05_sprints/daily_scrum.md) |
-| Sprint 2 | Documento Técnico da Sprint 2 | [Abrir arquivo](docs/05_sprints/sprint2_documento_tecnico.md) |
-| Teste de Usabilidade | Roteiro e Relatório de Feedback | [Abrir pasta](docs/06_testes_usabilidade/) |
-| Refino da Solução | Documento de Refino | [Abrir arquivo](docs/07_refino_solucao/documento_refino_solucao.md) |
-| Demo | README da Demo | [Abrir arquivo](demo/README.md) |
-| Demo | Roteiro da Demo | [Abrir arquivo](docs/08_apresentacao_demo/roteiro_demo.md) |
-| Apresentação Final | Roteiro do Pitch | [Abrir arquivo](docs/08_apresentacao_demo/roteiro_pitch.md) |
-| Retrospectiva/Extensão | Relatório Reflexivo | [Abrir arquivo](docs/09_retrospectiva_extensao/relatorio_reflexivo.md) |
-| Pendências Humanas | Itens que dependem da equipe | [Abrir arquivo](docs/00_entrega_final/pendencias_humanas.md) |
+| Documento de Visão | [Abrir](docs/01_visao_escopo/documento_de_visao.md) | Base — em revisão |
+| Plano de Projeto | [Abrir](docs/01_visao_escopo/plano_de_projeto.md) | Base — em revisão |
+| Mapa da Empatia, Persona/Jornada e HMW | [Abrir pasta](docs/02_design_thinking/) | Base — em revisão |
+| Requisitos Funcionais e Não Funcionais | [Abrir pasta](docs/03_requisitos/) | Base — em revisão |
+| Product Backlog | [Abrir](docs/04_backlog/product_backlog.md) | Base (recorte do backlog completo) |
+| Sprint Backlog | [Abrir](docs/04_backlog/sprint_backlog.md) | Base |
+| GitHub Projects/Trello — Setup | [Abrir](docs/04_backlog/github_projects_manual_setup.md) | Base |
+| Sprint Planning | [Abrir](docs/05_sprints/sprint_planning.md) | Base |
+| Sprint 1 — Acompanhamento | [Abrir](docs/05_sprints/sprint1_acompanhamento.md) | Estrutura — pendente de dados reais |
+| Daily Scrum | [Abrir](docs/05_sprints/daily_scrum.md) | Estrutura — pendente de dados reais |
+| Sprint 2 — Documento Técnico | [Abrir](docs/05_sprints/sprint2_documento_tecnico.md) | Estrutura — pendente de dados reais |
+| Roteiro de Teste de Usabilidade | [Abrir](docs/06_testes_usabilidade/roteiro_teste_usabilidade.md) | Roteiro pronto — execução pendente |
+| Relatório de Feedback do Usuário | [Abrir](docs/06_testes_usabilidade/relatorio_feedback_usuario.md) | Template — pendente de dados reais |
+| Documento de Refino da Solução | [Abrir](docs/07_refino_solucao/documento_refino_solucao.md) | Template — pendente de dados reais |
+| Roteiro da Demo | [Abrir](docs/08_apresentacao_demo/roteiro_demo.md) | Roteiro pronto — gravação pendente |
+| Roteiro do Pitch / Apresentação Final | [Abrir](docs/08_apresentacao_demo/roteiro_pitch.md) | Roteiro pronto — apresentação pendente |
+| Relatório Reflexivo / Retrospectiva | [Abrir](docs/09_retrospectiva_extensao/relatorio_reflexivo.md) | Template — pendente de dados reais |
+| Pendências Reais / Humanas | [Reais](docs/00_entrega_final/pendencias_reais.md) · [Humanas](docs/00_entrega_final/pendencias_humanas.md) | Em acompanhamento |
 
 ## Status geral
 

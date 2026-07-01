@@ -1,68 +1,79 @@
 # Checklist da Entrega — NEXO (PI I)
 
-Este checklist trata o repositório como **estrutura progressiva**. Ele separa o que já está **estruturado no repositório** (template/documento criado) do que ainda depende de **conteúdo real, execução ou validação** pela equipe.
+Este checklist trata o repositório como **estrutura progressiva**. Em vez de marcar itens apenas como concluídos, ele usa **status textual** para deixar claro o estágio real de cada artefato.
 
-> Importante: "estrutura criada" **não** significa "atividade concluída". Marcar como concluído apenas o que realmente existir e estiver preenchido com conteúdo real.
+**Legenda de status:**
 
-## 1. Estrutura já criada no repositório
+- **Criado / em revisão** — documento-base existe e está sendo revisado.
+- **Estrutura criada — pendente de dados reais** — template pronto, mas depende de conteúdo/execução real da equipe.
+- **Pendente de inclusão pela equipe** — ainda não produzido ou depende de dado humano real.
+- **Finalizado** — concluído e validado (usar apenas quando realmente for o caso).
 
-Estes artefatos já existem como documento ou template navegável:
+> Importante: "estrutura criada" **não** significa "atividade concluída". Nenhum item deve ser marcado como *Finalizado* enquanto tiver campos "Pendente de inclusão pela equipe".
 
-| # | Item | Estrutura no repo |
-|---|---|---|
-| 1 | Documento de Definição do Problema e Objetivos (Visão) | [x] |
-| 2 | Documento de Visão | [x] |
-| 3 | Plano de Projeto | [x] |
-| 4 | Mapa da Empatia | [x] |
-| 5 | Persona e Jornada do Usuário | [x] |
-| 6 | HMW / Ideação | [x] |
-| 7 | Especificação de Requisitos (Funcionais e Não Funcionais) | [x] |
-| 8 | Product Backlog | [x] |
-| 9 | Sprint Backlog | [x] |
-| 10 | Sprint Planning | [x] |
-| 11 | Sprint 1 — Acompanhamento | [x] |
-| 12 | Protótipo navegável (`prototipo/index.html`) | [x] |
-| 13 | Índice de Documentos | [x] |
-| 14 | Links da Entrega | [x] |
-| 15 | Orientação de GitHub Projects / Trello | [x] |
+## 1. Documentação-base
 
-## 2. Estrutura criada, conteúdo/atividade real pendente
+| Item | Status |
+|---|---|
+| Documento de Visão | Criado / em revisão |
+| Plano de Projeto | Criado / em revisão |
+| Mapa da Empatia | Criado / em revisão |
+| Persona e Jornada do Usuário | Criado / em revisão |
+| HMW / Ideação | Criado / em revisão |
+| Requisitos Funcionais | Criado / em revisão |
+| Requisitos Não Funcionais | Criado / em revisão |
+| Product Backlog (recorte do backlog completo) | Criado / em revisão |
+| Sprint Backlog | Criado / em revisão |
+| Sprint Planning | Criado / em revisão |
+| Índice de Documentos | Criado / em revisão |
+| Links da Entrega | Criado / em revisão |
+| Orientação de GitHub Projects / Trello | Criado / em revisão |
 
-O template existe, mas o conteúdo real ou a execução ainda dependem da equipe:
+## 2. Engenharia e processo
 
-| # | Item | Estrutura | Conteúdo/atividade real |
-|---|---|---|---|
-| 16 | Daily Scrum | [x] | [ ] Registrar reuniões reais |
-| 17 | Sprint 2 — Implementação Incremental | [x] | [ ] Registrar execução real |
-| 18 | Plano/Registro de Testes Funcionais | [ ] Sem arquivo dedicado | [ ] Produzir |
-| 19 | Roteiro de Teste de Usabilidade | [x] | [ ] Executar o teste |
-| 20 | Relatório de Feedback do Usuário | [x] | [ ] Preencher com dados reais |
-| 21 | Documento de Refino da Solução | [x] | [ ] Registrar ajustes reais |
-| 22 | Relatório Reflexivo / Retrospectiva | [x] | [ ] Preencher com conteúdo real |
-| 23 | Roteiro da Demo do MVP | [x] | [ ] Gravar/executar a demo |
-| 24 | Roteiro da Apresentação Final / Pitch | [x] | [ ] Realizar a apresentação |
+| Item | Status |
+|---|---|
+| Protótipo navegável (`prototipo/index.html`) | Criado — validação da equipe pendente |
+| Issues do backlog (recorte inicial, 12 Issues) | Criado / em revisão |
+| GitHub Projects / Trello configurado | Pendente de inclusão pela equipe |
+| Sprint 1 — Acompanhamento | Estrutura criada — pendente de dados reais |
+| Daily Scrum | Estrutura criada — pendente de dados reais |
+| Sprint 2 — Implementação Incremental | Estrutura criada — pendente de dados reais |
+| Plano/Registro de Testes Funcionais | Pendente de inclusão pela equipe |
 
-## 3. Fechamento e envio
+## 3. Validação e fechamento
 
-| # | Item | Status |
-|---|---|---|
-| 25 | GitHub organizado (estrutura base) | [x] |
-| 26 | Issues/Project ou Trello configurados | [ ] Pendente |
-| 27 | Apresentação final (arquivo HTML em `apresentacao/`) | [ ] Pendente |
-| 28 | Links finais conferidos | [ ] Pendente |
-| 29 | Envio no Sala Online/AVA | [ ] Pendente |
+| Item | Status |
+|---|---|
+| Roteiro de Teste de Usabilidade | Roteiro criado — execução pendente |
+| Teste de usabilidade real | Pendente de inclusão pela equipe |
+| Relatório de Feedback do Usuário | Estrutura criada — pendente de dados reais |
+| Documento de Refino da Solução | Estrutura criada — pendente de dados reais |
+| Relatório Reflexivo / Retrospectiva | Estrutura criada — pendente de dados reais |
+| Roteiro da Demo do MVP | Roteiro criado — gravação pendente |
+| Demo do MVP (execução/vídeo) | Pendente de inclusão pela equipe |
+| Roteiro do Pitch / Apresentação Final | Roteiro criado — apresentação pendente |
+| Apresentação final (arquivo HTML em `apresentacao/`) | Pendente de inclusão pela equipe |
 
 ## 4. Pendências humanas reais
 
-| # | Item | Status |
-|---|---|---|
-| 30 | Funções reais dos integrantes no time | [ ] Pendente de inclusão pela equipe |
-| 31 | Link real do GitHub Projects / Trello, se houver quadro além das Issues | [ ] Pendente de inclusão pela equipe |
-| 32 | Link real do vídeo da demo | [ ] Pendente de inclusão pela equipe |
-| 33 | Dados reais do teste de usabilidade (participante, data, ambiente, duração, feedback) | [ ] Pendente de inclusão pela equipe |
-| 34 | Ajustes reais de refino registrados após o feedback | [ ] Pendente de inclusão pela equipe |
-| 35 | Evidências adicionais do processo, sem dados sensíveis | [ ] Pendente de inclusão pela equipe |
-| 36 | Termo de Anuência assinado, enviado fora do GitHub público (Sala Online) | [ ] Pendente de inclusão pela equipe |
+| Item | Status |
+|---|---|
+| Funções reais dos integrantes no time | Pendente de inclusão pela equipe |
+| Link real do GitHub Projects / Trello (se houver quadro além das Issues) | Pendente de inclusão pela equipe |
+| Link real do vídeo da demo | Pendente de inclusão pela equipe |
+| Dados reais do teste de usabilidade (participante, data, ambiente, duração, feedback) | Pendente de inclusão pela equipe |
+| Ajustes reais de refino registrados após o feedback | Pendente de inclusão pela equipe |
+| Evidências adicionais do processo, sem dados sensíveis | Pendente de inclusão pela equipe |
+| Termo de Anuência assinado, enviado fora do GitHub público (Sala Online) | Pendente de inclusão pela equipe |
+
+## 5. Fechamento da entrega
+
+| Item | Status |
+|---|---|
+| GitHub organizado (estrutura base) | Criado / em revisão |
+| Links finais conferidos | Pendente de inclusão pela equipe |
+| Envio no Sala Online/AVA | Pendente de inclusão pela equipe |
 
 ## Observações
 

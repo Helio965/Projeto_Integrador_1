@@ -26,16 +26,16 @@ Tabelas mínimas previstas para o núcleo do MVP:
 
 | Tabela | Finalidade |
 |---|---|
-| `plano` | Planos disponíveis (BRONZE, PRATA, OURO) e suas características. |
+| `plano` | Plano da empresa (regra de negócio secundária, não central ao MVP). |
 | `segmento` | Segmentos de mercado das empresas clientes. |
 | `empresa` | Dados da empresa cliente, vinculada a plano e segmento. |
 | `usuario` | Usuários do sistema, com perfil ADMIN ou CLIENTE. |
-| `analise` | Análise criada para um período (mensal ou quinzenal). |
+| `analise` | Análise criada para um período. |
 | `upload_relatorio` | Arquivos de relatório (VENDAS ou COMPRAS) enviados para uma análise. |
 | `indicador_analise` | Indicadores consolidados calculados para uma análise. |
 | `relatorio_analise` | Devolutiva estratégica registrada/publicada para uma análise. |
 
-A regra de análise quinzenal para o plano OURO é validada na camada de aplicação (Flask), não como restrição (CHECK) no banco.
+Regras de periodicidade por plano, quando aplicadas, são tratadas na camada de aplicação (Flask), não como restrição (CHECK) no banco. Trata-se de regra de negócio secundária, não central ao MVP de Projeto Integrador I.
 
 ## Padrões de código
 

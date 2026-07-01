@@ -4,7 +4,7 @@ Este diretório contém um protótipo navegável do MVP do NEXO — Faturamento 
 
 ## Objetivo
 
-Demonstrar o fluxo principal da solução para a entrega do Projeto Integrador: acesso do ADMIN, cadastro de empresa, criação de análise, upload simulado de relatórios, processamento simulado, visualização de indicadores, devolutiva estratégica e acesso do CLIENTE.
+Demonstrar o fluxo principal da solução para a entrega do Projeto Integrador I: acesso do ADMIN, cadastro de empresa, criação de análise, upload simulado de relatórios, processamento simulado, visualização de indicadores, devolutiva estratégica e acesso do CLIENTE.
 
 ## Como visualizar
 
