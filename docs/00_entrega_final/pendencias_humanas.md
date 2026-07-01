@@ -2,6 +2,8 @@
 
 Este documento lista os itens que dependem de informação real da equipe e não devem ser inventados na documentação.
 
+> Para a visão progressiva completa das pendências da entrega (documentais, GitHub, protótipo, validação e sensíveis), ver [pendencias_reais.md](pendencias_reais.md).
+
 | Item | Pendência | Onde atualizar |
 |---|---|---|
 | Funções dos integrantes | Definir função real de Hélio, João Vitor, João Cesar e Carlos Eduardo no time. | README.md e docs/01_visao_escopo/plano_de_projeto.md |

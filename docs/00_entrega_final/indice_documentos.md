@@ -6,6 +6,7 @@ Este índice reúne os principais artefatos digitais do Projeto Integrador refer
 |---|---|---|
 | Entrega Final | Checklist da Entrega | [Abrir](checklist_entrega.md) |
 | Entrega Final | Links da Entrega | [Abrir](links_entrega.md) |
+| Entrega Final | Pendências Reais (progressivas) | [Abrir](pendencias_reais.md) |
 | Entrega Final | Pendências Humanas | [Abrir](pendencias_humanas.md) |
 | Visão e Escopo | Documento de Visão | [Abrir](../01_visao_escopo/documento_de_visao.md) |
 | Visão e Escopo | Plano de Projeto | [Abrir](../01_visao_escopo/plano_de_projeto.md) |

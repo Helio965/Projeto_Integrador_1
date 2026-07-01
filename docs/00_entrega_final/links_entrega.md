@@ -5,6 +5,7 @@
 | README | [Abrir](../../README.md) |
 | Índice de Documentos | [Abrir](indice_documentos.md) |
 | Checklist da Entrega | [Abrir](checklist_entrega.md) |
+| Pendências Reais (progressivas) | [Abrir](pendencias_reais.md) |
 | Pendências Humanas | [Abrir](pendencias_humanas.md) |
 | Documento de Visão | [Abrir](../01_visao_escopo/documento_de_visao.md) |
 | Plano de Projeto | [Abrir](../01_visao_escopo/plano_de_projeto.md) |
@@ -31,6 +32,9 @@
 | Protótipo navegável | [Abrir protótipo](../../prototipo/index.html) |
 | README do Protótipo | [Abrir README](../../prototipo/README.md) |
 | README da Demo | [Abrir](../../demo/README.md) |
+| Apresentação (pasta) | [Abrir](../../apresentacao/README.md) |
+| Evidências (pasta) | [Abrir](../../evidencias/README.md) |
+| Referências (pasta) | [Abrir](../../referencias/README.md) |
 | Issues do Backlog | [Abrir Issues](https://github.com/Helio965/Projeto_Integrador_1/issues) |
 | Evidência das Issues do Backlog | [Abrir arquivo](../04_backlog/issues_backlog.md) |
 | GitHub Projects/Trello | Pendente de inclusão pela equipe |

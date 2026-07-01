@@ -1,6 +1,8 @@
 # NEXO — Faturamento Inteligente
 
-Plataforma web de análise de dados comerciais para pequenos comércios, desenvolvida como entrega do **Projeto Integrador — Análise e Desenvolvimento de Sistemas**.
+Plataforma web de análise de dados comerciais para pequenos comércios, desenvolvida como entrega do **Projeto Integrador I — Análise e Desenvolvimento de Sistemas**.
+
+> Este repositório é uma **estrutura progressiva** da entrega de Projeto Integrador I. A base (documentos, templates, protótipo e organização) já está montada; vários itens ainda dependem de conteúdo real, execução e validação pela equipe. Ver [pendências reais](docs/00_entrega_final/pendencias_reais.md).
 
 ## Descrição
 
@@ -17,7 +19,7 @@ O NEXO importa relatórios de vendas e compras exportados por sistemas de PDV, p
 
 ## Contexto acadêmico
 
-Disciplina: Projeto Integrador — Análise e Desenvolvimento de Sistemas. O objetivo da entrega é organizar este repositório como evidência técnica do ciclo completo de desenvolvimento: identificação de problema real, Design Thinking, definição de escopo, requisitos, backlog, planejamento de sprint, protótipo, implementação incremental, teste de usabilidade, feedback do usuário, refino da solução, demonstração do MVP e apresentação final.
+Disciplina: Projeto Integrador I — Análise e Desenvolvimento de Sistemas. Professora: Kadidja Valéria Reginaldo de Oliveira. O objetivo da entrega é organizar este repositório como evidência técnica do ciclo completo de desenvolvimento: identificação de problema real, Design Thinking, definição de escopo, requisitos, backlog, planejamento de sprint, protótipo, implementação incremental, teste de usabilidade, feedback do usuário, refino da solução, demonstração do MVP e apresentação final.
 
 ## Problema
 
@@ -96,6 +98,9 @@ O MVP demonstra o fluxo principal de análise de dados comerciais:
 │   ├── 08_apresentacao_demo/
 │   └── 09_retrospectiva_extensao/
 ├── prototipo/
+├── apresentacao/
+├── evidencias/
+├── referencias/
 └── demo/
 ```
 
@@ -124,6 +129,7 @@ Ver [docs/00_entrega_final/links_entrega.md](docs/00_entrega_final/links_entrega
 | Entrega Final | Índice de Documentos | [Abrir](docs/00_entrega_final/indice_documentos.md) |
 | Entrega Final | Checklist da Entrega | [Abrir](docs/00_entrega_final/checklist_entrega.md) |
 | Entrega Final | Links da Entrega | [Abrir](docs/00_entrega_final/links_entrega.md) |
+| Entrega Final | Pendências Reais (progressivas) | [Abrir](docs/00_entrega_final/pendencias_reais.md) |
 | Entrega Final | Pendências Humanas | [Abrir](docs/00_entrega_final/pendencias_humanas.md) |
 | Visão e Escopo | Documento de Visão | [Abrir](docs/01_visao_escopo/documento_de_visao.md) |
 | Visão e Escopo | Plano de Projeto | [Abrir](docs/01_visao_escopo/plano_de_projeto.md) |
@@ -172,11 +178,25 @@ Ver [docs/00_entrega_final/links_entrega.md](docs/00_entrega_final/links_entrega
 | Retrospectiva/Extensão | Relatório Reflexivo | [Abrir arquivo](docs/09_retrospectiva_extensao/relatorio_reflexivo.md) |
 | Pendências Humanas | Itens que dependem da equipe | [Abrir arquivo](docs/00_entrega_final/pendencias_humanas.md) |
 
-## Pendências humanas reais
+## Status geral
 
-Alguns itens dependem de dados reais da equipe e não devem ser inventados na documentação. A lista de pendências controladas está em:
+| Bloco | Situação |
+|---|---|
+| Planejamento inicial | Em andamento |
+| Design Thinking | Em andamento |
+| Requisitos | Em andamento |
+| Backlog e Sprints | Em andamento |
+| Protótipo | Estrutura criada, validação pendente |
+| Usabilidade e Feedback | Pendente de inclusão pela equipe |
+| Refino | Pendente de inclusão pela equipe |
+| Apresentação | Pendente de inclusão pela equipe |
 
-[Pendências Humanas da Entrega](docs/00_entrega_final/pendencias_humanas.md)
+## Pendências reais e humanas
+
+Este repositório é progressivo: alguns itens dependem de conteúdo real, execução ou dados da equipe e não devem ser inventados na documentação. As listas controladas estão em:
+
+- [Pendências Reais da Entrega](docs/00_entrega_final/pendencias_reais.md) — visão progressiva do que ainda falta produzir/validar.
+- [Pendências Humanas da Entrega](docs/00_entrega_final/pendencias_humanas.md) — itens que dependem de dados reais das pessoas do time.
 
 ## Observações sobre documentos sensíveis
 

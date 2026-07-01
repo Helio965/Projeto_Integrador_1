@@ -75,9 +75,9 @@ O NEXO importa relatórios de vendas e compras, simula o processamento dos dados
 
 ## Pontos que não devem ser ditos
 
-- Não chamar o Indicador de Pressão de Estoque de lucro bruto.
+- Apresentar o Indicador de Pressão de Estoque apenas como sinal gerencial de descasamento entre compras e vendas, nunca como resultado financeiro, margem ou apuração contábil.
 - Não afirmar que os dados simulados são dados reais validados.
-- Não citar Power BI Embedded como solução ativa.
+- Não apresentar ferramentas de BI externas como parte ativa da solução; os dashboards do MVP são próprios e de caráter acadêmico.
 - Não prometer integração automática com PDV.
 - Não apresentar cobrança real, fatura ou cliente vencido como parte do MVP.
 

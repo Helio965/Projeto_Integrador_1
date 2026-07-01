@@ -81,7 +81,7 @@ O Indicador de Pressão de Estoque é um sinal gerencial de descasamento entre c
 - Integração automática com PDV via API.
 - Aplicativo mobile nativo.
 - Machine learning ou análise preditiva.
-- Ticket médio, dia de pico e horário de pico de vendas como indicadores ativos.
+- Indicadores estatísticos avançados de vendas (métricas de sazonalidade ou de comportamento temporal de compra) como indicadores ativos.
 
 ## 11. Benefícios esperados
 
