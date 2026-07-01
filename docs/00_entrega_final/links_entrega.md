@@ -11,6 +11,8 @@ Preencher apenas com links reais, existentes e acessíveis no momento da entrega
 | Checklist da Entrega | [Abrir](checklist_entrega.md) | Criado / em revisão |
 | Pendências Reais (progressivas) | [Abrir](pendencias_reais.md) | Em acompanhamento |
 | Pendências Humanas | [Abrir](pendencias_humanas.md) | Em acompanhamento |
+| Documentos Oficiais Word | [Abrir](../documentos_word/README.md) | Estrutura criada — pendente de inclusão pela equipe |
+| Definição do Problema e Objetivos | [Abrir](../01_visao_escopo/definicao_problema_objetivos.md) | Criado / em revisão |
 | Documento de Visão | [Abrir](../01_visao_escopo/documento_de_visao.md) | Base — em revisão |
 | Plano de Projeto | [Abrir](../01_visao_escopo/plano_de_projeto.md) | Base — em revisão |
 | Termo de Anuência — Orientação | [Abrir](../01_visao_escopo/termo_de_anuencia_orientacao.md) | Orientação |
@@ -23,11 +25,13 @@ Preencher apenas com links reais, existentes e acessíveis no momento da entrega
 | Product Backlog | [Abrir](../04_backlog/product_backlog.md) | Base — US01–US22 |
 | Sprint Backlog | [Abrir](../04_backlog/sprint_backlog.md) | Base — US e tarefas T01–T35 |
 | Issues do Backlog (arquivo) | [Abrir](../04_backlog/issues_backlog.md) | Recorte inicial (12 Issues) |
+| Issues Pendentes para Criar | [Abrir](../04_backlog/issues_pendentes_para_criar.md) | Criado / em revisão |
 | GitHub Projects/Trello — Setup | [Abrir](../04_backlog/github_projects_manual_setup.md) | Orientação |
 | Sprint Planning | [Abrir](../05_sprints/sprint_planning.md) | Base — em revisão |
 | Sprint 1 | [Abrir](../05_sprints/sprint1_acompanhamento.md) | Estrutura — pendente de dados reais |
 | Daily Scrum | [Abrir](../05_sprints/daily_scrum.md) | Estrutura — pendente de dados reais |
 | Sprint 2 | [Abrir](../05_sprints/sprint2_documento_tecnico.md) | Estrutura — pendente de dados reais |
+| Plano / Registro de Testes Funcionais | [Abrir](../06_testes_usabilidade/plano_registro_testes_funcionais.md) | Criado / em revisão |
 | Roteiro de Usabilidade | [Abrir](../06_testes_usabilidade/roteiro_teste_usabilidade.md) | Roteiro pronto — execução pendente |
 | Relatório de Feedback | [Abrir](../06_testes_usabilidade/relatorio_feedback_usuario.md) | Template — pendente de dados reais |
 | Documento de Refino | [Abrir](../07_refino_solucao/documento_refino_solucao.md) | Template — pendente de dados reais |
@@ -37,6 +41,7 @@ Preencher apenas com links reais, existentes e acessíveis no momento da entrega
 | Protótipo navegável | [Abrir protótipo](../../prototipo/index.html) | Criado — validação pendente |
 | README do Protótipo | [Abrir README](../../prototipo/README.md) | Criado |
 | README da Demo | [Abrir](../../demo/README.md) | Criado |
+| README da Apresentação | [Abrir](../../apresentacao/README.md) | Pendente de inclusão pela equipe |
 
 ## Links externos da entrega
 

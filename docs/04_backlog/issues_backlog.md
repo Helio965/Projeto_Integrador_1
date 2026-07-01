@@ -56,7 +56,11 @@ Mapa entre as Issues atuais e as histórias do Product Backlog:
 | US-11 Teste de usabilidade | US21 |
 | US-12 Refino da solução | US22 |
 
-Histórias do Product Backlog ainda **não** convertidas em Issues próprias (por exemplo US17 visualização pelo CLIENTE, US18 histórico, US19 mensagens explicativas e US20 protótipo demonstrável) podem ser abertas como novas Issues numa próxima etapa, conforme a equipe priorizar. Nenhuma execução real é presumida.
+Histórias do Product Backlog ainda **não** convertidas em Issues próprias (por exemplo US13 produto com maior saldo estimado parado, US17 visualização pelo CLIENTE, US18 histórico, US19 mensagens explicativas e US20 protótipo demonstrável) podem ser abertas como novas Issues numa próxima etapa, conforme a equipe priorizar. Ver também [issues_pendentes_para_criar.md](issues_pendentes_para_criar.md). Nenhuma execução real é presumida.
+
+## Observação sobre US16
+
+A US16 — disponibilizar/publicar a análise para o CLIENTE — está contemplada na Sprint 2 junto da US17, sem criação de tarefa extra, por meio da tarefa T35: disponibilizar e exibir resultados publicados ao CLIENTE.
 
 ## Observação
 

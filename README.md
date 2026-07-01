@@ -131,6 +131,8 @@ Ver [docs/00_entrega_final/links_entrega.md](docs/00_entrega_final/links_entrega
 | Entrega Final | Links da Entrega | [Abrir](docs/00_entrega_final/links_entrega.md) |
 | Entrega Final | Pendências Reais (progressivas) | [Abrir](docs/00_entrega_final/pendencias_reais.md) |
 | Entrega Final | Pendências Humanas | [Abrir](docs/00_entrega_final/pendencias_humanas.md) |
+| Entrega Final | Documentos oficiais Word | [Abrir](docs/documentos_word/README.md) |
+| Visão e Escopo | Definição do Problema e Objetivos | [Abrir](docs/01_visao_escopo/definicao_problema_objetivos.md) |
 | Visão e Escopo | Documento de Visão | [Abrir](docs/01_visao_escopo/documento_de_visao.md) |
 | Visão e Escopo | Plano de Projeto | [Abrir](docs/01_visao_escopo/plano_de_projeto.md) |
 | Design Thinking | Mapa da Empatia | [Abrir](docs/02_design_thinking/mapa_da_empatia.md) |
@@ -145,6 +147,7 @@ Ver [docs/00_entrega_final/links_entrega.md](docs/00_entrega_final/links_entrega
 | Sprints | Sprint 1 | [Abrir](docs/05_sprints/sprint1_acompanhamento.md) |
 | Sprints | Daily Scrum | [Abrir](docs/05_sprints/daily_scrum.md) |
 | Sprints | Sprint 2 | [Abrir](docs/05_sprints/sprint2_documento_tecnico.md) |
+| Testes | Plano / Registro de Testes Funcionais | [Abrir](docs/06_testes_usabilidade/plano_registro_testes_funcionais.md) |
 | Testes | Roteiro de Usabilidade | [Abrir](docs/06_testes_usabilidade/roteiro_teste_usabilidade.md) |
 | Testes | Relatório de Feedback | [Abrir](docs/06_testes_usabilidade/relatorio_feedback_usuario.md) |
 | Refino | Documento de Refino | [Abrir](docs/07_refino_solucao/documento_refino_solucao.md) |
@@ -161,6 +164,8 @@ Ver [docs/00_entrega_final/links_entrega.md](docs/00_entrega_final/links_entrega
 
 | Documento | Link | Status |
 |---|---|---|
+| Documentos oficiais Word | [Abrir](docs/documentos_word/README.md) | Estrutura criada — pendente de inclusão pela equipe |
+| Definição do Problema e Objetivos | [Abrir](docs/01_visao_escopo/definicao_problema_objetivos.md) | Criado / em revisão |
 | Documento de Visão | [Abrir](docs/01_visao_escopo/documento_de_visao.md) | Base — em revisão |
 | Plano de Projeto | [Abrir](docs/01_visao_escopo/plano_de_projeto.md) | Base — em revisão |
 | Mapa da Empatia, Persona/Jornada e HMW | [Abrir pasta](docs/02_design_thinking/) | Base — em revisão |
@@ -172,6 +177,7 @@ Ver [docs/00_entrega_final/links_entrega.md](docs/00_entrega_final/links_entrega
 | Sprint 1 — Acompanhamento | [Abrir](docs/05_sprints/sprint1_acompanhamento.md) | Estrutura — pendente de dados reais |
 | Daily Scrum | [Abrir](docs/05_sprints/daily_scrum.md) | Estrutura — pendente de dados reais |
 | Sprint 2 — Documento Técnico | [Abrir](docs/05_sprints/sprint2_documento_tecnico.md) | Estrutura — pendente de dados reais |
+| Plano / Registro de Testes Funcionais | [Abrir](docs/06_testes_usabilidade/plano_registro_testes_funcionais.md) | Criado / em revisão |
 | Roteiro de Teste de Usabilidade | [Abrir](docs/06_testes_usabilidade/roteiro_teste_usabilidade.md) | Roteiro pronto — execução pendente |
 | Relatório de Feedback do Usuário | [Abrir](docs/06_testes_usabilidade/relatorio_feedback_usuario.md) | Template — pendente de dados reais |
 | Documento de Refino da Solução | [Abrir](docs/07_refino_solucao/documento_refino_solucao.md) | Template — pendente de dados reais |
