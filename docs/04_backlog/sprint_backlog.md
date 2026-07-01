@@ -32,7 +32,7 @@ Distribuição das histórias em Sprints e quebra em tarefas (T01–T35) com est
 
 ## Sprint 2 — Fluxo de análise, indicadores e devolutiva
 
-**Histórias:** US05, US06, US07, US08, US09, US10, US11, US12, US14, US15, US17.
+**Histórias:** US05, US06, US07, US08, US09, US10, US11, US12, US14, US15, US16, US17.
 
 | Tarefa | Descrição | História | Pontos | Responsável | Status |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@ Distribuição das histórias em Sprints e quebra em tarefas (T01–T35) com est
 | T32 | Criar área de devolutiva estratégica | US15 | 3 | Pendente de inclusão pela equipe | A fazer |
 | T33 | Simular registro da devolutiva | US15 | 2 | Pendente de inclusão pela equipe | A fazer |
 | T34 | Criar tela de visualização do CLIENTE | US17 | 3 | Pendente de inclusão pela equipe | A fazer |
-| T35 | Exibir resultados publicados ao CLIENTE | US17 | 2 | Pendente de inclusão pela equipe | A fazer |
+| T35 | Disponibilizar e exibir resultados publicados ao CLIENTE | US16, US17 | 2 | Pendente de inclusão pela equipe | A fazer |
 
 **Total de pontos — Sprint 2: 48.**
 

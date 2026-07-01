@@ -15,6 +15,7 @@ Este checklist usa **status textual** (não checkbox), para deixar claro o está
 
 | Item | Status |
 |---|---|
+| Definição do Problema e Objetivos | Criado / em revisão |
 | Documento de Visão | Aprovado como base |
 | Plano de Projeto | Aprovado como base |
 | Mapa da Empatia | Aprovado como base |
@@ -33,6 +34,7 @@ Este checklist usa **status textual** (não checkbox), para deixar claro o está
 | Daily Scrum | Estrutura criada — pendente de dados reais |
 | Sprint 2 | Estrutura criada — pendente de revisão |
 | Protótipo navegável (`prototipo/index.html`) | Criado / em revisão |
+| Plano / Registro de Testes Funcionais | Criado / em revisão |
 | Roteiro de Teste de Usabilidade | Criado / em revisão |
 | Relatório de Feedback | Estrutura criada — pendente de teste real |
 | Documento de Refino | Estrutura criada — pendente de feedback real |
@@ -47,8 +49,10 @@ Este checklist usa **status textual** (não checkbox), para deixar claro o está
 |---|---|
 | GitHub organizado (estrutura base) | Criado / em revisão |
 | Issues do backlog (recorte inicial) | Criado / em revisão |
+| Lista de Issues pendentes para criar | Criado / em revisão |
 | GitHub Projects/Trello (link do quadro) | Pendente de inclusão pela equipe |
 | Apresentação final (HTML em `apresentacao/`) | Pendente de inclusão pela equipe |
+| Documentos oficiais Word (`docs/documentos_word/`) | Estrutura criada — pendente de inclusão pela equipe |
 | Links finais conferidos | Pendente de inclusão pela equipe |
 | Envio no Sala Online/AVA | Pendente de inclusão pela equipe |
 
@@ -57,6 +61,7 @@ Este checklist usa **status textual** (não checkbox), para deixar claro o está
 | Item | Status |
 |---|---|
 | Funções dos integrantes no time | Pendente de inclusão pela equipe |
+| Resultados reais dos testes funcionais | Pendente de inclusão pela equipe |
 | Dados reais do teste de usabilidade | Pendente de inclusão pela equipe |
 | Ajustes reais de refino após feedback | Pendente de inclusão pela equipe |
 | Evidências adicionais, sem dados sensíveis | Pendente de inclusão pela equipe |

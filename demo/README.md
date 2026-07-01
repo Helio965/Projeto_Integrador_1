@@ -17,6 +17,11 @@ Quando o vídeo estiver gravado, inserir aqui o link real e também atualizar:
 - [Links da Entrega](../docs/00_entrega_final/links_entrega.md)
 - [Pendências Humanas](../docs/00_entrega_final/pendencias_humanas.md)
 
+## Formato da demo
+
+- Demo ao vivo com protótipo local — pendente de confirmação pela equipe.
+- Vídeo da demo — pendente de inclusão pela equipe.
+
 ## Protótipo utilizado na demo
 
 A demonstração deve usar o protótipo navegável interno:

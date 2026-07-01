@@ -48,7 +48,7 @@ Planejamento baseado no [Product Backlog](../04_backlog/product_backlog.md) (US0
 
 **Objetivo da Sprint 2:** implementar de forma incremental/simulada o upload, o processamento, os indicadores, o dashboard, a devolutiva e a visão do CLIENTE.
 
-**Histórias selecionadas:** US05, US06, US07, US08, US09, US10, US11, US12, US14, US15, US17.
+**Histórias selecionadas:** US05, US06, US07, US08, US09, US10, US11, US12, US14, US15, US16, US17.
 
 | Tarefa | História | Pontos |
 |---|---|---|
@@ -69,7 +69,7 @@ Planejamento baseado no [Product Backlog](../04_backlog/product_backlog.md) (US0
 | T32 Criar área de devolutiva estratégica | US15 | 3 |
 | T33 Simular registro da devolutiva | US15 | 2 |
 | T34 Criar tela de visualização do CLIENTE | US17 | 3 |
-| T35 Exibir resultados publicados ao CLIENTE | US17 | 2 |
+| T35 Disponibilizar e exibir resultados publicados ao CLIENTE | US16, US17 | 2 |
 
 **Total Sprint 2: 48 pontos.**
 
