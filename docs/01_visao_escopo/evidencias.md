@@ -4,7 +4,7 @@ Registro das evidências do processo de desenvolvimento (reuniões, validações
 
 | Data | Evidência | Descrição | Link/Arquivo |
 |---|---|---|---|
-| Pendente de inclusão pela equipe | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe |
+| A preencher pela equipe | A preencher com evidência real | A preencher com descrição objetiva | A preencher com link/arquivo permitido |
 
 ## Observações
 

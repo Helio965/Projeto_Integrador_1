@@ -4,7 +4,7 @@
 |---|---|---|
 | RNF01 | Usabilidade | A interface deve ser simples e objetiva, adequada a um gestor sem perfil analítico, utilizando Bootstrap para padronização visual. |
 | RNF02 | Segurança | O acesso deve ser controlado por autenticação, com separação de permissões entre os perfis ADMIN e CLIENTE. |
-| RNF03 | Desempenho | O processamento de um relatório e a geração dos indicadores devem ocorrer em tempo adequado ao uso acadêmico/demonstração. Meta de tempo específica: pendente de inclusão pela equipe. |
+| RNF03 | Desempenho | O processamento simulado e a navegação do protótipo devem ocorrer em tempo adequado ao uso acadêmico/demonstração. Meta específica pode ser definida pela equipe em validação futura. |
 | RNF04 | Compatibilidade | A aplicação web deve funcionar nos navegadores modernos mais comuns. |
 | RNF05 | Manutenibilidade | O código deve ser organizado e versionado em GitHub, favorecendo manutenção e evolução. |
 | RNF06 | Integridade dos dados | Os indicadores devem refletir fielmente os dados dos relatórios processados, sem alteração indevida. |

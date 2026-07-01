@@ -48,7 +48,7 @@ Planejamento baseado no [Product Backlog](../04_backlog/product_backlog.md) (US0
 
 **Objetivo da Sprint 2:** implementar de forma incremental/simulada o upload, o processamento, os indicadores, o dashboard, a devolutiva e a visão do CLIENTE.
 
-**Histórias selecionadas:** US05, US06, US07, US08, US09, US10, US11, US12, US14, US15, US16, US17.
+**Histórias selecionadas:** US05, US06, US07, US08, US09, US10, US11, US12, US14, US15, US16, US17, US18.
 
 | Tarefa | História | Pontos |
 |---|---|---|
@@ -69,13 +69,13 @@ Planejamento baseado no [Product Backlog](../04_backlog/product_backlog.md) (US0
 | T32 Criar área de devolutiva estratégica | US15 | 3 |
 | T33 Simular registro da devolutiva | US15 | 2 |
 | T34 Criar tela de visualização do CLIENTE | US17 | 3 |
-| T35 Disponibilizar e exibir resultados publicados ao CLIENTE | US16, US17 | 2 |
+| T35 Disponibilizar resultados publicados e histórico básico ao CLIENTE | US16, US17, US18 | 2 |
 
 **Total Sprint 2: 48 pontos.**
 
 ## 6. Responsáveis e estimativas
 
-Responsáveis por tarefa: **Pendente de inclusão pela equipe**. As estimativas em pontos são uma referência de planejamento e podem ser revistas pela equipe durante a execução.
+Responsáveis por tarefa: **a preencher pela equipe após a execução real**. As estimativas em pontos são uma referência de planejamento e podem ser revistas pela equipe durante a execução.
 
 ## 7. Estrutura do quadro no GitHub Projects/Trello
 

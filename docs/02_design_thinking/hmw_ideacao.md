@@ -12,7 +12,7 @@
 - Como poderíamos mostrar quais produtos mais impactam o faturamento do período?
 - Como poderíamos sinalizar o descasamento entre compras e vendas sem usar termos contábeis que o gestor não domina?
 - Como poderíamos entregar uma orientação prática que o gestor consiga aplicar no negócio?
-- Demais perguntas geradas pela equipe: pendente de inclusão.
+- Demais perguntas geradas pela equipe: a preencher pela equipe, caso surjam novas perguntas durante a validação.
 
 ## Ideias geradas
 
@@ -20,12 +20,12 @@
 - Indicador de Pressão de Estoque como sinal gerencial (sem se apresentar como apuração contábil).
 - Devolutiva estratégica escrita pelo ADMIN e associada a cada análise.
 - Histórico de análises publicadas para acompanhamento ao longo do tempo.
-- Demais ideias do brainstorming: pendente de inclusão.
+- Demais ideias do brainstorming: a preencher pela equipe, caso novas ideias sejam priorizadas.
 
 ## Critérios de seleção
 
 - Usar apenas dados já existentes nos relatórios de vendas e compras (sem integração automática por API).
-- Viabilidade com a stack definida (Flask, SQLite, SQLAlchemy, Pandas, Plotly.js) no prazo da disciplina.
+- Viabilidade com protótipo acadêmico em HTML/CSS/JavaScript no prazo da disciplina e com stack técnica prevista (Flask, SQLite, SQLAlchemy, Pandas, Plotly.js) para evolução futura.
 - Clareza para a persona (linguagem acessível ao gestor).
 
 ## Solução escolhida

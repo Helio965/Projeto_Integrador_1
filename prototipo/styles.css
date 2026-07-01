@@ -212,6 +212,15 @@ input[readonly] { background: #f1f4f7; color: var(--muted); }
   font-size: 0.92rem;
 }
 
+.status-message {
+  background: #e1f0ec;
+  border-left: 3px solid var(--accent);
+  color: #17675e;
+  padding: 10px 12px;
+  border-radius: 6px;
+  font-size: 0.9rem;
+}
+
 .footer {
   text-align: center;
   font-size: 0.78rem;

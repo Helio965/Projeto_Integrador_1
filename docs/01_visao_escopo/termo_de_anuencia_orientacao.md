@@ -15,4 +15,4 @@ O Termo de Anuência assinado é um documento sensível. Ele autoriza o uso das 
 
 ## Local de armazenamento do termo assinado
 
-Pendente de inclusão pela equipe (indicar o local de armazenamento, por exemplo: envio pela Sala Online ou pasta privada da equipe).
+A preencher pela equipe com o local privado de armazenamento ou envio oficial, por exemplo Sala Online/AVA ou pasta privada da equipe.

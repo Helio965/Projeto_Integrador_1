@@ -11,7 +11,7 @@
 
 ## 2. Revisão da Sprint 1
 
-Pendente de inclusão pela equipe (o que foi concluído na Sprint 1 — acesso, cadastros, criação de análise e protótipo navegável — e o que seguiu para a Sprint 2).
+A preencher pela equipe com o que foi concluído na Sprint 1 — acesso, cadastros, criação de análise e protótipo navegável — e o que seguiu para a Sprint 2.
 
 ## 3. Objetivo da Sprint 2
 
@@ -28,7 +28,9 @@ Avançar do cadastro/criação de análise para o **fluxo de resultados**: uploa
 - US12 — Produto com maior faturamento.
 - US14 — Dashboard gerencial.
 - US15 — Devolutiva estratégica.
+- US16 — Disponibilização/publicação da análise para o CLIENTE.
 - US17 — Visualização pelo CLIENTE.
+- US18 — Histórico básico de análises.
 
 ## 5. Tarefas planejadas
 
@@ -39,7 +41,7 @@ Tarefas T18 a T35 (detalhe e pontos no [Sprint Backlog](../04_backlog/sprint_bac
 - Cards de indicadores: faturamento, total comprado, Indicador de Pressão de Estoque, produtos (T24–T29).
 - Organização e legibilidade do dashboard (T30–T31).
 - Área e registro simulado da devolutiva estratégica (T32–T33).
-- Tela e exibição de resultados ao CLIENTE (T34–T35).
+- Tela, exibição de resultados e histórico básico ao CLIENTE (T34–T35).
 
 ## 6. Definição técnica simples
 
@@ -58,16 +60,17 @@ Tarefas T18 a T35 (detalhe e pontos no [Sprint Backlog](../04_backlog/sprint_bac
 4. Dashboard com os indicadores de forma visual.
 5. Devolutiva estratégica registrada pelo ADMIN.
 6. Visão do CLIENTE com resultados e devolutiva da análise publicada.
+7. Histórico básico de análises para demonstração do acompanhamento do cliente.
 
 ## 8. Testes básicos previstos
 
-Pendente de inclusão pela equipe (por exemplo: enviar um relatório de exemplo e conferir se os indicadores exibidos correspondem ao esperado).
+A preencher pela equipe após execução real dos testes funcionais previstos em [plano_registro_testes_funcionais.md](../06_testes_usabilidade/plano_registro_testes_funcionais.md).
 
 ## 9. Evidências a registrar
 
 - Protótipo navegável: [`prototipo/index.html`](../../prototipo/index.html).
-- Link de incremento adicional (se houver): Pendente de inclusão pela equipe.
-- Prints/telas do fluxo, sem dados sensíveis: Pendente de inclusão pela equipe.
+- Link de incremento adicional (se houver): A preencher pela equipe.
+- Prints/telas do fluxo, sem dados sensíveis: A preencher pela equipe.
 
 ## 10. Pendências reais
 

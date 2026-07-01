@@ -65,3 +65,5 @@ A US16 — disponibilizar/publicar a análise para o CLIENTE — está contempla
 ## Observação
 
 Caso o GitHub Project não esteja configurado, as Issues funcionam como evidência mínima de backlog rastreável no próprio repositório. As Issues aqui listadas são registro documental; nenhuma execução real é presumida sem atualização da equipe.
+
+Para padronizar o acompanhamento, ver também o [plano de labels e milestones](plano_labels_milestones.md).

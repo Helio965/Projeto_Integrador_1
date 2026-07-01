@@ -35,7 +35,9 @@ O NEXO importa relatórios de vendas e compras, simula o processamento dos dados
 9. Apresentar dashboard com indicadores.
 10. Explicar o Indicador de Pressão de Estoque.
 11. Registrar/publicar a devolutiva estratégica.
-12. Mostrar visão CLIENTE.
+12. Mostrar confirmação de publicação.
+13. Mostrar visão CLIENTE.
+14. Mostrar histórico básico de análises.
 
 ## Roteiro falado sugerido
 
@@ -53,11 +55,11 @@ O NEXO importa relatórios de vendas e compras, simula o processamento dos dados
 
 ### Demonstração do fluxo
 
-“Nesta demonstração, vamos seguir o fluxo principal do MVP: login, cadastro de empresa, criação da análise, upload dos relatórios, processamento, dashboard, devolutiva e visualização pelo cliente.”
+“Nesta demonstração, vamos seguir o fluxo principal do MVP: login, cadastro de empresa, criação da análise, upload dos relatórios, processamento, dashboard, devolutiva, publicação para o cliente e histórico básico de análises.”
 
 ### Indicadores
 
-“Os indicadores exibidos são dados simulados para demonstração. O principal cuidado conceitual é o Indicador de Pressão de Estoque, que mostra um sinal gerencial de descasamento entre compras e vendas. Ele não é lucro, margem ou resultado contábil.”
+“Os indicadores exibidos são dados simulados para demonstração. O principal cuidado conceitual é o Indicador de Pressão de Estoque, que mostra um sinal gerencial de descasamento entre compras e vendas. Ele não é lucro, margem, prejuízo ou resultado contábil.”
 
 ### Encerramento
 
@@ -83,7 +85,7 @@ O NEXO importa relatórios de vendas e compras, simula o processamento dos dados
 
 ## Link do vídeo
 
-Pendente de inclusão pela equipe.
+A preencher pela equipe somente se houver vídeo gravado. Caso contrário, a demo pode ser apresentada ao vivo com o protótipo navegável.
 
 Quando o vídeo estiver pronto, registrar o link em:
 

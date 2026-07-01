@@ -4,17 +4,17 @@ Registro das daily scrums realizadas pela equipe. Repetir o bloco abaixo para ca
 
 ## Template
 
-- **Data:** Pendente de inclusão pela equipe.
-- **Participantes:** Pendente de inclusão pela equipe.
-- **Tempo da cerimônia:** Pendente de inclusão pela equipe.
+- **Data:** A preencher pela equipe após registro real da cerimônia.
+- **Participantes:** A preencher pela equipe após registro real da cerimônia.
+- **Tempo da cerimônia:** A preencher pela equipe após registro real da cerimônia.
 
 | Integrante | Ontem | Hoje | Impedimentos |
 |---|---|---|---|
-| Hélio | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe |
-| João Vitor | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe |
-| João Cesar | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe |
-| Carlos Eduardo | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe |
+| Hélio | A preencher pela equipe | A preencher pela equipe | A preencher pela equipe |
+| João Vitor | A preencher pela equipe | A preencher pela equipe | A preencher pela equipe |
+| João Cesar | A preencher pela equipe | A preencher pela equipe | A preencher pela equipe |
+| Carlos Eduardo | A preencher pela equipe | A preencher pela equipe | A preencher pela equipe |
 
-- **Relato da equipe:** Pendente de inclusão pela equipe.
-- **Atualização do quadro (GitHub Projects/Trello):** Pendente de inclusão pela equipe.
-- **Observações sobre colaboração:** Pendente de inclusão pela equipe.
+- **Relato da equipe:** A preencher pela equipe.
+- **Atualização do quadro (GitHub Projects/Trello):** A preencher pela equipe.
+- **Observações sobre colaboração:** A preencher pela equipe.

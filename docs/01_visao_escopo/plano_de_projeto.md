@@ -5,16 +5,16 @@
 - **Projeto:** NEXO — Faturamento Inteligente
 - **Disciplina:** Projeto Integrador I — Análise e Desenvolvimento de Sistemas
 - **Professora:** Kadidja Valéria Reginaldo de Oliveira
-- **Período letivo:** Pendente de inclusão pela equipe
+- **Período letivo:** A confirmar pela equipe
 
 ## 2. Equipe e papéis
 
 | Integrante | Papel | Principais responsabilidades |
 |---|---|---|
-| Hélio | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe |
-| João Vitor | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe |
-| João Cesar | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe |
-| Carlos Eduardo | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe |
+| Hélio | Product Owner | Documentação, organização do GitHub e alinhamento da entrega acadêmica. |
+| João Vitor | Scrum Master | Backlog, acompanhamento das tarefas e apoio em testes. |
+| João Cesar | Desenvolvimento / Interface | Construção e ajustes do protótipo navegável. |
+| Carlos Eduardo | Requisitos / Validação | Requisitos, validação da solução e apoio na apresentação final. |
 
 ## 3. Justificativa
 
@@ -28,19 +28,20 @@ O escopo do MVP está definido no [Documento de Visão](documento_de_visao.md). 
 
 | Etapa | Período | Situação |
 |---|---|---|
-| Descoberta e Design Thinking | Pendente de inclusão pela equipe | Em andamento |
-| Requisitos e backlog | Pendente de inclusão pela equipe | Concluído |
-| Sprint 1 | Pendente de inclusão pela equipe | Pendente |
-| Sprint 2 | Pendente de inclusão pela equipe | Pendente |
-| Teste de usabilidade e refino | Pendente de inclusão pela equipe | Pendente |
-| Demo e apresentação final | Pendente de inclusão pela equipe | Pendente |
+| Descoberta e Design Thinking | A confirmar pela equipe | Documentado |
+| Requisitos e backlog | A confirmar pela equipe | Documentado |
+| Sprint 1 | A confirmar pela equipe | Estrutura preparada para registro real |
+| Sprint 2 | A confirmar pela equipe | Estrutura preparada para registro real |
+| Teste de usabilidade e refino | A confirmar pela equipe | Roteiros e modelos preparados |
+| Demo e apresentação final | A confirmar pela equipe | Roteiros preparados |
 
 ## 6. Ferramentas
 
 - Versionamento: GitHub.
 - Acompanhamento de backlog/tarefas: GitHub Projects ou Trello.
-- Desenvolvimento: Python, Flask, SQLite, SQLAlchemy, Pandas, Plotly.js, Bootstrap, Jinja2.
-- Prototipação: ferramenta a confirmar pela equipe (pendente de inclusão).
+- Protótipo acadêmico entregue: HTML5, CSS3 e JavaScript.
+- Evolução técnica prevista: Python, Flask, SQLite, SQLAlchemy, Pandas, Plotly.js, Bootstrap e Jinja2.
+- Prototipação navegável: `prototipo/index.html`, com dados simulados.
 
 ## 7. Estratégia de desenvolvimento
 
@@ -63,5 +64,5 @@ Ver seção 13 do [Documento de Visão](documento_de_visao.md).
 | Risco | Impacto | Mitigação |
 |---|---|---|
 | Variação no formato dos relatórios de PDV | Médio | Padronizar a leitura via ETL com tratamento de colunas e formatos esperados |
-| Disponibilidade de tempo da equipe | Pendente de avaliação pela equipe | Pendente de inclusão pela equipe |
-| Demais riscos | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe |
+| Disponibilidade de tempo da equipe | Médio | Priorizar o escopo do protótipo acadêmico e registrar pendências reais sem inventar evidências |
+| Demais riscos | A confirmar pela equipe | A preencher pela equipe, caso novos riscos sejam identificados |

@@ -1,50 +1,43 @@
-# Pendências Reais da Entrega — NEXO (PI I)
+# Pendências Reais da Entrega - NEXO (PI I)
 
-Este documento registra as pendências reais da entrega de **Projeto Integrador I**, tratando o repositório como uma **estrutura progressiva** — não como entrega final fechada. A estrutura e os templates já existem; o que segue depende de produção, validação ou dados reais da equipe.
+Este documento registra apenas itens que ainda dependem de execução real, validação, evidência externa ou decisão da equipe. A existência de uma pendência não significa ausência de organização; significa que o dado não deve ser inventado no GitHub.
 
-> Complementa (não substitui) o documento [`pendencias_humanas.md`](pendencias_humanas.md), que detalha os itens que dependem de informação real das pessoas do time.
+> Complementa o documento [pendencias_humanas.md](pendencias_humanas.md), que detalha os itens dependentes de pessoas, datas, links e evidências reais.
 
-## 1. Pendências documentais
+## 1. Itens estruturados, mas dependentes de preenchimento real
 
-Documentos cuja **estrutura/template já existe**, mas que ainda precisam de **conteúdo real**:
+- **Daily Scrum** - estrutura preparada em `docs/05_sprints/daily_scrum.md`; registrar apenas cerimônias reais.
+- **Sprint 1 e Sprint 2** - documentos preparados; completar com período, responsáveis, resultados e evidências reais quando disponíveis.
+- **Plano/Registro de Testes Funcionais** - arquivo estruturado em `docs/06_testes_usabilidade/plano_registro_testes_funcionais.md`; resultados devem ser preenchidos após execução real.
+- **Teste de Usabilidade** - roteiro preparado em `docs/06_testes_usabilidade/roteiro_teste_usabilidade.md`; aplicação real ainda depende da equipe.
+- **Relatório de Feedback do Usuário** - estrutura preparada em `docs/06_testes_usabilidade/relatorio_feedback_usuario.md`; preencher somente com feedback real.
+- **Documento de Refino da Solução** - estrutura preparada em `docs/07_refino_solucao/documento_refino_solucao.md`; ajustes reais pós-feedback devem ser registrados pela equipe.
+- **Evidências adicionais** - registrar apenas arquivos, links ou prints permitidos e sem dados sensíveis.
+- **Documentos oficiais em Word** - pasta de orientação criada em `docs/documentos_word/`; arquivos `.docx` oficiais devem ser incluídos apenas quando permitido ou enviados pelo AVA/Sala Online.
 
-- **Daily Scrum** — registrar reuniões reais (data, participantes, andamento). Estrutura em `docs/05_sprints/daily_scrum.md`.
-- **Sprint 2 — Implementação Incremental** — registrar a execução real da sprint. Estrutura em `docs/05_sprints/sprint2_documento_tecnico.md`.
-- **Plano/Registro de Testes Funcionais** — arquivo estruturado criado; execução real e resultados pendentes. `docs/06_testes_usabilidade/plano_registro_testes_funcionais.md`.
-- **Roteiro de Teste de Usabilidade** — roteiro estruturado; execução real pendente. `docs/06_testes_usabilidade/roteiro_teste_usabilidade.md`.
-- **Relatório de Feedback do Usuário** — template pronto; resultados reais pendentes. `docs/06_testes_usabilidade/relatorio_feedback_usuario.md`.
-- **Documento de Refino da Solução** — template pronto; ajustes reais pós-feedback pendentes. `docs/07_refino_solucao/documento_refino_solucao.md`.
-- **Relatório Reflexivo / Retrospectiva** — estrutura pronta; conteúdo real da retrospectiva pendente. `docs/09_retrospectiva_extensao/relatorio_reflexivo.md`.
-- **Roteiro da Demo do MVP** — roteiro pronto; gravação/execução pendente. `docs/08_apresentacao_demo/roteiro_demo.md`.
-- **Roteiro da Apresentação Final / Pitch** — roteiro pronto; apresentação em si pendente. `docs/08_apresentacao_demo/roteiro_pitch.md`.
-- **Registro de Evidências e Links da Entrega** — em estruturação; preencher com links reais. `docs/00_entrega_final/links_entrega.md` e `evidencias/`.
-- **Documentos oficiais em Word** — pasta de orientação criada em `docs/documentos_word/`; arquivos `.docx` oficiais pendentes de inclusão pela equipe ou envio pelo AVA/Sala Online.
-
-## 2. Pendências de GitHub
+## 2. Pendências de GitHub e gestão
 
 - Link real do repositório GitHub confirmado nos documentos de links.
-- Criação e organização das Issues do Project (backlog → issues).
-- Conferência das histórias ainda não convertidas em Issues próprias em `docs/04_backlog/issues_pendentes_para_criar.md`.
-- Organização de **labels**.
-- Organização de **milestones** (por sprint).
-- Conferência dos **links relativos** dos documentos.
-- Revisão final do **README** ao encerrar cada etapa.
+- Issues do backlog registradas como recorte inicial; demais histórias podem ser abertas depois conforme `docs/04_backlog/issues_pendentes_para_criar.md`.
+- Plano de labels e milestones documentado em `docs/04_backlog/plano_labels_milestones.md`.
+- Link de GitHub Projects/Trello ainda depende de criação ou confirmação pela equipe.
+- Conferência final de links deve ser repetida antes do envio oficial.
 
-## 3. Pendências de protótipo
+## 3. Pendências de protótipo e validação
 
-- Protótipo navegável existente em `prototipo/index.html` (demonstração acadêmica com dados simulados).
+- Protótipo navegável disponível em `prototipo/index.html`, com dados simulados.
 - Validação local do protótipo pela equipe.
-- Prints/telas do protótipo, se forem usados como evidência (sem dados sensíveis).
-- Evidência do protótipo registrada no GitHub.
-
-## 4. Pendências de validação
-
-- Teste de usabilidade **real** com usuário representativo da persona.
-- Testes funcionais reais do protótipo e preenchimento dos resultados obtidos.
+- Testes funcionais reais e preenchimento dos resultados obtidos.
+- Teste de usabilidade real com usuário representativo da persona.
 - Relatório de feedback preenchido com resultados reais.
-- Refino da solução com base no feedback real.
-- Demo do MVP executada/gravada.
-- Apresentação final realizada.
+- Refino final com base no feedback real.
+
+## 4. Demo e apresentação
+
+- Demo prevista para apresentação ao vivo com o protótipo navegável, salvo se a equipe gravar vídeo real.
+- Link de vídeo só deve ser incluído se existir.
+- Roteiro do pitch e roteiro da demo estão preparados.
+- Arquivo final de apresentação deve ser incluído em `apresentacao/` ou enviado pelo canal oficial, se exigido pela professora.
 
 ## 5. Pendências sensíveis
 
@@ -52,6 +45,8 @@ Materiais que **não** devem ser publicados neste repositório e devem ir apenas
 
 - Termo de anuência assinado.
 - Ata assinada, se exigida.
-- Qualquer documento com CPF, RG, telefone pessoal, assinatura ou prints com pessoas identificáveis.
+- CPF, RG, telefone pessoal ou assinatura.
+- Prints com pessoas identificáveis.
+- Dados reais de PDV ou informações comerciais sensíveis.
 
-Ver orientação em [`docs/01_visao_escopo/termo_de_anuencia_orientacao.md`](../01_visao_escopo/termo_de_anuencia_orientacao.md).
+Ver orientação em [termo_de_anuencia_orientacao.md](../01_visao_escopo/termo_de_anuencia_orientacao.md).
