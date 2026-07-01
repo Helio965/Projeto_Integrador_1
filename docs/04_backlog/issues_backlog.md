@@ -37,7 +37,7 @@ As Issues representam histórias de usuário e tarefas principais do MVP. Elas p
 
 ## Relação com o Product Backlog (US01–US22)
 
-As 12 Issues acima representam um **recorte inicial** do backlog, focado no fluxo principal do MVP. O backlog completo (US01–US22, com priorização MoSCoW) está em [product_backlog.md](product_backlog.md).
+As Issues atuais representam um **recorte inicial** do backlog. O Product Backlog completo está em [product_backlog.md](product_backlog.md) com **US01 a US22** e priorização MoSCoW.
 
 Mapa entre as Issues atuais e as histórias do Product Backlog:
 
