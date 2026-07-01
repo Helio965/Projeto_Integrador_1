@@ -1,58 +1,80 @@
-# Sprint 2 — Documento Técnico
+# Sprint 2 — Implementação Incremental
 
-## Revisão da Sprint 1
+## 1. Identificação
 
-Pendente de inclusão pela equipe (o que foi concluído na Sprint 1 e o que entrou na Sprint 2).
+- **Projeto:** NEXO — Faturamento Inteligente
+- **Disciplina:** Projeto Integrador I — Análise e Desenvolvimento de Sistemas
+- **Professora:** Kadidja Valéria Reginaldo de Oliveira
+- **Equipe:** Hélio, João Vitor, João Cesar e Carlos Eduardo
 
-## Definição técnica
+> IDs de histórias e tarefas alinhados ao [Product Backlog](../04_backlog/product_backlog.md) e ao [Sprint Backlog](../04_backlog/sprint_backlog.md).
 
-A aplicação é uma plataforma web em Flask, com banco SQLite acessado via SQLAlchemy, processamento de relatórios com Pandas e dashboards com Plotly.js.
+## 2. Revisão da Sprint 1
 
-## Linguagem e frameworks
+Pendente de inclusão pela equipe (o que foi concluído na Sprint 1 — acesso, cadastros, criação de análise e protótipo navegável — e o que seguiu para a Sprint 2).
 
-- Python e Flask (backend e rotas).
-- SQLAlchemy (ORM) sobre SQLite.
-- Pandas (ETL dos relatórios).
-- Plotly.js (dashboards).
-- Bootstrap, HTML/CSS/JavaScript e Jinja2 (interface).
+## 3. Objetivo da Sprint 2
 
-## Arquitetura adotada
+Avançar do cadastro/criação de análise para o **fluxo de resultados**: upload simulado dos relatórios, processamento, cálculo dos indicadores, dashboard, devolutiva estratégica e visão do CLIENTE.
 
-Arquitetura web baseada em servidor, com renderização de templates (Jinja2) e camada de dados via ORM. O fluxo é: upload de relatórios → ETL com Pandas → persistência dos indicadores → exibição no dashboard → devolutiva estratégica.
+## 4. Histórias selecionadas
 
-### Modelo de dados (núcleo do MVP)
+- US05 / US06 — Upload simulado de relatórios de vendas e compras.
+- US07 — Processamento dos dados.
+- US08 — Faturamento total do período.
+- US09 — Total comprado no período.
+- US10 — Indicador de Pressão de Estoque.
+- US11 — Produto mais vendido.
+- US12 — Produto com maior faturamento.
+- US14 — Dashboard gerencial.
+- US15 — Devolutiva estratégica.
+- US17 — Visualização pelo CLIENTE.
 
-Tabelas mínimas previstas para o núcleo do MVP:
+## 5. Tarefas planejadas
 
-| Tabela | Finalidade |
-|---|---|
-| `plano` | Planos disponíveis (BRONZE, PRATA, OURO) e suas características. |
-| `segmento` | Segmentos de mercado das empresas clientes. |
-| `empresa` | Dados da empresa cliente, vinculada a plano e segmento. |
-| `usuario` | Usuários do sistema, com perfil ADMIN ou CLIENTE. |
-| `analise` | Análise criada para um período (mensal ou quinzenal). |
-| `upload_relatorio` | Arquivos de relatório (VENDAS ou COMPRAS) enviados para uma análise. |
-| `indicador_analise` | Indicadores consolidados calculados para uma análise. |
-| `relatorio_analise` | Devolutiva estratégica registrada/publicada para uma análise. |
+Tarefas T18 a T35 (detalhe e pontos no [Sprint Backlog](../04_backlog/sprint_backlog.md)):
 
-A regra de análise quinzenal para o plano OURO é validada na camada de aplicação (Flask), não como restrição (CHECK) no banco.
+- Upload simulado de vendas e compras (T18–T21).
+- Etapa visual de processamento / ETL compreensível (T22–T23).
+- Cards de indicadores: faturamento, total comprado, Indicador de Pressão de Estoque, produtos (T24–T29).
+- Organização e legibilidade do dashboard (T30–T31).
+- Área e registro simulado da devolutiva estratégica (T32–T33).
+- Tela e exibição de resultados ao CLIENTE (T34–T35).
 
-## Padrões de código
+## 6. Definição técnica simples
 
-Pendente de inclusão pela equipe (convenções de nomenclatura, organização de pastas e estilo de código).
+- Interface web navegável (protótipo) demonstrando o fluxo de ponta a ponta.
+- Dados **simulados** para a demonstração acadêmica, sem base real de produção.
+- Processamento e indicadores demonstrados de forma simulada, refletindo a lógica pretendida do MVP.
+- Versionamento no GitHub e acompanhamento de tarefas no GitHub Projects/Trello.
 
-## Ferramentas
+> O Indicador de Pressão de Estoque é apresentado como sinal gerencial de descasamento entre compras e vendas; não representa lucro, margem ou apuração contábil.
 
-GitHub (versionamento), GitHub Projects ou Trello (tarefas), e ambiente de desenvolvimento local.
+## 7. Incremento funcional esperado
 
-## Funcionalidades implementadas
+1. Upload simulado de vendas e compras dentro de uma análise já criada.
+2. Processamento simulado dos relatórios.
+3. Indicadores consolidados do período.
+4. Dashboard com os indicadores de forma visual.
+5. Devolutiva estratégica registrada pelo ADMIN.
+6. Visão do CLIENTE com resultados e devolutiva da análise publicada.
 
-Pendente de inclusão pela equipe (lista das funcionalidades efetivamente implementadas nesta sprint, com link para o commit/PR correspondente).
+## 8. Testes básicos previstos
 
-## Testes básicos
+Pendente de inclusão pela equipe (por exemplo: enviar um relatório de exemplo e conferir se os indicadores exibidos correspondem ao esperado).
 
-Pendente de inclusão pela equipe (descrição dos testes realizados, por exemplo processamento de um relatório de exemplo e conferência dos indicadores).
+## 9. Evidências a registrar
 
-## Link do incremento / protótipo
+- Protótipo navegável: [`prototipo/index.html`](../../prototipo/index.html).
+- Link de incremento adicional (se houver): Pendente de inclusão pela equipe.
+- Prints/telas do fluxo, sem dados sensíveis: Pendente de inclusão pela equipe.
 
-Pendente de inclusão pela equipe (link para o incremento funcional ou protótipo desta sprint).
+## 10. Pendências reais
+
+- Registrar o que foi efetivamente implementado, com link para commit/PR.
+- Registrar os testes básicos realizados.
+- Confirmar responsáveis e resultado real da Sprint 2.
+
+## 11. Conclusão
+
+A Sprint 2 concentra o incremento funcional do MVP no protótipo navegável, com foco no fluxo de análise e nos indicadores. Nenhuma implementação concluída é presumida sem registro real da equipe.

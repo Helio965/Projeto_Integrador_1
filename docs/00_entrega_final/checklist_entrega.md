@@ -1,61 +1,68 @@
-# Checklist da Entrega — NEXO
+# Checklist da Entrega — NEXO (PI I)
 
-Este checklist organiza os itens da entrega em quatro categorias, conforme a estrutura esperada para o Projeto Integrador.
+Este checklist usa **status textual** (não checkbox), para deixar claro o estágio real de cada artefato e não passar a impressão de que pendências já estão concluídas.
 
-## 1. Documentação acadêmica
+**Legenda de status:**
 
-| # | Item | Status |
-|---|---|---|
-| 1 | Documento de Visão | [x] |
-| 2 | Plano de Projeto | [x] |
-| 3 | Mapa da Empatia | [x] |
-| 4 | Persona e Jornada do Usuário | [x] |
-| 5 | HMW e Ideação | [x] |
-| 6 | Requisitos Funcionais | [x] |
-| 7 | Requisitos Não Funcionais | [x] |
-| 8 | Índice de Documentos | [x] |
-| 9 | Links da Entrega | [x] |
+- **Aprovado como base** — documento consolidado como base da entrega.
+- **Criado / em revisão** — criado e em revisão pela equipe.
+- **Estrutura criada — pendente de dados reais** — template pronto, dependente de conteúdo real.
+- **Estrutura criada — pendente de teste real** — depende da execução do teste com usuário.
+- **Estrutura criada — pendente de feedback real** — depende do feedback coletado.
+- **Pendente de inclusão pela equipe** — ainda não produzido ou depende de dado/link real.
 
-## 2. Engenharia e processo
+## 1. Documentação-base
 
-| # | Item | Status |
-|---|---|---|
-| 10 | Product Backlog | [x] |
-| 11 | Sprint Backlog | [x] |
-| 12 | Orientação de GitHub Projects / Trello | [x] |
-| 13 | Evidência das Issues do Backlog | [x] |
-| 14 | Sprint Planning | [x] |
-| 15 | Sprint 1 — Acompanhamento | [x] |
-| 16 | Daily Scrum | [x] |
-| 17 | Sprint 2 — Documento Técnico | [x] |
-| 18 | Protótipo navegável (`prototipo/index.html`) | [x] |
+| Item | Status |
+|---|---|
+| Documento de Visão | Aprovado como base |
+| Plano de Projeto | Aprovado como base |
+| Mapa da Empatia | Aprovado como base |
+| Persona e Jornada do Usuário | Aprovado como base |
+| HMW / Ideação | Aprovado como base |
+| Especificação de Requisitos | Aprovado como base |
+| Product Backlog | Aprovado como base |
+| Sprint Backlog | Aprovado como base |
+| Sprint Planning | Aprovado como base |
+| Sprint 1 — Acompanhamento | Aprovado como base |
 
-## 3. Validação e fechamento
+## 2. Processo e execução
 
-| # | Item | Status |
-|---|---|---|
-| 19 | Roteiro de Teste de Usabilidade | [x] |
-| 20 | Relatório de Feedback (estrutura) | [x] |
-| 21 | Documento de Refino (estrutura) | [x] |
-| 22 | Roteiro da Demo | [x] |
-| 23 | README da Demo | [x] |
-| 24 | Roteiro do Pitch | [x] |
-| 25 | Relatório Reflexivo | [x] |
+| Item | Status |
+|---|---|
+| Daily Scrum | Estrutura criada — pendente de dados reais |
+| Sprint 2 | Estrutura criada — pendente de revisão |
+| Protótipo navegável (`prototipo/index.html`) | Criado / em revisão |
+| Roteiro de Teste de Usabilidade | Criado / em revisão |
+| Relatório de Feedback | Estrutura criada — pendente de teste real |
+| Documento de Refino | Estrutura criada — pendente de feedback real |
+| Relatório Reflexivo / Retrospectiva | Estrutura criada — pendente de dados reais |
+| Roteiro da Demo | Criado / em revisão |
+| Roteiro do Pitch | Criado / em revisão |
+| Demo do MVP (vídeo/link) | Pendente de inclusão pela equipe |
+
+## 3. GitHub e links
+
+| Item | Status |
+|---|---|
+| GitHub organizado (estrutura base) | Criado / em revisão |
+| Issues do backlog (recorte inicial) | Criado / em revisão |
+| GitHub Projects/Trello (link do quadro) | Pendente de inclusão pela equipe |
+| Apresentação final (HTML em `apresentacao/`) | Pendente de inclusão pela equipe |
+| Links finais conferidos | Pendente de inclusão pela equipe |
+| Envio no Sala Online/AVA | Pendente de inclusão pela equipe |
 
 ## 4. Pendências humanas reais
 
-| # | Item | Status |
-|---|---|---|
-| 26 | Funções reais dos integrantes no time | [ ] Pendente de inclusão pela equipe |
-| 27 | Link real do GitHub Projects / Trello, caso a equipe use quadro além das Issues | [ ] Pendente de inclusão pela equipe |
-| 28 | Link real do vídeo da demo | [ ] Pendente de inclusão pela equipe |
-| 29 | Dados reais do teste de usabilidade (participante, data, ambiente, duração, feedback) | [ ] Pendente de inclusão pela equipe |
-| 30 | Ajustes reais de refino registrados após o feedback | [ ] Pendente de inclusão pela equipe |
-| 31 | Evidências adicionais do processo, sem dados sensíveis | [ ] Pendente de inclusão pela equipe |
-| 32 | Termo de Anuência assinado, enviado fora do GitHub público (Sala Online) | [ ] Pendente de inclusão pela equipe |
+| Item | Status |
+|---|---|
+| Funções dos integrantes no time | Pendente de inclusão pela equipe |
+| Dados reais do teste de usabilidade | Pendente de inclusão pela equipe |
+| Ajustes reais de refino após feedback | Pendente de inclusão pela equipe |
+| Evidências adicionais, sem dados sensíveis | Pendente de inclusão pela equipe |
+| Termo de Anuência assinado (fora do GitHub público) | Pendente de inclusão pela equipe |
 
 ## Observações
 
-- Os itens das seções 1 a 3 já estão estruturados e disponíveis no repositório.
-- Os itens da seção 4 dependem de informação real da equipe e estão detalhados em [pendencias_humanas.md](pendencias_humanas.md).
-- O Termo de Anuência assinado não deve ser publicado neste repositório. Ver [docs/01_visao_escopo/termo_de_anuencia_orientacao.md](../01_visao_escopo/termo_de_anuencia_orientacao.md).
+- Detalhamento das pendências em [pendencias_reais.md](pendencias_reais.md) e [pendencias_humanas.md](pendencias_humanas.md).
+- O Termo de Anuência assinado não deve ser publicado neste repositório. Ver [orientação](../01_visao_escopo/termo_de_anuencia_orientacao.md).

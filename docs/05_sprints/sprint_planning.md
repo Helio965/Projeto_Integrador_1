@@ -1,59 +1,83 @@
-# Sprint Planning — Planejamento da Sprint
+# Sprint Planning — Planejamento das Sprints
 
 ## 1. Identificação
 
-**Projeto:** NEXO — Faturamento Inteligente
-**Equipe:** Hélio, João Vitor, João Cesar e Carlos Eduardo
-**Disciplina:** Projeto Integrador — Análise e Desenvolvimento de Sistemas
-**Data de referência:** 07/05
-**Unidade:** Unidade 4 — Planejamento da Sprint
+- **Projeto:** NEXO — Faturamento Inteligente
+- **Disciplina:** Projeto Integrador I — Análise e Desenvolvimento de Sistemas
+- **Professora:** Kadidja Valéria Reginaldo de Oliveira
+- **Equipe:** Hélio, João Vitor, João Cesar e Carlos Eduardo
+- **Data de referência:** 07/05
 
 ## 2. Objetivo do documento
 
-Este documento registra o planejamento da Sprint do projeto NEXO — Faturamento Inteligente. O objetivo é demonstrar como a equipe revisou o Product Backlog, selecionou itens prioritários, quebrou histórias em tarefas, estimou esforço e organizou o acompanhamento no GitHub Projects ou Trello.
+Registrar o planejamento das Sprints do NEXO: como a equipe revisou o Product Backlog, selecionou histórias por Sprint, quebrou em tarefas, estimou esforço em pontos e organizou o acompanhamento em quadro digital (GitHub Projects/Trello).
 
-## 3. Objetivos da Sprint Planning
+## 3. Base utilizada
 
-- Entender o propósito do Sprint Planning no Scrum.
-- Revisar o Product Backlog criado anteriormente.
-- Selecionar os itens que serão trabalhados na Sprint.
-- Definir tarefas para cada item selecionado.
-- Estimar esforço em tempo ou pontos de história.
-- Registrar o planejamento em quadro digital.
-- Exercitar colaboração, participação ativa e organização da equipe.
+Planejamento baseado no [Product Backlog](../04_backlog/product_backlog.md) (US01–US22) e detalhado no [Sprint Backlog](../04_backlog/sprint_backlog.md) (tarefas T01–T35).
 
-## 4. Base utilizada
+## 4. Sprint 1 — Base do sistema, cadastros e protótipo
 
-O planejamento da Sprint considera como base o Product Backlog documentado em:
+**Objetivo da Sprint 1:** estruturar o acesso por perfil, os cadastros base, a criação de análise e o protótipo navegável demonstrável.
 
-[Product Backlog](../04_backlog/product_backlog.md)
+**Histórias selecionadas:** US01, US02, US03, US04, US20.
 
-## 5. Objetivo da Sprint
+| Tarefa | História | Pontos |
+|---|---|---|
+| T01 Definir a tela inicial de acesso | US01 | 2 |
+| T02 Criar o fluxo visual para o ADMIN | US01 | 3 |
+| T03 Criar o fluxo visual para o CLIENTE | US01 | 3 |
+| T04 Validar se cada perfil acessa a visão correta | US01 | 2 |
+| T05 Definir os campos do cadastro de empresa | US02 | 1 |
+| T06 Criar a tela/formulário de empresa | US02 | 3 |
+| T07 Simular o registro da empresa no protótipo | US02 | 2 |
+| T08 Definir os campos do usuário CLIENTE | US03 | 1 |
+| T09 Criar a tela/formulário de usuário CLIENTE | US03 | 3 |
+| T10 Simular o vínculo do usuário à empresa | US03 | 2 |
+| T11 Definir os campos da análise por período | US04 | 1 |
+| T12 Criar a tela/etapa de criação da análise | US04 | 3 |
+| T13 Simular a abertura de análise | US04 | 2 |
+| T14 Criar a navegação entre as telas principais | US20 | 5 |
+| T15 Garantir a abertura local em navegador | US20 | 2 |
+| T16 Revisar o fluxo ADMIN → CLIENTE | US20 | 2 |
+| T17 Registrar a evidência do protótipo | US20 | 1 |
 
-Avançar na construção do MVP do NEXO, priorizando o fluxo principal de análise comercial: autenticação, cadastro de empresa, criação de análise, upload dos relatórios, processamento dos dados e visualização dos indicadores.
+**Total Sprint 1: 38 pontos.**
 
-## 6. Itens selecionados para a Sprint
+## 5. Sprint 2 — Fluxo de análise, indicadores e devolutiva
 
-| ID | História de Usuário | Prioridade | Justificativa |
-|---|---|---|---|
-| US-01 | Como ADMIN, quero acessar o sistema com login e senha para administrar empresas e análises. | Must Have | A autenticação é necessária para controlar o acesso ao sistema. |
-| US-02 | Como ADMIN, quero cadastrar uma empresa cliente para vincular usuários e análises. | Must Have | A empresa é a base para organizar os dados comerciais. |
-| US-03 | Como ADMIN, quero criar uma análise por período para organizar os relatórios enviados. | Must Have | A análise representa o ciclo principal de processamento do MVP. |
-| US-04 | Como ADMIN, quero enviar relatórios de vendas e compras para que o sistema processe os dados. | Must Have | O upload dos relatórios é essencial para gerar indicadores. |
-| US-05 | Como ADMIN, quero visualizar indicadores em dashboard para interpretar os resultados da análise. | Should Have | Os dashboards tornam os dados compreensíveis para tomada de decisão. |
+**Objetivo da Sprint 2:** implementar de forma incremental/simulada o upload, o processamento, os indicadores, o dashboard, a devolutiva e a visão do CLIENTE.
 
-## 7. Quebra em tarefas
+**Histórias selecionadas:** US05, US06, US07, US08, US09, US10, US11, US12, US14, US15, US17.
 
-| História | Tarefa | Responsável | Estimativa | Status |
-|---|---|---|---|---|
-| US-01 | Estruturar tela de login e autenticação básica. | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe | Planejado |
-| US-02 | Criar estrutura de cadastro de empresa cliente. | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe | Planejado |
-| US-03 | Criar fluxo de cadastro de análise por período. | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe | Planejado |
-| US-04 | Criar fluxo de upload para relatórios de vendas e compras. | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe | Planejado |
-| US-05 | Estruturar visualização inicial de indicadores/dashboards. | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe | Planejado |
-| Geral | Atualizar documentação da Sprint no GitHub. | Pendente de inclusão pela equipe | Pendente de inclusão pela equipe | Planejado |
+| Tarefa | História | Pontos |
+|---|---|---|
+| T18 Criar a etapa de upload simulado de vendas | US05 | 3 |
+| T19 Indicar que os dados são simulados | US05 | 1 |
+| T20 Criar a etapa de upload simulado de compras | US06 | 3 |
+| T21 Associar compras à análise | US06 | 2 |
+| T22 Criar a etapa visual de processamento | US07 | 3 |
+| T23 Representar ETL de forma compreensível | US07 | 2 |
+| T24 Criar card de faturamento total | US08 | 2 |
+| T25 Criar card de total comprado | US09 | 2 |
+| T26 Criar card do Indicador de Pressão de Estoque | US10 | 3 |
+| T27 Incluir aviso conceitual de que não representa resultado contábil | US10 | 1 |
+| T28 Criar card de produto mais vendido | US11 | 2 |
+| T29 Criar card de produto com maior faturamento | US12 | 2 |
+| T30 Organizar dashboard com cards e gráficos simples | US14 | 5 |
+| T31 Validar legibilidade do dashboard | US14 | 2 |
+| T32 Criar área de devolutiva estratégica | US15 | 3 |
+| T33 Simular registro da devolutiva | US15 | 2 |
+| T34 Criar tela de visualização do CLIENTE | US17 | 3 |
+| T35 Exibir resultados publicados ao CLIENTE | US17 | 2 |
 
-## 8. Estrutura do quadro no GitHub Projects/Trello
+**Total Sprint 2: 48 pontos.**
+
+## 6. Responsáveis e estimativas
+
+Responsáveis por tarefa: **Pendente de inclusão pela equipe**. As estimativas em pontos são uma referência de planejamento e podem ser revistas pela equipe durante a execução.
+
+## 7. Estrutura do quadro no GitHub Projects/Trello
 
 | Coluna | Finalidade |
 |---|---|
@@ -63,30 +87,10 @@ Avançar na construção do MVP do NEXO, priorizando o fluxo principal de análi
 | Review/Testing | Tarefas concluídas que precisam de revisão ou teste. |
 | Done | Tarefas finalizadas e aprovadas. |
 
-## 9. Modelo de cartão
+## 8. Pendências
 
-Cada cartão do quadro deve conter:
-
-- Título da história ou tarefa.
-- Descrição do que será feito.
-- Responsável.
-- Estimativa.
-- Prioridade.
-- Status.
-- Evidência ou link relacionado, quando existir.
-
-## 10. Critérios de avaliação
-
-- Clareza e organização do plano.
-- Participação ativa dos membros da equipe.
-- Aderência às práticas do Scrum.
-- Planejamento realista e viável.
-- Registro do planejamento no GitHub Projects ou Trello.
-
-## 11. Pendências
-
-- Definir função de cada integrante no time.
+- Definir a função de cada integrante no time.
 - Registrar responsáveis reais por tarefa.
-- Registrar estimativas reais.
-- Inserir link do GitHub Projects ou Trello.
+- Confirmar/ajustar estimativas.
+- Inserir o link do GitHub Projects ou Trello.
 - Atualizar evidências conforme as tarefas forem executadas.

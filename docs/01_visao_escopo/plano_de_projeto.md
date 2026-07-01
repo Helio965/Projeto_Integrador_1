@@ -3,7 +3,8 @@
 ## 1. Identificação
 
 - **Projeto:** NEXO — Faturamento Inteligente
-- **Disciplina:** Projeto Integrador — Análise e Desenvolvimento de Sistemas
+- **Disciplina:** Projeto Integrador I — Análise e Desenvolvimento de Sistemas
+- **Professora:** Kadidja Valéria Reginaldo de Oliveira
 - **Período letivo:** Pendente de inclusão pela equipe
 
 ## 2. Equipe e papéis

@@ -3,7 +3,8 @@
 ## 1. Identificação do projeto
 
 - **Projeto:** NEXO — Faturamento Inteligente
-- **Disciplina:** Projeto Integrador — Análise e Desenvolvimento de Sistemas
+- **Disciplina:** Projeto Integrador I — Análise e Desenvolvimento de Sistemas
+- **Professora:** Kadidja Valéria Reginaldo de Oliveira
 - **Equipe:** Hélio, João Vitor, João Cesar, Carlos Eduardo
 
 ## 2. Contexto
@@ -44,7 +45,7 @@ Plataforma web com perfis ADMIN e CLIENTE, na qual o ADMIN cadastra empresas, cr
 - Cadastro de empresa.
 - Cadastro de usuário cliente vinculado à empresa.
 - Cadastro ou associação de segmento.
-- Controle de plano BRONZE, PRATA ou OURO.
+- Registro do plano da empresa (regra de negócio secundária; ver nota abaixo).
 - Criação de análise por período.
 - Upload de relatório de VENDAS e de COMPRAS.
 - Processamento dos relatórios com Pandas.
@@ -53,13 +54,14 @@ Plataforma web com perfis ADMIN e CLIENTE, na qual o ADMIN cadastra empresas, cr
 - Devolutiva estratégica para o cliente.
 - Histórico de análises publicadas.
 
-### Planos
+### Planos (detalhe secundário)
 
-- **BRONZE:** análise mensal.
-- **PRATA:** análise mensal.
-- **OURO:** permite análise quinzenal.
+Os planos são uma **regra de negócio secundária** do produto e **não são o centro da entrega de Projeto Integrador I**. São registrados aqui apenas como possibilidade de evolução do produto:
 
-A regra de análise quinzenal para o plano OURO é tratada como regra de negócio na aplicação Flask, e não como restrição (CHECK) no banco de dados.
+- Planos diferenciam a periodicidade permitida das análises (por exemplo, períodos de análise distintos conforme o nível do plano).
+- Quando aplicada, essa regra é tratada na camada de aplicação (Flask), não como restrição no banco de dados.
+
+O foco da entrega é o fluxo de análise (upload → processamento → indicadores → devolutiva), independentemente do plano.
 
 ### Indicadores
 
@@ -81,7 +83,7 @@ O Indicador de Pressão de Estoque é um sinal gerencial de descasamento entre c
 - Integração automática com PDV via API.
 - Aplicativo mobile nativo.
 - Machine learning ou análise preditiva.
-- Ticket médio, dia de pico e horário de pico de vendas como indicadores ativos.
+- Indicadores estatísticos avançados de vendas (métricas de sazonalidade ou de comportamento temporal de compra) como indicadores ativos.
 
 ## 11. Benefícios esperados
 
