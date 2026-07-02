@@ -4,6 +4,8 @@ Plataforma web de análise de dados comerciais para pequenos comércios, desenvo
 
 > Este repositório organiza os artefatos digitais da entrega acadêmica do Projeto Integrador I. A documentação, o backlog, os roteiros e o protótipo navegável estão estruturados; itens que dependem de execução real da equipe permanecem identificados de forma transparente. Ver [pendências reais](docs/00_entrega_final/pendencias_reais.md).
 
+**Comece por aqui:** [Guia de Entrega Final](LEIA-ME_ENTREGA_FINAL.md) · [Protótipo navegável](prototipo/index.html) · [Apresentação final (HTML)](apresentacao/nexo_apresentacao_pi1_final_corrigido_v2.html)
+
 ## Descrição
 
 O NEXO importa relatórios de vendas e compras exportados por sistemas de PDV, processa esses dados, gera indicadores gerenciais, apresenta dashboards e disponibiliza uma devolutiva estratégica ao cliente. A solução atua como uma consultoria orientada por dados, com portal digital próprio.
@@ -165,6 +167,7 @@ Ver [docs/00_entrega_final/links_entrega.md](docs/00_entrega_final/links_entrega
 | Apresentação | Roteiro da Demo | [Abrir](docs/08_apresentacao_demo/roteiro_demo.md) |
 | Apresentação | Roteiro do Pitch | [Abrir](docs/08_apresentacao_demo/roteiro_pitch.md) |
 | Apresentação | Estrutura da Apresentação | [Abrir](apresentacao/estrutura_apresentacao.md) |
+| Apresentação | Apresentação final (HTML) | [Abrir](apresentacao/nexo_apresentacao_pi1_final_corrigido_v2.html) |
 | Retrospectiva/Extensão | Relatório Reflexivo | [Abrir](docs/09_retrospectiva_extensao/relatorio_reflexivo.md) |
 | Protótipo | Protótipo navegável | [Abrir](prototipo/index.html) |
 | Protótipo | README do Protótipo | [Abrir](prototipo/README.md) |
