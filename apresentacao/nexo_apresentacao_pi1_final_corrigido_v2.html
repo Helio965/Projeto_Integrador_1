@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NEXO — Faturamento Inteligente | Apresentação Final PI I</title>
+<style>
+  :root{
+    --bg:#0f1720; --panel:#151f2b; --ink:#eef3f8; --muted:#9fb0c0;
+    --accent:#4aa3df; --accent-2:#63c6a8; --line:#263444; --chip:#1d2a38;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html,body{height:100%}
+  body{
+    font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;
+    background:var(--bg); color:var(--ink); overflow:hidden;
+  }
+  #deck{height:100vh;width:100vw;position:relative}
+  .slide{
+    position:absolute;inset:0;display:none;flex-direction:column;
+    justify-content:center;padding:6vh 8vw;animation:fade .35s ease;
+  }
+  .slide.active{display:flex}
+  @keyframes fade{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+  .kicker{color:var(--accent);font-weight:700;letter-spacing:.08em;text-transform:uppercase;font-size:.8rem;margin-bottom:.6rem}
+  h1{font-size:clamp(2rem,5vw,3.6rem);line-height:1.05;margin-bottom:1rem}
+  h2{font-size:clamp(1.5rem,3.4vw,2.4rem);margin-bottom:1.2rem}
+  p{color:var(--ink);font-size:clamp(1rem,1.7vw,1.25rem);max-width:60ch;line-height:1.5;margin-bottom:.8rem}
+  .muted{color:var(--muted)}
+  ul{margin:.4rem 0 0 1.1rem;max-width:70ch}
+  li{font-size:clamp(1rem,1.6vw,1.2rem);line-height:1.6;margin-bottom:.35rem}
+  .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1rem;margin-top:1rem}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:1.1rem 1.2rem}
+  .card h3{color:var(--accent-2);font-size:1.05rem;margin-bottom:.4rem}
+  .card p{font-size:1rem;margin:0}
+  .chips{display:flex;flex-wrap:wrap;gap:.5rem;margin-top:1rem}
+  .chip{background:var(--chip);border:1px solid var(--line);color:var(--ink);border-radius:999px;padding:.35rem .8rem;font-size:.9rem}
+  .note{background:var(--panel);border-left:4px solid var(--accent-2);border-radius:8px;padding:.9rem 1.1rem;margin-top:1.1rem;color:var(--muted);max-width:70ch}
+  .cover{background:radial-gradient(1200px 600px at 20% -10%,#1b2c3d, var(--bg))}
+  .meta{margin-top:1.4rem;color:var(--muted);font-size:1.05rem;line-height:1.8}
+  .flow{display:flex;flex-wrap:wrap;gap:.5rem;align-items:center;margin-top:1rem}
+  .flow span{background:var(--chip);border:1px solid var(--line);border-radius:8px;padding:.4rem .7rem;font-size:.9rem}
+  .flow b{color:var(--accent)}
+  footer{position:absolute;bottom:2.2vh;left:8vw;right:8vw;display:flex;justify-content:space-between;align-items:center;color:var(--muted);font-size:.82rem;border-top:1px solid var(--line);padding-top:.7rem}
+  .nav{position:absolute;bottom:2vh;right:8vw;display:flex;gap:.5rem;z-index:5}
+  .nav button{background:var(--panel);color:var(--ink);border:1px solid var(--line);border-radius:8px;padding:.4rem .7rem;font-size:1rem;cursor:pointer}
+  .nav button:hover{border-color:var(--accent)}
+  .progress{position:absolute;top:0;left:0;height:4px;background:var(--accent);transition:width .3s}
+  .cols{display:grid;grid-template-columns:1fr 1fr;gap:1.5rem}
+  @media(max-width:720px){.cols{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<div class="progress" id="progress"></div>
+<div id="deck">
+
+  <section class="slide cover active">
+    <div class="kicker">Projeto Integrador I — Análise e Desenvolvimento de Sistemas</div>
+    <h1>NEXO — Faturamento Inteligente</h1>
+    <p class="muted">Um protótipo acadêmico que transforma relatórios de vendas e compras de pequenos comércios em leitura gerencial simples e visual.</p>
+    <div class="meta">
+      <div><b>Professora:</b> Kadidja Valéria Reginaldo de Oliveira</div>
+      <div><b>Equipe:</b> Hélio, João Vitor, João Cesar e Carlos Eduardo</div>
+      <div><b>Cliente/validação:</b> Alterna Tintas</div>
+    </div>
+  </section>
+
+  <section class="slide">
+    <div class="kicker">1. Problema</div>
+    <h2>Dados existem, decisão não</h2>
+    <p>Pequenos comércios possuem relatórios de vendas e compras gerados por sistemas de PDV, mas não conseguem transformar esses dados em informações gerenciais claras para apoiar decisões comerciais.</p>
+    <div class="note">O gestor vê números soltos, mas não identifica com clareza o que vende mais, o que mais impacta o faturamento e o que pode estar parado no estoque.</div>
+  </section>
+
+  <section class="slide">
+    <div class="kicker">2. Público-alvo e persona</div>
+    <h2>Quem usa o NEXO</h2>
+    <ul>
+      <li>Pequenos comércios independentes.</li>
+      <li>Recorte inicial: lojas de tintas e materiais de pintura.</li>
+    </ul>
+    <div class="note"><b>Persona:</b> Marcos Almeida — persona fictícia representativa do dono/gestor de uma loja de tintas, com experiência prática, mas sem estrutura analítica.</div>
+  </section>
+
+  <section class="slide">
+    <div class="kicker">3. Design Thinking</div>
+    <h2>Da dor à solução</h2>
+    <div class="grid">
+      <div class="card"><h3>Empatia</h3><p>Mapa da Empatia com as dores e necessidades do gestor.</p></div>
+      <div class="card"><h3>Definição</h3><p>Persona e Jornada do Usuário para entender o contexto de uso.</p></div>
+      <div class="card"><h3>Ideação</h3><p>HMW / Ideação conectando dores a funcionalidades do protótipo.</p></div>
+    </div>
+  </section>
+
+  <section class="slide">
+    <div class="kicker">4. HMW / Ideação</div>
+    <h2>Como poderíamos…</h2>
+    <p>Como poderíamos ajudar o pequeno comerciante a transformar seus relatórios de vendas e compras em uma leitura gerencial simples, visual e útil para decidir?</p>
+    <ul>
+      <li>Organizar os dados em indicadores compreensíveis.</li>
+      <li>Apresentar um dashboard claro.</li>
+      <li>Entregar uma devolutiva estratégica em linguagem de negócio.</li>
+    </ul>
+  </section>
+
+  <section class="slide">
+    <div class="kicker">5. Solução e MVP</div>
+    <h2>Fluxo principal</h2>
+    <div class="flow">
+      <span><b>ADMIN</b> cadastra empresa</span>→
+      <span>cria análise por período</span>→
+      <span>upload simulado (vendas/compras)</span>→
+      <span>processamento</span>→
+      <span>indicadores</span>→
+      <span>dashboard</span>→
+      <span>devolutiva</span>→
+      <span><b>CLIENTE</b> visualiza</span>
+    </div>
+    <div class="note">Perfis ADMIN e CLIENTE, com histórico básico de análises.</div>
+  </section>
+
+  <section class="slide">
+    <div class="kicker">6. Requisitos e escopo</div>
+    <h2>O que entra no PI I</h2>
+    <div class="cols">
+      <div>
+        <h3 class="muted">Dentro do escopo</h3>
+        <ul>
+          <li>Login simulado e perfis.</li>
+          <li>Cadastros, análise e upload simulado.</li>
+          <li>Processamento, indicadores e dashboard.</li>
+          <li>Devolutiva e visão do CLIENTE.</li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="muted">Fora do escopo</h3>
+        <ul>
+          <li>Cobrança, faturas e cliente vencido.</li>
+          <li>Integração automática com PDV.</li>
+          <li>Aplicativo mobile e ML preditivo.</li>
+          <li>Cálculo de lucro, margem ou rentabilidade.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="slide">
+    <div class="kicker">7. Backlog e GitHub</div>
+    <h2>Organização ágil</h2>
+    <ul>
+      <li>Product Backlog priorizado em <b>US01–US22</b> (MoSCoW).</li>
+      <li>Sprint Backlog com tarefas <b>T01–T35</b> e estimativa em pontos.</li>
+      <li>Repositório organizado como portfólio completo do PI I.</li>
+    </ul>
+    <div class="chips">
+      <span class="chip">Documentação</span><span class="chip">Design Thinking</span><span class="chip">Requisitos</span>
+      <span class="chip">Backlog</span><span class="chip">Sprints</span><span class="chip">Protótipo</span>
+      <span class="chip">Validação</span><span class="chip">Refino</span><span class="chip">Apresentação</span>
+    </div>
+  </section>
+
+  <section class="slide">
+    <div class="kicker">8. Sprints</div>
+    <h2>Evolução incremental</h2>
+    <p>As sprints organizaram a evolução do protótipo, conectando planejamento, documentação, implementação incremental, validação com cliente e refino da solução.</p>
+    <div class="grid">
+      <div class="card"><h3>Sprint 1</h3><p>Base do sistema, cadastros e protótipo navegável.</p></div>
+      <div class="card"><h3>Sprint 2</h3><p>Upload, processamento, indicadores, dashboard, devolutiva e visão CLIENTE.</p></div>
+    </div>
+  </section>
+
+  <section class="slide">
+    <div class="kicker">9. Protótipo</div>
+    <h2>Demonstração navegável</h2>
+    <p>Protótipo em HTML, CSS e JavaScript, executado localmente com dados simulados. Demonstra o fluxo ADMIN → CLIENTE de ponta a ponta.</p>
+    <div class="note">Indicador de Pressão de Estoque: sinal gerencial de descasamento entre compras e vendas no período. Não representa lucro, margem, rentabilidade, prejuízo ou apuração contábil.</div>
+  </section>
+
+  <section class="slide">
+    <div class="kicker">10. Validação com cliente</div>
+    <h2>Alterna Tintas</h2>
+    <p>O protótipo foi apresentado à Alterna Tintas, cliente real do contexto analisado. O retorno foi positivo: o cliente aprovou a proposta, relatou que não havia pensado em uma solução desse tipo e percebeu valor prático no apoio à leitura dos dados e à tomada de decisão.</p>
+    <div class="note">A validação reforçou que o problema é real: pequenos comércios têm dados, mas precisam de uma forma mais simples e gerencial de interpretá-los.</div>
+  </section>
+
+  <section class="slide">
+    <div class="kicker">11. Refino</div>
+    <h2>O que melhoramos</h2>
+    <ul>
+      <li>Clareza dos indicadores e da devolutiva para o perfil do gestor.</li>
+      <li>Reforço da leitura visual do dashboard.</li>
+      <li>Mensagens explicativas para interpretação sem apoio técnico.</li>
+    </ul>
+  </section>
+
+  <section class="slide">
+    <div class="kicker">12. Conclusão e evolução futura</div>
+    <h2>Próximos passos</h2>
+    <p>O NEXO demonstra, como protótipo acadêmico, um fluxo completo de leitura gerencial de dados comerciais, validado com um cliente real.</p>
+    <div>
+      <h3 class="muted">Evolução futura</h3>
+      <div class="chips">
+        <span class="chip">Python</span><span class="chip">Flask</span><span class="chip">SQLite</span>
+        <span class="chip">Pandas</span><span class="chip">Dashboards dinâmicos</span>
+        <span class="chip">Autenticação real</span><span class="chip">Banco de dados real</span>
+      </div>
+    </div>
+  </section>
+
+</div>
+
+<div class="nav">
+  <button id="prev" aria-label="Anterior">‹</button>
+  <button id="next" aria-label="Próximo">›</button>
+</div>
+<footer>
+  <span>NEXO — Faturamento Inteligente · Projeto Integrador I</span>
+  <span id="counter"></span>
+</footer>
+
+<script>
+  const slides = Array.from(document.querySelectorAll('.slide'));
+  let i = 0;
+  const progress = document.getElementById('progress');
+  const counter = document.getElementById('counter');
+  function show(n){
+    i = Math.max(0, Math.min(slides.length-1, n));
+    slides.forEach((s,idx)=>s.classList.toggle('active', idx===i));
+    progress.style.width = ((i+1)/slides.length*100) + '%';
+    counter.textContent = (i+1) + ' / ' + slides.length;
+  }
+  document.getElementById('next').onclick = ()=>show(i+1);
+  document.getElementById('prev').onclick = ()=>show(i-1);
+  document.addEventListener('keydown', e=>{
+    if(e.key==='ArrowRight'||e.key===' '||e.key==='PageDown'){show(i+1);e.preventDefault();}
+    if(e.key==='ArrowLeft'||e.key==='PageUp'){show(i-1);e.preventDefault();}
+    if(e.key==='Home'){show(0);}
+    if(e.key==='End'){show(slides.length-1);}
+  });
+  show(0);
+</script>
+</body>
+</html>
